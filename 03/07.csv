@@ -1,0 +1,323 @@
+"astro-ph/0403167","Rychard J. Bouwens","R.J. Bouwens (UC Santa Cruz), G.D. Illingworth (UC Santa Cruz), R.I.
+  Thompson (U of Arizona), J.P. Blakeslee (JHU), M.E. Dickinson (NOAO), T.J.
+  Broadhurst (HUJ), D.J. Eisenstein (U of Arizona), X. Fan (U of Arizona), M.
+  Franx (Leiden), G. Meurer (JHU), P. van Dokkum (Yale)","Star Formation at z~6: The UDF-Parallel ACS Fields","5 pages, 5 figures, accepted for publication in the Astrophysical
+  Journal Letters, labelling to the left-hand axis of Figure 4 corrected",,"10.1086/421016",,"astro-ph",,"  We report on the i-dropouts detected in two exceptionally deep ACS fields
+(B_{435}, V_{606}, i_{775}, and z_{850} with 10 sigma limits of 28.8, 29.0,
+28.5, and 27.8, respectively) taken in parallel with the UDF NICMOS
+observations. Using an i-z>1.4 cut, we find 30 i-dropouts over 21 arcmin^2 down
+to z_AB=28.1, or 1.4 i-dropouts arcmin^{-2}, with significant field-to-field
+variation (as expected from cosmic variance). This extends i-dropout searches
+some ~0.9^m further down the luminosity function than was possible in the GOODS
+field, netting a ~7x increase in surface density. An estimate of the size
+evolution for UV bright objects is obtained by comparing the composite radial
+flux profile of the bright i-dropouts (z<27.2) with scaled versions of the
+HDF-N + HDF-S U-dropouts. The best-fit is found with a (1+z)^{-1.57_{-0.53}
+^{+0.50}} scaling in size (for fixed luminosity), extending lower redshift
+(1<z<5) trends to z~6. Adopting this scaling and the brighter i-dropouts from
+both GOODS fields, we make incompleteness estimates and construct a z~6 LF in
+the rest-frame continuum UV (~1350 A) over a 3.5 magnitude baseline, finding a
+shape consistent with that found at lower redshift. To evaluate the evolution
+in the LF from z~3.8, we make comparisons against different scalings of a lower
+redshift B-dropout sample. Though a strong degeneracy is found between
+luminosity and density evolution, our best-fit model scales as (1+z)^{-2.8} in
+number and (1+z)^0.1 in luminosity, suggesting a rest-frame continuum UV
+luminosity density at z~6 which is just 0.38_{-0.07} ^{+0.09}x that at z~3.8.
+Our inclusion of size evolution makes the present estimate lower than previous
+z~6 estimates.
+","[{""version"":""v1"",""created"":""Sat, 6 Mar 2004 21:07:14 GMT""},{""version"":""v2"",""created"":""Mon, 15 Mar 2004 20:21:05 GMT""},{""version"":""v3"",""created"":""Sat, 20 Mar 2004 23:22:30 GMT""}]","2015-09-23"
+"astro-ph/0403168","Zhuo Li","Zhuo Li and Li-Ming Song","Prompt Ultraviolet-to-Soft-X-Ray Emission of Gamma-Ray Bursts:
+  Application to GRB 031203?","ApJL accepted, shortened to match the 4 page limit, aastex style","Astrophys.J. 608 (2004) L17-L21","10.1086/422098",,"astro-ph",,"  We discuss the prompt emission of GRBs, allowing for $\gamma\gamma$ pair
+production and synchrotron self-absorption. The observed hard spectra suggest
+heavy pair-loading in GRBs. The re-emission of the generated pairs results in
+the energy transmission from high-energy gamma-rays to long-wavelength
+radiation. Due to strong self-absorption, the synchrotron radiation by pairs is
+in optically thick regime, showing a thermal-like spectral bump in the
+extreme-ultraviolet/soft X-ray band, other than the peak from the main burst.
+Recently, the prompt soft X-ray emission of GRB 031203 was detected thanks to
+the discovery of a delayed dust echo, and it seems to be consistent with the
+model prediction of a double-peak structure. The confirmation of the
+thermal-like feature and the double-peak structure by observation would
+indicate that the dominant radiation mechanism in GRBs is synchrotron rather
+than inverse-Compton radiation.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 08:24:35 GMT""},{""version"":""v2"",""created"":""Fri, 23 Apr 2004 01:36:39 GMT""}]","2009-11-10"
+"cond-mat/0403187","Jaime Merino","J. Merino (1) and O. Gunnarsson (2) ((1) Universidad Autonoma de
+  Madrid, (2) Max-Planck-Institut, Stuttgart)","Role of surface states in STM spectroscopy of (111) metal surfaces with
+  Kondo adsorbates","4 pages, 3 eps figures",,"10.1103/PhysRevLett.93.156601",,"cond-mat.str-el cond-mat.mtrl-sci",,"  A nearly-free-electron (NFE) model to describe STM spectroscopy of (111)
+metal surfaces with Kondo impurities is presented. Surface states are found to
+play an important role giving a larger contribution to the conductance in the
+case of Cu(111) and Au(111) than Ag(111) surfaces. This difference arises from
+the farther extension of the Ag(111) surface state into the substrate. The
+different line shapes observed when Co is adsorbed on different substrates can
+be explained from the position of the surface band onset relative to the Fermi
+energy. The lateral dependence of the line shape amplitude is found to be
+bulk-like for R|| < 4 Amstrongs and surface-like at larger distances, in
+agreement with experimental data.
+","[{""version"":""v1"",""created"":""Sat, 6 Mar 2004 17:53:17 GMT""}]","2009-11-10"
+"cond-mat/0403188","Ning-Hua Tong","Ning-Hua Tong, Shun-Qing Shen, Ralf Bulla","Charge ordering and phase separation in the infinite dimensional
+  extended Hubbard model","9 pages, 7 figures, submitted to Phys. Rev. B","Phys. Rev. B 70, 085118 (2004)","10.1103/PhysRevB.70.085118",,"cond-mat.str-el",,"  We study the extended Hubbard model with both on-site (U) and nearest
+neighbor (V) Coulomb repulsion using the exact diagonalization method within
+the dynamical mean field theory. For a fixed U (U=2.0), the T-n phase-diagrams
+are obtained for V=1.4 and V=1.2, at which the ground states of n=1/2 system is
+charge-ordered and charge-disordered, respectively. In both cases, robust
+charge order is found at finite temperature and in an extended filling regime
+around n=1/2. The order parameter changes non-monotonously with temperature.
+For V=1.4, phase separation between charge-ordered and charge-disordered phases
+is observed in the low temperature and n < 0.5 regime. It is described by an
+""S""-shaped structure of the n-/mu curve. For V=1.2, the ground state is
+charge-disordered, and a reentrant charge-ordering transition is observed for
+0.42 < n < 0.68. Relevance of our results to experiments for doped manganites
+is discussed.
+","[{""version"":""v1"",""created"":""Sat, 6 Mar 2004 18:45:54 GMT""}]","2009-11-10"
+"cond-mat/0403189","S. Sahrakorpi","A. Bansil, R.S. Markiewicz, C. Kusko, M. Lindroos, and S. Sahrakorpi","Matrix Element and Strong Electron Correlation Effects in ARPES from
+  Cuprates","5 pages, 4 figures, accepted to be published in Journal of Physics
+  and Chemistry of Solids",,"10.1016/j.jpcs.2003.12.010",,"cond-mat.supr-con cond-mat.str-el",,"  We discuss selected results from our recent work concerning the ARPES
+(angle-resolved photoemission) spectra from the cuprates. Our focus is on
+developing an understanding of the effects of the ARPES matrix element and
+those of strong electron correlations in analyzing photointensities. With
+simulations on Bi$_2$Sr$_2$CaCu$_2$O$_{8+\delta}$ (Bi2212), we show that the
+ARPES matrix element possesses remarkable selectivity properties, such that by
+tuning the photon energy and polarization, emission from the bonding or the
+antibonding states can be enhanced. Moreover, at low photon energies (below 25
+eV), the Fermi surface (FS) emission is dominated by transitions from just the
+O-atoms in the CuO$_2$ planes. In connection with strong correlation effects,
+we consider the evolution with doping of the FS of
+Nd$_{2-x}$Ce$_x$CuO$_{4\pm\delta}$ (NCCO) in terms of the $t$-$t'$-$U$ Hubbard
+model Hamiltonian. We thus delineate how the FS evolves on electron doping from
+the insulating state in NCCO. The Mott pseudogap is found to collapse around
+optimal doping suggesting the existence of an associated quantum critical
+point.
+","[{""version"":""v1"",""created"":""Sat, 6 Mar 2004 20:52:36 GMT""}]","2009-11-10"
+"cond-mat/0403190","Mohammad Mardaani","Mohammad Mardaani, Keivan Esfarjani","Analytical results in coherent quantum transport for periodic quantum
+  dot","7 Pages, 3 figures",,,,"cond-mat.mtrl-sci cond-mat.mes-hall",,"  In this paper we have calculated electron transport coefficient in ballistic
+regime through a periodic dot sandwiched between uniform leads. We have
+calculated the Green's function (GF), density of states (Dos) and the coherent
+transmission coefficient (conductance) fully analytically. The quasi gap, bound
+states energies, the energy and wire-length dependence of the GF and
+conductance for this system are also derived.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 00:51:56 GMT""}]","2016-08-31"
+"cond-mat/0403191","Kamran Vakili","K. Vakili, Y. P. Shkolnikov, E. Tutuc, E. P. De Poortere, M. Shayegan","Spin susceptibility of two-dimensional electrons in narrow AlAs quantum
+  wells","4+ pages, 4 figures. Dotted line added to Fig. 4(a) to clarify the
+  QMC calculation","Phys. Rev. Lett. 92, 226401 (2004)","10.1103/PhysRevLett.92.226401",,"cond-mat.mes-hall cond-mat.str-el",,"  We report measurements of the spin susceptibility in dilute two-dimensional
+electrons confined to a 45$\AA$ wide AlAs quantum well. The electrons in this
+well occupy an out-of-plane conduction-band valley, rendering a system similar
+to two-dimensional electrons in Si-MOSFETs but with only one valley occupied.
+We observe an enhancement of the spin susceptibility over the band value that
+increases as the density is decreased, following closely the prediction of
+quantum Monte Carlo calculations and continuing at finite values through the
+metal-insulator transition.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 01:24:37 GMT""},{""version"":""v2"",""created"":""Tue, 16 Mar 2004 23:09:26 GMT""}]","2009-11-10"
+"cond-mat/0403192","Thomas Sch\""urmann","Thomas Sch\""urmann","Bias Analysis in Entropy Estimation","5 pages, 3 figures","J. Phys. A: Math. Gen. 37 (2004) L295-L301","10.1088/0305-4470/37/27/L02",,"cond-mat.stat-mech math-ph math.MP physics.data-an",,"  We consider the problem of finite sample corrections for entropy estimation.
+New estimates of the Shannon entropy are proposed and their systematic error
+(the bias) is computed analytically. We find that our results cover correction
+formulas of current entropy estimates recently discussed in literature. The
+trade-off between bias reduction and the increase of the corresponding
+statistical error is analyzed.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 10:37:59 GMT""},{""version"":""v2"",""created"":""Fri, 4 Jun 2004 15:04:00 GMT""},{""version"":""v3"",""created"":""Mon, 19 Jul 2004 19:18:53 GMT""}]","2009-11-10"
+"cond-mat/0403193","Wolfgang Barthel","Wolfgang Barthel and Alexander K. Hartmann","Clustering analysis of the ground-state structure of the vertex-cover
+  problem","12 pages, 10 figures","Phys. Rev. E 70, 066120 (2004)","10.1103/PhysRevE.70.066120",,"cond-mat.dis-nn",,"  Vertex cover is one of the classical NP-complete problems in theoretical
+computer science. A vertex cover of a graph is a subset of vertices such that
+for each edge at least one of the two endpoints is contained in the subset.
+When studied on Erdos-Renyi random graphs (with connectivity c) one observes a
+threshold behavior: In the thermodynamic limit the size of the minimal vertex
+cover is independent of the specific graph. Recent analytical studies show that
+on the phase boundary, for small connectivities c<e, the system is replica
+symmetric, while for larger connectivities replica symmetry breaking occurs.
+This change coincides with a change of the typical running time of algorithms
+from polynomial to exponential.
+  To understand the reasons for this behavior and to compare with the
+analytical results, we numerically analyze the structure of the solution
+landscape. For this purpose, we have also developed an algorithm, which allows
+the calculation of the backbone, without the need to enumerate all solutions.
+We study exact solutions found with a Branch-and-Bound algorithm as well as
+configurations obtained via a Monte Carlo simulation.
+  We analyze the cluster structure of the solution landscape by direct
+clustering of the states, by analyzing the eigenvalue spectrum of correlation
+matrices and by using a hierarchical clustering method. All results are
+compatible with a change at c=e. For small connectivities, the solutions are
+collected in a finite small number of clusters, while the number of cluster
+diverges slowly with system size for larger connectivities and replica symmetry
+breaking, but not 1-RSB, occurs.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 13:33:35 GMT""},{""version"":""v2"",""created"":""Thu, 15 Jul 2004 16:16:17 GMT""}]","2007-05-23"
+"gr-qc/0403030","Jiliang Jing","M. Giammatteo and Jiliang Jing","Dirac quasinormal frequencies in Schwarzschild-AdS space-time","13 pages, 6 figures","Phys.Rev. D71 (2005) 024007","10.1103/PhysRevD.71.024007",,"gr-qc astro-ph hep-th",,"  We investigate the quasinormal mode frequencies for the massless Dirac field
+in static four dimensional $AdS$ space-time. The separation of the Dirac
+equation is achieved for the first time in $AdS$ space. Besides the relevance
+that this calculation can have in the framework of the $AdS/CFT$ correspondence
+between M-theory on $AdS_4\times S^7$ and SU(N) super Yang-Mills theory on
+$M_3$, it also serves to fill in a gap in the literature, which has only been
+concerned with particles of integral spin $0,1,2$.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 05:53:19 GMT""},{""version"":""v2"",""created"":""Sat, 25 Dec 2004 08:08:22 GMT""}]","2009-11-10"
+"hep-ex/0403012","Leslie C. Bland","L.C. Bland (for the STAR collaboration)","STAR Results from Polarized Proton Collisions at RHIC","10 pages, 6 figures; Invited talk by L.C. Bland at the Xth Advanced
+  Research Workshop on High Energy Spin Physics (DUBNA-SPIN-03), Sept. 16-20,
+  2003, Dubna, to appear in the Proceedings",,,,"hep-ex",,"  This talk reports on progress from the first two years of polarized proton
+collisions at the Relativistic Heavy Ion Collider (RHIC) at Brookhaven National
+Laboratory (BNL). STAR is one of the two large experiments at RHIC. It features
+large acceptance spanning a broad range of rapidity. The long-term goals of the
+STAR spin program are to measure the gluon contribution to the proton's spin;
+determine the contribution of specific quark flavors to the spin of the proton
+through the study of spin observables for vector boson production, and to
+determine the transversity structure function. The study of polarized proton
+collisions at $\sqrt{s}$=200 and 500 GeV is expected to provide important
+insight into the spin structure of the proton, revealing the contributions to
+the spin sum rule either from gluons or from the orbital motion of the partons.
+Selected STAR results from the study of polarized proton collisions during the
+first two runs are presented.
+","[{""version"":""v1"",""created"":""Sat, 6 Mar 2004 17:50:58 GMT""}]","2019-08-14"
+"hep-ex/0403013","Christian Schwanenberger","C. Schwanenberger","A review of searches for R-parity-violating SUSY","3 pages, 6 figures, talk given at ""International Europhysics
+  Conference on High-Energy Physics (EPS 2003)"", July 17 -- 23, 2003, Aachen,
+  Germany","Eur.Phys.J.C33:s752-s754,2004","10.1140/epjcd/s2003-03-813-9",,"hep-ex",,"  Searches for pair and single production of supersymmetric particles under the
+assumption that R-parity is violated via a single dominant coupling are
+presented. A subset of the most recent results from LEP, Tevatron and HERA is
+selected. The data are in agreement with the Standard Model expectation. Limits
+on the production cross sections and the masses of supersymmetric particles are
+derived.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 09:26:29 GMT""}]","2011-09-13"
+"hep-ph/0403073","Yuriy Mishchenko","Chueng-Ryong Ji and Yuriy Mishchenko","Time-to-space conversion in quantum field theory of flavor mixing",,"Annals Phys. 315 (2005) 488-504","10.1016/j.aop.2004.09.004",,"hep-ph",,"  We consider the problem of time-to-space conversion in quantum field theory
+of flavor mixing using a generalization of the wave-packet method in quantum
+mechanics. We work entirely within the canonical formalism of creation and
+annihilation operators that allows us, unlike the usual wave-packet
+formulation, to include the nontrivial effect due to flavor condensation in the
+vacuum.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 01:36:15 GMT""}]","2009-11-10"
+"hep-ph/0403074","Yue Chongxing","Chongxing Yue, Dongqi Yu, Zhengjun Zong","Neutral top-pion and $t\gamma(z)$ production at the HERA and THERA
+  colliders","10 pages, typos corrected, version accepted for publication in Phys.
+  Lett. B","Phys.Lett. B591 (2004) 220-224","10.1016/j.physletb.2004.04.049",,"hep-ph",,"  In the context of top-color assisted technicolor ($TC2$) models, we calculate
+the contributions of the neutral top-pion $ \pi_{t}^{0}$ to $t\gamma$ and $tz$
+production via the processes $ ep\to \gamma c \to t\gamma $ and $ ep\to \gamma
+c \to tz$ at the $HERA$ and $THERA$ colliders. Our results show that the cross
+sections $\sigma_{t\gamma}(s)$ and $\sigma_{tz}(s)$ are very small at the
+$HERA$ collider with $\sqrt{s}=320GeV $. However, in most of the parameter
+space, $\sigma_{t\gamma}(s)$ or $\sigma_{tz}(s)$ is in the range of about
+$0.1pb \sim 1 pb$ at the $THERA$ collider with $\sqrt{s}=1000GeV$.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 12:42:13 GMT""},{""version"":""v2"",""created"":""Wed, 21 Apr 2004 11:55:24 GMT""}]","2009-11-10"
+"math-ph/0403009","Kengatharam Thirulogasanthar","K. Thirulogasanthar and Nasser Saad","Coherent states associated to the wavefunctions and the spectrum of the
+  isotonic oscillator","12 pages","J.Phys.A:Math.Gen. 37 (2004) 4567-4577.","10.1088/0305-4470/37/16/007",,"math-ph math.MP",,"  Classes of coherent states are presented by replacing the labeling parameter
+$z$ of Klauder-Perelomov type coherent states by confluent hypergeometric
+functions with specific parameters. Temporally stable coherent states for the
+isotonic oscillator Hamiltonian are presented and these states are identified
+as a particular case of the so-called Mittag-Leffler coherent states.
+","[{""version"":""v1"",""created"":""Sat, 6 Mar 2004 20:32:17 GMT""}]","2009-11-10"
+"math/0403116","Noam D. Elkies","Noam D. Elkies and Nicholas F. Rogers","Elliptic Curves x^3 + y^3 = k of High Rank","10 pages; to appear in the Proceedings of ANTS-VI (Algorithmic Number
+  Theory Symposium, 2004)",,,,"math.NT",,"  We use rational parametrizations of certain cubic surfaces and an explicit
+formula for descent via 3-isogeny to construct the first examples of elliptic
+curves E_k: x^3 + y^3 = k of ranks 8, 9, 10, and 11 over Q. As a corollary we
+produce examples of elliptic curves xy(x+y)=k over Q with a rational 3-torsion
+point and rank as high as 11. We also discuss the problem of finding the
+minimal curve E_k of a given rank, in the sense of both |k| and the conductor
+of E_k, and we give some new results in this direction. We include descriptions
+of the relevant algorithms and heuristics, as well as numerical data.
+","[{""version"":""v1"",""created"":""Sat, 6 Mar 2004 16:56:49 GMT""}]","2007-05-23"
+"math/0403117","Brian Treadway","Palle E. T. Jorgensen","Unitary matrix functions, wavelet algorithms, and structural properties
+  of wavelets","63 pages, 10 figures/tables, LaTeX2e (""mrv9x6"" document class),
+  Contribution by Palle E. T. Jorgensen to the Tutorial Sessions, Program:
+  ``Functional and harmonic analyses of wavelets and frames,'' 4-7 August 2004,
+  Organizers: Judith Packer, Qiyu Sun, Wai Shing Tang. v2 adds Section 2.3.4,
+  ""Matrix completion"" with references",,,,"math.CA math.OA",,"  Some connections between operator theory and wavelet analysis: Since the mid
+eighties, it has become clear that key tools in wavelet analysis rely crucially
+on operator theory. While isolated variations of wavelets, and wavelet
+constructions had previously been known, since Haar in 1910, it was the advent
+of multiresolutions, and subband filtering techniques which provided the tools
+for our ability to now easily create efficient algorithms, ready for a rich
+variety of applications to practical tasks. Part of the underpinning for this
+development in wavelet analysis is operator theory. This will be presented in
+the lectures, and we will also point to a number of developments in operator
+theory which in turn derive from wavelet problems, but which are of independent
+interest in mathematics. Some of the material will build on chapters in a new
+wavelet book, co-authored by the speaker and Ola Bratteli, see
+http://www.math.uiowa.edu/~jorgen/ .
+","[{""version"":""v1"",""created"":""Sat, 6 Mar 2004 22:37:23 GMT""},{""version"":""v2"",""created"":""Thu, 12 Aug 2004 16:47:48 GMT""}]","2007-05-23"
+"math/0403119","Xian-Jin Li","Xian-Jin Li","An explicit formula for Hecke $L$-functions",,,,"AIM 2004 - 6","math.NT",,"  In this paper an explicit formula is given for a sequence of numbers. The
+positivity of this sequence of numbers implies that zeros in the critical strip
+of the Euler product of
+  Hecke polynomials, which are associated with the space of cusp forms of
+weight $k$ for Hecke congruence subgroups, lie on the critical line.
+","[{""version"":""v1"",""created"":""Sat, 6 Mar 2004 23:29:21 GMT""}]","2016-09-07"
+"math/0403120","Vladimir Lin","Vladimir Lin","Configuration spaces of C and CP^1: some analytic properties","89pp, 1 figure",,,,"math.AG math.CV",,"  We study holomorphic self-maps of non-ordered n-point configuration spaces
+C^n(X), where X is either affine or projective complex line. The complex Lie
+group Aut(X) acts diagonally on C^n(X). We prove that for n>4 every
+endomorphism F of C^n(X) either is tame meaning that it is of the form
+F(Q)=T(Q)Q for a certain morphism T of C^n(X) to Aut(X) or carries the whole
+C^n(X) into one Aut(X) orbit Aut(X)Q_0 in C^n(X). The first option happens if
+and only if the image of the induced endomorphism F_* of the fundamental group
+of C^n(X) (which is the braid group of X) is a non-cyclic group; otherwise F is
+of the second type. We also prove that for n>(dim(Aut(X))+1 a morphism F of
+C^n(X) to any C^k(X) always admits an n point subset Q of X whose intersection
+with its image F(Q) is non-empty. Finally, we give a complete description of
+unbranched k-coverings of C^n(x) for k<2n+1.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 07:44:05 GMT""},{""version"":""v2"",""created"":""Tue, 27 Apr 2004 13:30:17 GMT""},{""version"":""v3"",""created"":""Thu, 29 Apr 2004 12:26:49 GMT""}]","2007-05-23"
+"math/0403121","Christian Krattenthaler","Padmavathamma, B. M. Chandrashekara, R. Raghavendra (University of
+  Mysore), and C. Krattenthaler (Universit\'e Claude Bernard Lyon-I)","Analytic proof of the partition identity $A_{5,3,3}(n) = B^0_{5,3,3}(n)$","AmS-LaTeX; 9 pages","Ramanujan J. 15 (2008), 77-86.",,,"math.CO math.CA",,"  In this paper we give an analytic proof of the identity $A_{5,3,3}(n)
+=B^0_{5,3,3}(n)$, where $A_{5,3,3}(n)$ counts the number of partitions of $n$
+subject to certain restrictions on their parts, and $B^0_{5,3,3}(n)$ counts the
+number of partitions of $n$ subject to certain other restrictions on their
+parts, both too long to be stated in the abstract. Our proof establishes
+actually a refinement of that partition identity. The original identity was
+first discovered by the first author jointly with M. Ruby Salestina and S. R.
+Sudarshan in [""A new theorem on partitions,"" Proc. Int. Conference on Special
+Functions, IMSC, Chennai, India, September 23-27, 2002; to appear], where it
+was also given a combinatorial proof, thus responding a question of Andrews.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 14:34:25 GMT""}]","2008-02-12"
+"math/0403122","Dimitri Markushevich","Atanas Iliev and Dimitri Markushevich","Parametrization of Sing(Theta) for a Fano 3-fold of genus 7 by moduli of
+  vector bundles","Final version; minor corrections","Asian J. Math. 11, No. 3, 427-458 (2007)",,,"math.AG",,"  According to Mukai, any prime Fano threefold X of genus 7 is a linear section
+of the spinor tenfold in the projectivized half-spinor space of Spin(10). The
+orthogonal linear section of the spinor tenfold is a canonical genus-7 curve G,
+and the intermediate Jacobian J(X) is isomorphic to the Jacobian of G. It is
+proven that, for a generic X, the Abel-Jacobi map of the family of elliptic
+sextics on X factors through the moduli space of rank-2 vector bundles with
+c_1=-K_X and deg c_2=6 and that the latter is birational to the singular locus
+of the theta divisor of J(X).
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 14:54:17 GMT""},{""version"":""v2"",""created"":""Mon, 21 Feb 2005 19:04:23 GMT""},{""version"":""v3"",""created"":""Tue, 6 Mar 2007 17:33:33 GMT""}]","2008-06-19"
+"nucl-th/0403021","Jie Meng","W. Zhang, J. Meng, S.Q. Zhang, L.S. Geng, H. Toki","Magic numbers for superheavy nuclei in relativistic continuum
+  Hartree-Bogoliubov theory","37 pages, 14 figures","Nucl.Phys. A753 (2005) 106-135","10.1016/j.nuclphysa.2005.02.086",,"nucl-th",,"  The magic proton and neutron numbers are searched in the superheavy region
+with proton number $Z$=100 - 140 and neutron number $N$= ($Z$+30) - (2$Z$+32)
+by the relativistic continuum Hartree-Bogoliubov (RCHB) theory with
+interactions NL1, NL3, NLSH, TM1, TW99, DD-ME1, PK1, and PK1R. Based on the
+two-nucleon separation energies $S_{2p}$ and $S_{2n}$, the two-nucleon gaps
+$\delta_{2p}$ and $\delta_{2n}$, the shell correction energies $E_{shell}^{p}$
+and $E_{shell}^{n}$, the pairing energies $E_{pair}^{p}$ and $E_{pair}^{n}$,
+and the pairing gaps $\Delta_{p}$ and $\Delta_{n}$, $Z$=120, 132, and 138 and
+$N$=172, 184, 198, 228, 238, and 258 are suggested to be the magic numbers
+within the present approach. The $\alpha$-decay half-lives are also discussed.
+In addition, the potential energy surfaces of possible doubly magic nuclei are
+obtained by the deformation-constrained relativistic mean field (RMF) theory,
+and the shell effects stabilizing the nuclei are investigated. Furthermore, the
+formation cross sections of $^{292}_{172}$120 and $^{304}_{184}$120 at the
+optimal excitation energy are estimated by a phenomenological cold fusion
+reactions model with the structure information extracted from the constrained
+RMF calculation.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 06:53:44 GMT""}]","2009-11-10"
+"quant-ph/0403054","Prasanta K. Panigrahi","S. Sree Ranjani, A. K. Kapoor and Prasanta K. Panigrahi","Quantum Hamilton-Jacobi analysis of PT symmetric Hamiltonians","11 pages",,"10.1142/S0217751X05022810",,"quant-ph",,"  We apply the quantum Hamilton-Jacobi formalism, naturally defined in the
+complex domain, to a number of complex Hamiltonians, characterized by discrete
+parity and time reversal (PT) symmetries and obtain their eigenvalues and
+eigenfunctions. Examples of both quasi-exactly and exactly solvable potentials
+are analyzed and the subtle differences, in the singularity structures of their
+quantum momentum functions, are pointed out. The role of the PT symmetry in the
+complex domain is also illustrated.
+","[{""version"":""v1"",""created"":""Sat, 6 Mar 2004 17:24:03 GMT""}]","2009-11-10"
+"quant-ph/0403055","Guido Bacciagaluppi","Guido Bacciagaluppi","Classical Extensions, Classical Representations and Bayesian Updating in
+  Quantum Mechanics","14 pages, presented at the conference 'Quantum Theory:
+  Reconsideration of Foundations - 2', Vaexjoe, Sweden, June 2003",,,,"quant-ph",,"  I review the formalism of classical extensions of quantum mechanics
+introduced by Beltrametti and Bugajski, and compare it to the classical
+representations discussed e.g. by Busch, Hellwig and Stulpe and recently used
+by Fuchs in his discussion of quantum mechanics in terms of standard quantum
+measurements. I treat the problem of finding Bayesian analogues of the state
+transition associated with measurement in the canonical classical extension as
+well as in the related 'uniform' classical representation. In the classical
+extension, the analogy is extremely good.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 12:21:42 GMT""}]","2007-05-23"
+"quant-ph/0403056","Akinori Kawachi","Andris Ambainis, Kazuo Iwama, Akinori Kawachi, Hiroyuki Masuda,
+  Raymond H. Putra and Shigeru Yamashita","Quantum Identification of Boolean Oracles","11 pages, 4 figures, to appear in Proceedings of STACS 2004",,,,"quant-ph cs.CC",,"  The oracle identification problem (OIP) is, given a set $S$ of $M$ Boolean
+oracles out of $2^{N}$ ones, to determine which oracle in $S$ is the current
+black-box oracle. We can exploit the information that candidates of the current
+oracle is restricted to $S$. The OIP contains several concrete problems such as
+the original Grover search and the Bernstein-Vazirani problem. Our interest is
+in the quantum query complexity, for which we present several upper and lower
+bounds. They are quite general and mostly optimal: (i) The query complexity of
+OIP is $O(\sqrt{N\log M \log N}\log\log M)$ for {\it any} $S$ such that $M =
+|S| > N$, which is better than the obvious bound $N$ if $M < 2^{N/\log^{3}N}$.
+(ii) It is $O(\sqrt{N})$ for {\it any} $S$ if $|S| = N$, which includes the
+upper bound for the Grover search as a special case. (iii) For a wide range of
+oracles ($|S| = N$) such as random oracles and balanced oracles, the query
+complexity is $\Theta(\sqrt{N/K})$, where $K$ is a simple parameter determined
+by $S$.
+","[{""version"":""v1"",""created"":""Sun, 7 Mar 2004 12:43:36 GMT""}]","2007-05-23"

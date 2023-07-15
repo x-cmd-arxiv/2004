@@ -1,0 +1,384 @@
+"astro-ph/0410394","Michael L. Brown","M. L. Brown, P. G. Castro, A. N. Taylor (IfA, University of Edinburgh)","CMB temperature and polarisation pseudo-Cl estimators and covariances","19 pages, 12 figures, accepted for MNRAS, minor revision","Mon.Not.Roy.Astron.Soc. 360 (2005) 1262-1280","10.1111/j.1365-2966.2005.09111.x",,"astro-ph",,"  We develop the pseudo-Cl method for reconstructing the Cosmic Microwave
+Background (CMB) temperature and polarization auto- and cross-power spectra,
+and estimate the pseudo-Cl covariance matrix for a realistic experiment on the
+cut sky. We calculate the full coupling equations for all six possible CMB
+power spectra, relating the observed pseudo-Cl's to the underlying all-sky
+Cl's, and test the reconstruction on both full-sky and cut-sky simulated CMB
+data sets. In particular we consider the reconstruction of the Cl from upcoming
+ground-based polarization experiments covering areas of a few hundred sq.
+degrees and find that the method is fast, unbiased and performs well over a
+wide range of multipoles from l=2 to l=2500. We then calculate the full
+covariance matrix between the modes of the pseudo-temperature and polarization
+power spectra, assuming that the underlying CMB fields are Gaussian randomly
+distributed. The complexity of the covariance matrix prohibits its rapid
+calculation, required for parameter estimation. Hence we present an
+approximation for the covariance matrix in terms of convolutions of the
+underlying power spectra. The coupling matrices in these expressions can be
+estimated by fitting to numerical simulations, circumventing direct and slow
+calculation, and further, inaccurate analytic approximations. We show that
+these coupling matrices are mostly independent of cosmology, and that the full
+covariance matrix for all six pseudo-Cl power spectra can be quickly and
+accurately calculated for any given cosmological model using this method. We
+compare these semi-analytic covariance matrices against simulations and find
+good agreement, the accuracy of which depends mainly on survey area and the
+range of cosmological parameters considered.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 14:42:10 GMT""},{""version"":""v2"",""created"":""Wed, 13 Apr 2005 16:41:13 GMT""}]","2009-11-10"
+"astro-ph/0410400","Henry A. Kobulnicky","Chip Kobulnicky, A.J. Monson, B.A Buckalew, J.M. Darnel, B. Uzpen, B.
+  A. Whitney, R. Indebetouw, B. L. Babler, M. R. Meade, C. Watson, E.
+  Churchwell, M. J. Wolff, M. G. Wolfire, D. P. Clemens, R. Shah, T. M. Bania,
+  R. A. Benjamin, M. Cohen, K. E. Devine, J. M. Dickey, F. Heitsch, J. M.
+  Jackson, A. P. Marston, J. S. Mathis, E. P. Mercer, J. R. Stauffer, S. R.
+  Stolovy, J. P. Norris, A. Kutyrev, R. Canterna, M. J. Pierce","Discovery of a New Low-Latitude Milky Way Globular Cluster using GLIMPSE","Accepted for Publication in AJ Report with full resolution images
+  available at http://physics.uwyo.edu/~chip/Glob","Astron.J. 129 (2005) 239-250","10.1086/426337",,"astro-ph",,"  Spitzer Space Telescope imaging as part of the Galactic Legacy Mid-Plane
+Survey Extraordinaire (GLIMPSE) reveals a previously unidentified low-latitude
+rich star cluster near l=31.3 degrees, b=-0.1 degrees. Near-infrared JHK'
+photometry from the Wyoming Infrared Observatory indicates an extinction of A_V
+~ 15+/-3 mag for cluster members. Analysis of 13CO features along the same
+sightline suggests a probable kinematic distance of 3.1 -- 5.2 kpc. The new
+cluster has an angular diameter of ~1-2 pc, a total magnitude m_{K_0}=2.1
+corrected for extinction, and a luminosity of M_K ~ -10.3 at 3.1 kpc. In
+contrast to young massive Galactic clusters with ages <100 Myr, the new cluster
+has no significant radio emission. Comparison to theoretical K-band luminosity
+functions indicates an age of at least several Gyr and a mass of at least 10^5
+solar masses. Unlike known old open clusters, this new cluster lies in the
+inner Galaxy at R_{GC} ~ 6.1 kpc. We designate this object ``GLIMPSE-C01'' and
+classify it as a Milky Way globular cluster passing through the Galactic disk.
+We also identify a region of star formation and fan-shaped outflows from young
+stellar objects in the same field as the cluster. The cluster's passage through
+the Galactic molecular layer may have triggered this star formation activity.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 22:14:37 GMT""}]","2009-11-10"
+"astro-ph/0410401","Harihar Behera","Harihar Behera","The contribution to the perihelion advanced of Mercury arising out of
+  the dependence of mass on gravitational potential","6 pages",,,,"astro-ph",,"  The effect of general relativistic prediction of the dependence of mass on
+gravitational potential on the dynamics of a planet moving around the sun is
+shown to have a negative contribution of 14.326 arcsec/century towards the
+overall non-Newtonian perihelion advance of Mercury.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 05:59:59 GMT""}]","2007-05-23"
+"cond-mat/0410416","Ingo Peschel","Ingo Peschel","On the entanglement entropy for a XY spin chain","4 pages, 2 figures","Journal of Statistical Mechanics (2004) P12005","10.1088/1742-5468/2004/12/P12005",,"cond-mat.stat-mech",,"  The entanglement entropy for the ground state of a XY spin chain is related
+to the corner transfer matrices of the triangular Ising model and expressed in
+closed form.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 18:15:49 GMT""}]","2009-11-10"
+"cond-mat/0410417","Hans-Werner Hammer","Eric Braaten (Ohio State U.), H.-W. Hammer (INT and Bonn U.)","Universality in Few-body Systems with Large Scattering Length","219 pages, 58 figures, accepted for publication in Physics Reports,
+  erroneous footnote on p. 200 removed","Phys.Rept.428:259-390,2006","10.1016/j.physrep.2006.03.001","INT-PUB 04-27, HISKP-TH-06-07","cond-mat.other cond-mat.soft hep-ph hep-th nucl-th",,"  Particles with short-range interactions and a large scattering length have
+universal low-energy properties that do not depend on the details of their
+structure or their interactions at short distances. In the 2-body sector, the
+universal properties are familiar and depend only on the scattering length a.
+In the 3-body sector for identical bosons, the universal properties include the
+existence of a sequence of shallow 3-body bound states called ""Efimov states""
+and log-periodic dependence of scattering observables on the energy and the
+scattering length. The spectrum of Efimov states in the limit a -> +/- infinity
+is characterized by an asymptotic discrete scaling symmetry that is the
+signature of renormalization group flow to a limit cycle. In this review, we
+present a thorough treatment of universality for the system of three identical
+bosons and we summarize the universal information that is currently available
+for other 3-body systems. Our basic tools are the hyperspherical formalism to
+provide qualitative insights, Efimov's radial laws for deriving the constraints
+from unitarity, and effective field theory for quantitative calculations. We
+also discuss topics on the frontiers of universality, including its extension
+to systems with four or more particles and the systematic calculation of
+deviations from universality.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 19:35:01 GMT""},{""version"":""v2"",""created"":""Tue, 7 Mar 2006 09:20:21 GMT""},{""version"":""v3"",""created"":""Fri, 18 Aug 2006 06:53:33 GMT""}]","2009-07-09"
+"cond-mat/0410418","R. Tugrul Senger","S. Tongay, R. T. Senger, S. Dag, and S. Ciraci","Ab-initio electron transport calculations of carbon based string
+  structures","4 pages, 4 figures","Physical Review Letters 93, 136404 (2004)","10.1103/PhysRevLett.93.136404",,"cond-mat.mtrl-sci cond-mat.mes-hall",,"  First-principles calculations show that monatomic strings of carbon have high
+cohesive energy and axial strength, and exhibit stability even at high
+temperatures. Due to their flexibility and reactivity, carbon chains are
+suitable for structural and chemical functionalizations; they form also stable
+ring, helix, grid and network structures. Analysis of electronic conductance of
+various infinite, finite and doped string structures reveal fundamental and
+technologically interesting features. Changes in doping and geometry give rise
+to dramatic variations in conductance. In even-numbered linear chains strain
+induces substantial decrease of conductance. The double covalent bonding of
+carbon atoms underlies their unusual chemical, mechanical and transport
+properties.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 20:07:42 GMT""},{""version"":""v2"",""created"":""Fri, 13 May 2005 14:11:45 GMT""}]","2007-05-23"
+"cond-mat/0410419","Masahiro Sato","Masahiro Sato","Low-lying magnon excitations in integer-spin ladders and tubes","4 pages, 5 figures, published version (Proceedings of ISSP-9). See
+  also cond-mat/0506049","Journal of Physics and Chemistry of Solids, vol 66, 1454-1457
+  (2005)","10.1016/j.jpcs.2005.05.031",,"cond-mat.stat-mech",,"  We consider low-energy excitation structures of N-leg integer-spin ladder and
+tube systems with an antiferromagnetic (AF) intrachain coupling and a uniform
+external field. The tube means the ladder with the periodic boundary condition
+along the interchain (rung) direction. Odd-leg AF-rung tubes have the
+frustration. In order to analyze all systems including frustrated tubes, we
+apply a field-theoretical method based on the nonlinear sigma model. We mainly
+focus on the systems without any external fields. In this case, it is shown
+that the lowest bands of frustrated tubes always consist of six-fold degenerate
+magnon excitations, while those of all other systems are triply degenerate.
+This result implies that the ground states of frustrated tubes (all
+non-frustrated systems) become a two (one)-component Tomonaga-Luttinger liquid,
+when a sufficiently strong uniform field is applied.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 21:40:00 GMT""},{""version"":""v2"",""created"":""Fri, 3 Jun 2005 16:00:01 GMT""},{""version"":""v3"",""created"":""Sat, 17 Sep 2005 16:29:42 GMT""}]","2009-11-10"
+"cond-mat/0410420","Zhanfeng Jiang","Z. F. Jiang, R. D. Li, Shou-Cheng Zhang, and W. M. Liu","Semiclassical Time Evolution of the Holes from Luttinger Hamiltonian","4 pages, 5 fugures","Phys. Rev. B 72, 045201 (2005)","10.1103/PhysRevB.72.045201",,"cond-mat.mes-hall",,"  We study the semi-classical motion of holes by exact numerical solution of
+the Luttinger model. The trajectories obtained for the heavy and light holes
+agree well with the higher order corrections to the abelian and the non-abelian
+adiabatic theories in Ref. [1] [S. Murakami et al., Science 301, 1378(2003)],
+respectively. It is found that the hole trajectories contain rapid oscillations
+reminiscent of the ""Zitterbewegung"" of relativistic electrons. We also comment
+on the non-conservation of helicity of the light holes.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 09:50:10 GMT""}]","2009-11-10"
+"cond-mat/0410421","Amichay Vardi","H. Buljan, M. Segev, and A. Vardi","Incoherent matter-wave solitons: Mutual self-trapping of a Bose-Einstein
+  condensate and its surrounding thermal cloud","5 pages, 3 figures, submitted to Phys. Rev. Lett",,,,"cond-mat.other",,"  We show that a Bose-Einstein condensate and a portion of its surrounding
+thermal cloud can exhibit mutual self-trapping, supported by the attractive
+particle interactions, and not by the external confinement. This type of
+dynamics is characteristic of composite random-phase solitons.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 13:03:12 GMT""}]","2007-05-23"
+"cond-mat/0410422","Biswarup Satpati","B. Satpati and B. N. Dev","Replicating Nanostructures on Silicon by Low Energy Ion Beams","12 pages, 7 figures, regular paper submitted to Nanotechnology",,"10.1088/0957-4484/16/4/039",,"cond-mat.mtrl-sci",,"  We report on a nanoscale patterning method on Si substrates using
+self-assembled metal islands and low-energy ion-beam irradiation. The Si
+nanostructures produced on the Si substrate have a one-to-one correspondence
+with the self-assembled metal (Ag, Au, Pt) nanoislands initially grown on the
+substrate. The surface morphology and the structure of the irradiated surface
+were studied by high-resolution transmission electron microscopy (HRTEM). TEM
+images of ion-beam irradiated samples show the formation of sawtooth-like
+structures on Si. Removing metal islands and the ion-beam induced amorphous Si
+by etching, we obtain a crystalline nanostructure of Si. The smallest
+structures emit red light when exposed to a UV light. The size of the
+nanostructures on Si is governed by the size of the self-assembled metal
+nanoparticles grown on the substrate for this replica nanopatterning. The
+method can easily be extended for tuning the size of the Si nanostructures by
+the proper choice of the metal nanoparticles and the ion energy in
+ion-irradiation. It is suggested that off-normal irradiation can also be used
+for tuning the size of the nanostructures.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 14:29:04 GMT""},{""version"":""v2"",""created"":""Thu, 6 Jan 2005 11:16:38 GMT""}]","2009-11-10"
+"gr-qc/0410074","A. Joel Saavedra","Samuel Lepe and Joel Saavedra","Quasinormal modes, Superradiance and Area Spectrum for 2+1 Acoustic
+  Black Holes","10 pages, Final version, an appendix and some references was added,
+  accepted by Phys. Lett. B","Phys.Lett. B617 (2005) 174-181","10.1016/j.physletb.2005.05.021","GACG-04/13","gr-qc hep-th",,"  We present an exact expression for the quasinormal modes of acoustic
+disturbances in a rotating 2+1 dimensional sonic black hole (draining bathtub
+fluid flow) in the low frequency limit and evaluate the adiabatic invariant
+proposed by Kunstatter. We also compute,via Bohr-Sommerfeld quantization rule
+the equivalent area spectrum for this acoustic black hole, and we compute the
+superradiance phenomena for pure spinning 2+1 black holes.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 16:27:54 GMT""},{""version"":""v2"",""created"":""Mon, 10 Jan 2005 23:39:07 GMT""},{""version"":""v3"",""created"":""Tue, 10 May 2005 17:27:51 GMT""}]","2009-11-10"
+"gr-qc/0410075","Miguel Gustavo de Campos Batista","M. de Campos","Chen-Wu type model and the total energy of the universe","10 pages, 5figures. XXV National Meeting of Particles and Fields
+  Physics",,,,"gr-qc",,"  The inclusion of a $\Lambda $ term, today, in the relativistic field
+equations is consequence of the evolution of an observational cosmology. In
+this work we argue the ""ansatz"" $\Lambda = \beta H^2 +\frac{\alpha}{R^2}$ is
+applicable to the total energy density of the universe, discuss some
+cosmological consequences and compare the growing mode of the density contrast
+with the corresponding mode of the standard model.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 20:05:29 GMT""}]","2007-05-23"
+"hep-lat/0410023","Philipp Hagler","M. G\""ockeler, Ph. H\""agler, R. Horsley, D. Pleiter, P.E.L. Rakow, A.
+  Sch\""afer, G. Schierholz, J.M. Zanotti (for the QCDSF collaboration)","Generalized Parton Distributions in Full Lattice QCD","8 pages, 5 figures; Talk presented by Ph.H. at Light-Cone 2004,
+  Amsterdam, 16 - 20 August","FewBodySyst.36:111-118,2005","10.1007/s00601-004-0086-7","DESY 04-205; LU-ITP 2004/040; Edinburgh 2004/26","hep-lat hep-ph",,"  We present recent results on generalized parton distributions from dynamical
+lattice QCD calculations. Our set of twelve different combinations of couplings
+and quark masses allows for a preliminary study of the pion mass dependence of
+the transverse nucleon structure.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 15:36:40 GMT""}]","2019-08-14"
+"hep-ph/0410242","Seong Chan Park","Eung Jin Chun and Seong Chan Park (Korea Inst. Advanced Study, Seoul)","Neutrino Mass from R-parity Violation in Split Supersymmetry","10 pages, 3 figures, version submitted to JHEP","JHEP0501:009,2005","10.1088/1126-6708/2005/01/009","KIAS-P04041","hep-ph",,"  We investigate how the observed neutrino data can be accommodated by R-parity
+violation in Split Supersymmetry. The atmospheric neutrino mass and mixing are
+explained by the bilinear parameters $\xi_i$ inducing the neutrino-neutralino
+mixing as in the usual low-energy supersymmetry. Among various one-loop
+corrections, only the quark-squark exchanging diagrams involving the order-one
+trilinear couplings $\lambda'_{i23,i32}$ can generate the solar neutrino mass
+and mixing if the scalar mass $m_S$ is not larger than $10^9$ GeV. This scheme
+requires an unpleasant hierarchical structure of the couplings, e.g.,
+$\lambda_{i23,i32}\sim 1$, $\lambda'_{i33} \lesssim 10^{-4}$ and $\xi_i
+\lesssim 10^{-6}$. On the other hand, the model has a distinct collider
+signature of the lightest neutralino which can decay only to the final states,
+$l_i W^{(*)}$ and $\nu Z^{(*)}$, arising from the bilinear mixing. Thus, the
+measurement of the ratio; $\Gamma(e W^{(*)}) : \Gamma(\mu W^{(*)}) :
+\Gamma(\tau W^{(*)})$ would provide a clean probe of the small reactor and
+large atmospheric neutrino mixing angles as far as the neutralino mass is
+larger than 62 GeV.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 19:21:59 GMT""},{""version"":""v2"",""created"":""Thu, 23 Dec 2004 10:50:51 GMT""}]","2009-11-10"
+"hep-ph/0410243","Larisa Laperashvili","C.D.Froggatt, L.V.Laperashvili, H.B.Nielsen","A New Bound State $6t + 6\bar t$ and the Fundamental-Weak Scale
+  Hierarchy in the Standard Model","Talk given at the 13th International Seminar ""Quarks-2004"", Russia,
+  Pushkinskie Gory, May 2004",,,,"hep-ph",,"  The multiple point principle, according to which several vacuum states with
+the same energy density exist, is put forward as a fine-tuning mechanism
+predicting the exponentially huge ratio between the fundamental and weak scales
+in the Standard Model (SM). Using renormalisation group equations for the SM,
+we obtain the effective potential in the 2-loop approximation and investigate
+the existence of its postulated second minimum at the fundamental scale. A
+prediction is made of the existence of a new bound state of 6 top quarks and 6
+anti-top quarks, formed due to Higgs boson exchanges between pairs of
+quarks/anti-quarks. This bound state is supposed to condense in a new phase of
+the SM vacuum. The existence of three vacuum states (new, weak and fundamental)
+solves the hierarchy problem in the SM.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 15:17:06 GMT""}]","2007-05-23"
+"hep-th/0410177","Friedel Epple","F. Epple","Propagators on One-Loop Worldsheets for Orientifolds and Intersecting
+  Branes","27 pages, significantly extended section 3, minor changes to other
+  sections, references added","JHEP0501:043,2005","10.1088/1126-6708/2005/01/043","DAMTP-2004-116","hep-th",,"  We obtain the one-loop propagators in superstring theory for the general case
+when the worldsheet fields satisfy non-trivial holonomy and/or boundary
+conditions. Non-trivial holonomy arises in orbifold and orientifold backgrounds
+whereas non-trivial boundary conditions arise in backgrounds containing
+D-branes of different dimensionality or D-branes intersecting each other at an
+angle. In our derivation, we use a generalized version of the method of images.
+Dihedral groups play a crucial role in constructing the one-loop propagators.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 18:58:52 GMT""},{""version"":""v2"",""created"":""Mon, 25 Oct 2004 20:09:16 GMT""},{""version"":""v3"",""created"":""Mon, 31 Jan 2005 09:29:48 GMT""}]","2008-11-26"
+"hep-th/0410178","Andrew Neitzke","Andrew Neitzke, Cumrun Vafa","Topological strings and their physical applications","82 pages, 20 figures, LaTeX; v2: small corrections, added brief
+  discussion of topological M-theory",,,"HUTP-04/A039","hep-th",,"  We give an introductory review of topological strings and their application
+to various aspects of superstrings and supersymmetric gauge theories. This
+review includes developing the necessary mathematical background for
+topological strings, such as the notions of Calabi-Yau manifold and toric
+geometry, as well as physical methods developed for solving them, such as
+mirror symmetry, large N dualities, the topological vertex and quantum foam. In
+addition, we discuss applications of topological strings to N=1,2
+supersymmetric gauge theories in 4 dimensions as well as to BPS black hole
+entropy in 4 and 5 dimensions. (These are notes from lectures given by the
+second author at the 2004 Simons Workshop in Mathematics and Physics.)
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 19:20:10 GMT""},{""version"":""v2"",""created"":""Sat, 23 Jul 2005 14:35:24 GMT""}]","2007-05-23"
+"math-ph/0410040","Gennady Sardanashvily","G.Giachetta, L.Mangiarotti and G.Sardanashvily","Geometric and Algebraic Topological Methods in Quantum Mechanics","Preface, Contents and Bibliography, 26 pages","World Scientific, Singapore, 2005",,,"math-ph hep-th math.MP quant-ph",,"  In the last decade, the development of new ideas in quantum theory, including
+geometric and deformation quantization, the non-Abelian Berry factor, super-
+and BRST symmetries, non-commutativity, has called into play the geometric
+techniques based on the deep interplay between algebra, differential geometry
+and topology. The present book aims at being a guide to advanced differential
+geometric and topological methods in quantum mechanics. Their main peculiarity
+lies in the fact that geometry in quantum theory speaks mainly the algebraic
+language of rings, modules, sheaves and categories. Geometry is by no means the
+primary scope of the book, but it underlies many ideas in modern quantum
+physics and provides the most advanced schemes of quantization.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 16:43:54 GMT""}]","2007-05-23"
+"math/0410367","Zbigniew Fiedorowicz","M. Brun, Z. Fiedorowicz and R. M. Vogt","On the Multiplicative Structure of Topological Hochschild Homology","19 pages. Revised version with complete proofs","Algebr. Geom. Topol. 7 (2007) 1633-1650","10.2140/agt.2007.7.1633",,"math.AT",,"  We show that the topological Hochschild homology THH(R of an E_n-ring
+spectrum R is an E_{n-1}-ring spectrum. The proof is based on the fact that the
+tensor product of the operad Ass for monoid structures and the the little
+n-cubes operad is an E_{n+1}-operad, a result which is of independent interest.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 18:39:50 GMT""},{""version"":""v2"",""created"":""Tue, 19 Jun 2007 18:04:28 GMT""}]","2014-10-01"
+"math/0410368","Michael Levin","Michael Levin","Universal acyclic resolutions for arbitrary coefficient groups",,"Fund. Math. 178 (2003), no. 2, 159--169",,,"math.GT math.GN",,"  We prove that for every compactum $X$ and every integer $n \geq 2$ there are
+a compactum $Z$ of $\dim \leq n+1$ and a surjective $UV^{n-1}$-map $r: Z \lo X$
+such that for every abelian group $G$ and every integer $k \geq 2$ such that
+$\dim_G X \leq k \leq n$ we have $\dim_G Z \leq k$ and $r$ is $G$-acyclic.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 19:10:05 GMT""}]","2007-05-23"
+"math/0410369","Michael Levin","Michael Levin","Rational acyclic resolutions","Published by Algebraic and Geometric Topology at
+  http://www.maths.warwick.ac.uk/agt/AGTVol5/agt-5-12.abs.html","Algebr. Geom. Topol. 5 (2005) 219-235","10.2140/agt.2005.5.219",,"math.GT math.GN",,"  Let X be a compactum such that dim_Q X < n+1, n>1. We prove that there is a
+Q-acyclic resolution r: Z-->X from a compactum Z of dim < n+1. This allows us
+to give a complete description of all the cases when for a compactum X and an
+abelian group G such that dim_G X < n+1, n>1 there is a G-acyclic resolution r:
+Z-->X from a compactum Z of dim < n+1.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 19:29:30 GMT""},{""version"":""v2"",""created"":""Wed, 20 Apr 2005 10:37:46 GMT""}]","2014-10-01"
+"math/0410370","Michael Levin","Jerzy Dydak, Michael Levin","Extensions of maps to the projective plane","Published by Algebraic and Geometric Topology at
+  http://www.maths.warwick.ac.uk/agt/AGTVol5/agt-5-69.abs.html","Algebr. Geom. Topol. 5 (2005) 1711-1718","10.2140/agt.2005.5.1711",,"math.GT math.GN",,"  It is proved that for a 3-dimensional compact metrizable space X the infinite
+real projective space is an absolute extensor of X if and only if the real
+projective plane is an absolute extensor of X.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 19:39:04 GMT""},{""version"":""v2"",""created"":""Sun, 11 Dec 2005 20:29:20 GMT""}]","2014-10-01"
+"math/0410371","Harry Kesten","Harry Kesten and Vladas Sidoravicius","A phase transition in a model for the spread of an infection","1 figure",,,,"math.PR math-ph math.MP",,"  We show that a certain model for the spread of an infection has a phase
+transition in the recuperation rate. The model is as follows: There are
+particles or individuals of type A and type B, interpreted as healthy and
+infected, respectively. All particles perform independent, continuous time,
+simple random walks on Z^d with the same jump rate D. The only interaction
+between the particles is that at the moment when a B-particle jumps to a site
+which contains an A-particle, or vice versa, the A-particle turns into a
+B-particle. All B-particles recuperate (that is, turn back into A-particles)
+independently of each other at a rate lamda. We assume that we start the system
+with N_A(x,0-) A-particles at x, and that the N_A(x,0-), x in Z^d, are i.i.d.,
+mean mu_A Poisson random variables. In addition we start with one additional
+B-particle at the origin. We show that there is a critical recuperation rate
+lambda_c > 0 such that the B-particles survive (globally) with positive
+probability if lambda < lamda_c and die out with probability 1 if lambda >
+\lamda_c.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 01:39:10 GMT""}]","2007-05-23"
+"nucl-th/0410072","Hong Shen","H. Shen and H. Toki","Pentaquark $\Theta^+$ in nuclear matter and $\Theta^+$ hypernuclei","16 pages, 5 figures","Phys.Rev. C71 (2005) 065208","10.1103/PhysRevC.71.065208",,"nucl-th",,"  We study the properties of the $\Theta^+$ in nuclear matter and $\Theta^+$
+hypernuclei within the quark mean-field (QMF) model, which has been
+successfully used for the description of ordinary nuclei and $\Lambda$
+hypernuclei. With the assumption that the non-strange mesons couple only to the
+$u$ and $d$ quarks inside baryons, a sizable attractive potential of the
+$\Theta^+$ in nuclear matter is achieved as a consequence of the cancellation
+between the attractive scalar potential and the repulsive vector potential. We
+investigate the $\Theta^+$ single-particle energies in light, medium, and heavy
+nuclei. More bound states are obtained in $\Theta^+$ hypernuclei in comparison
+with those in $\Lambda$ hypernuclei.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 07:31:27 GMT""},{""version"":""v2"",""created"":""Tue, 5 Jul 2005 13:36:21 GMT""}]","2009-11-10"
+"nucl-th/0410073","Michio Kohno","M. Kohno, Y. Fujiwara, Y. Watanabe, K. Ogata and M. Kawai","Strength of the $\Sigma$ Single-Particle Potential in Nuclei From
+  Semiclassical Distorted Wave Model Analysis of $(\pi^-,K^+)$ Inclusive
+  Spectrum","6 pages, to be published in Prog. Theor. Phys","Prog.Theor.Phys. 112 (2004) 895-900","10.1143/PTP.112.895",,"nucl-th",,"  Semiclassical distorted wave model is developed to describe $(\pi^-,K^+)$
+inclusive spectra related to $\Sigma^-$-formation measured at KEK with $p_\pi
+=1.2$ GeV/c. The shape and magnitude of the spectrum on $^{28}$Si target are
+satisfactorily reproduced by a repulsive $\Sigma$-nucleus potential, the
+strength of which is of the order of 30$\sim$50 MeV. This strength is not so
+strong as more than 100 MeV suggested by the estimation presented in the report
+of the experiment.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 09:32:12 GMT""}]","2009-11-10"
+"physics/0410113","Joelle Margot","Jean-Sebastien Poirier, Luc Stafford, Joelle Margot, Francois Vidal,
+  Karl Giroux, Antoine Quintal-Leonard, Mohamed Chaker","Modeling of a chlorine high-density plasma submitted to a static
+  magnetic field","12th International Congress on Plasma Physics, 25-29 October 2004,
+  Nice (France)",,,,"physics.plasm-ph",,"  This paper extends the results of a recently developed one-dimensional model
+aiming to describe the characteristics of a magnetized chlorine high-density
+plasma. In this work, the dependence of the plasma characteristics on the
+magnetic field intensity is investigated. It is shown that the dissociation
+degree and the relative weight of the various charged species is strongly
+influenced by the magnetic field when the gas pressure is low enough. In
+contrast, at higher pressure, the plasma is essentially composed of negative
+ions, and molecular neutrals and ions, independently of the field intensity. It
+is further demonstrated that diffusion needs to be considered in order to
+correctly predict the plasma behavior.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 20:24:53 GMT""}]","2007-05-23"
+"physics/0410114","David Blaschke","D.B. Blaschke, A.V. Prozorkevich, S.A. Smolyansky, A.V. Tarakanov","Pulsations of the electron-positron plasma in the field of optical
+  lasers","6 pages, 2 figures, Contribution to the workshop on Kinetic Theory of
+  Nonideal Plasmas, 27.-29. September, Kiel, Germany",,,,"physics.plasm-ph hep-ph physics.acc-ph quant-ph",,"  The possibility to observe vacuum electron-positron pair creation due to a
+powerful optical laser pulse is discussed. We employ a quantum kinetic
+formulation of the problem with a source term describing the vacuum pair
+production in a homogeneous electric field with arbitrary time dependence
+(dynamical Schwinger mechanism). For a periodic field weak in comparison with
+the critical value E_{cr}=m^2/|e|, the electron-positron plasma density changes
+approximately periodically with twice the field frequency. Under these
+conditions, the mean value $<n>$ for the density per period in the volume
+lambda^3 is a more appropriate characteristic quantity than the residual
+density n_r which is taken over an integer number of field periods and
+calculated using the imaginary time method. The value <n> is proportional to
+the squared field intensity and does not depend on the frequency. We show that
+in terms of the parameter <n> an optical laser can be more effective than a
+X-ray one. We expect that it is possible to observe the vacuum creation effect
+not only by means of the planned X-ray free electron lasers but already at
+present-day optical lasers.
+","[{""version"":""v1"",""created"":""Sat, 16 Oct 2004 21:20:04 GMT""}]","2007-05-23"
+"physics/0410115","Kheruntsyan","P. D. Drummond, K. V. Kheruntsyan, D. J. Heinzen, and R. H. Wynar","Reply to ""Comment on 'Stimulated Raman adiabatic passage from an atomic
+  to a molecular Bose-Einstein condensate'""","Accepted for publication in Phys. Rev. A","Phys. Rev. A 71, 017602 (2005)","10.1103/PhysRevA.71.017602",,"physics.atom-ph physics.gen-ph",,"  In the Comment by M. Mackie \textit{et al.} [arXiv: physics/0212111 v.4], the
+authors suggest that the molecular conversion efficiency in atom-molecule
+STIRAP can be improved by lowering the initial atomic density, which in turn
+requires longer pulse durations to maintain adiabaticity. Apart from the fact
+that the mean-field approximation becomes questionable at low densities, we
+point out that a low-density strategy with longer pulses has several problems.
+It generally requires higher pulse energies, and increases radiative losses. We
+also show that even within the approximations used in the Comment, their
+example leads to no efficiency improvement compared to our high-density case.
+In a more careful analysis including radiative losses neglected in the Comment,
+the proposed strategy gives almost no conversion owing to the longer pulse
+durations required.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 12:23:01 GMT""}]","2007-05-23"
+"physics/0410116","Vladimir Postupaev","V.V. Postupaev (BINP), A.V. Arzhannikov (BINP), V.T. Astrelin (BINP),
+  A.M. Averkov (BINP), A.D. Beklemishev (BINP), A.V. Burdakov (BINP), I.A.
+  Ivanov (BINP), M.V. Ivantsivsky (BINP), V.S. Koidan (BINP), K.I. Mekler
+  (BINP), S.V. Polosatkin (BINP), A.F. Rovenskikh (BINP), S.L. Sinitsky (BINP),
+  Yu.S. Sulyaev (BINP), E.R. Zubairov (BINP)","Plasma Heating by an Electron Beam in Corrugated Magnetic Field","12th International Congress on Plasma Physics, 25-29 October 2004,
+  Nice (France)",,,,"physics.plasm-ph",,"  New experimental results from the multimirror trap GOL-3 are presented.
+Deuterium plasma of $~10^21 m^-3$ density is heated by a high power
+relativistic electron beam (peak parameters are ~1 MeV, ~25 kA, ~8 $\mu$s, ~120
+kJ). Magnetic system of the facility is a 12-meter-long axisymmetrical solenoid
+with corrugated magnetic field, which consists of 55 cells with
+$B_max/B_min$=4.8/3.2 T. Collective plasma heating by the electron beam results
+in peak electron temperature ~2 keV. To this time the ions are also
+collectively heated by gradients of electron pressure in the cells of the trap.
+Ion temperature increases above 1 keV and confines at the high level for ~1 ms.
+Dense hot plasma in GOL-3 trap emits D-D neutrons for ~1 ms. Details of
+collective plasma heating by the beam in the corrugated magnetic field will be
+presented in the paper. New physical mechanism of effective heating of plasma
+ions, substantially dependent on the corrugation of the magnetic field, is
+discussed. Experiments with complete multimirror configuration of the GOL-3
+facility have shown the significant improvement of energy confinement time
+comparing with simple solenoidal configuration. Axial currents, which exist in
+the system, cause sheared helical structure of the magnetic field. The safety
+factor q is shown to be below unity on the axis.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 12:31:00 GMT""},{""version"":""v2"",""created"":""Tue, 19 Oct 2004 05:54:44 GMT""}]","2007-05-23"
+"quant-ph/0410127","Ramazan Koc","Ramazan Koc and Mehmet Koca","A systematic study on the exact solution of the position dependent mass
+  Schroedinger equation",,"J. Phys. A: Math. Gen. 36, (2003) 8105-8112","10.1088/0305-4470/36/29/315",,"quant-ph",,"  An algebraic method of constructing potentials for which the Schroedinger
+equation with position dependent mass can be solved exactly is presented. A
+general form of the generators of su(1,1) algebra has been employed with a
+unified approach to the problem. Our systematic approach reproduces a number of
+earlier results and also leads to some novelties. We show that the solutions of
+the Schroedinger equation with position dependent mass are free from the choice
+of parameters for position dependent mass. Two classes of potentials are
+constructed that include almost all exactly solvable potentials.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 10:12:18 GMT""}]","2009-11-10"
+"quant-ph/0410128","Erasmo Recami","Vladislav S.Olkhovsky, Erasmo Recami, and A.K.Zaichenko","Resonant and non-resonant Tunneling through a double barrier","replaced with some improvements in the text and in the references:
+  pdf (11 pages) produced from a source-file in Word; including one Figure","Europhysics Letters 70 (2005) 712-718","10.1209/epl/i2004-10523-8",,"quant-ph",,"  An explicit expression is obtained for the phase-time corresponding to
+tunneling of a (non-relativistic) particle through two rectangular barriers,
+both in the case of resonant and in the case of non-resonant tunneling. It is
+shown that the behavior of the transmission coefficient and of the tunneling
+phase-time near a resonance is given by expressions with ""Breit-Wigner type""
+denominators. By contrast, it is shown that, when the tunneling probability is
+low (but not negligible), the non-resonant tunneling time depends on the
+barrier width and on the distance between the barriers only in a very weak
+(exponentially decreasing) way: This can imply in various cases, as well-known,
+the highly Superluminal tunneling associated with the so-called ""generalized
+Hartman Effect""; but we are now able to improve and modify the mathematical
+description of such an effect, and to compare more in detail our results with
+the experimental data for non-resonant tunneling of photons. Finally, as a
+second example, the tunneling phase-time is calculated, and compared with the
+available experimental results, in the case of the quantum-mechanical tunneling
+of neutrons through two barrier-filters at the resonance energy of the set-up.
+","[{""version"":""v1"",""created"":""Sun, 17 Oct 2004 15:20:14 GMT""},{""version"":""v2"",""created"":""Wed, 1 Dec 2004 02:31:12 GMT""}]","2009-11-10"

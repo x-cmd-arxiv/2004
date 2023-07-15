@@ -1,0 +1,353 @@
+"cond-mat/0407646","C. J. Bolech","C. J. Bolech, N. Andrei","Solution of the Multi-Channel Anderson Impurity Model: Ground state and
+  thermodynamics","28 pages, 8 figures, 1 table","Phys. Rev. B 71, 205104 (2005)","10.1103/PhysRevB.71.205104",,"cond-mat.str-el",,"  We present the solution of the SU(N) x SU(M) Anderson impurity model using
+the Bethe-Ansatz. We first explain what extensions to the formalism were
+required for the solution. Subsequently we determine the ground state and
+derive the thermodynamics over the full range of temperature and fields. We
+identify the different regimes of valence fluctuation at high temperatures,
+followed by moment formation or intrinsic mixed valence at intermediate
+temperatures and a low temperature non-Fermi liquid phase. Among other things
+we obtain the impurity entropy, charge valence and specific heat over the full
+range of temperature. We show that the low-energy physics is governed by a line
+of fixed points. This describes non-Fermi-liquid behavior in the integral
+valence regime, associated with moment formation, as well as in the mixed
+valence regime where no moment forms.
+","[{""version"":""v1"",""created"":""Sat, 24 Jul 2004 17:36:43 GMT""},{""version"":""v2"",""created"":""Sat, 28 May 2005 19:04:46 GMT""}]","2007-05-23"
+"cond-mat/0407647","Alexei D. Kiselev","Peizhi Xu, Vladimir Chigrinov, Alexei D. Kiselev","Optical response of a nematic liquid crystal cell at splay-bend
+  transition: model and dynamic simulation","uses revtex4, 14 pages, 10 figures","Liquid Crystals 32, No 6, 699-706 (2005)",,,"cond-mat.mtrl-sci cond-mat.soft",,"  We study dynamical optical response of a nematic liquid crystal cell that
+undergoes the splay-bend transition after applying the voltage across the cell.
+We formulate a simplified model that takes into account both the flexoelectric
+coupling and the surface rotational viscosity. The dynamic equations of the
+model were solved numerically to calculate temporal evolution of the director
+profile and the transmittance. We evaluate the response time as a function of a
+number of parameters characterising dielectric and elastic anisotropies,
+asymmetry of the surface pretilt angles, anchoring energy, surface rotational
+viscosity and flexoelectricity.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 05:24:03 GMT""}]","2007-05-23"
+"cond-mat/0407648","Goetz S. Uhrig","G.S. Uhrig, K.P. Schmidt and M. Gr\""uninger","Magnetic excitations in the stripe phase of high-T_c superconductors","3 pages, 3 figures included, submitted to the proceedings of JEMS
+  2004","J. Mag. Mag. Mater. 290-291, 330 (2005)","10.1016/j.jmmm.2004.11.230",,"cond-mat.supr-con cond-mat.str-el",,"  The magnetic excitations in the stripe phase of high-T_c superconductors are
+investigated in a model of spin ladders which are effectively coupled via
+charged stripes. Starting from the effective single-triplon model for the
+isolated spin ladder, the quasi-one-dimensional spin system can be described
+straightforwardly. Very good agreement is obtained with recent neutron
+scattering data on La_(15/8)Ba_(1/8)CuO_4 (no spin gap) and YBa_2Cu_3O_(6.6)
+(gapped). The signature of quasi-one-dimensional spin physics in a
+single-domain stripe phase is predicted.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 09:57:36 GMT""}]","2016-08-16"
+"cond-mat/0407649","J. P. Huang","J. P. Huang, L. Dong, K. W. Yu","Optical nonlinearity enhancement of graded metal-dielectric composite
+  films","11 pages, 2 figures. To be published in Europhysics Letters","Europhys. Lett. 67, 854 (2004)","10.1209/epl/i2004-10107-8",,"cond-mat.mtrl-sci physics.optics",,"  We have derived the local electric field inside graded metal-dielectric
+composite films with weak nonlinearity analytically, which further yields the
+effective linear dielectric constant and third-order nonlinear susceptibility
+of the graded structures. As a result, the composition-dependent gradation can
+produce a broad resonant plasmon band in the optical region, resulting in a
+large enhancement of the optical nonlinearity and hence a large figure of
+merit.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 10:46:18 GMT""}]","2007-05-23"
+"cond-mat/0407650","J. P. Huang","J. P. Huang, C. Holm","Magnetization of polydisperse colloidal ferrofluids: Effect of
+  magnetostriction","23 pages, 4 figures. To be accepted for publication in Phys. Rev. E","Phys. Rev. E 70, 061404 (2004).","10.1103/PhysRevE.70.061404",,"cond-mat.soft physics.chem-ph",,"  We exploit magnetostriction in polydisperse ferrofluids in order to generate
+nonlinear responses, and apply a thermodynamical method to derive the desired
+nonlinear magnetic susceptibility. For an ideal gas, this method has been
+demonstrated to be in excellent agreement with a statistical method. In the
+presence of a sinusoidal ac magnetic field, the magnetization of the
+polydisperse ferrofluid contains higher-order harmonics, which can be extracted
+analytically by using a perturbation approach. We find that the harmonics are
+sensitive to the particle distribution and the degree of field-induced
+anisotropy of the system. In addition, we find that the magnetization is higher
+in the polydisperse system than in the monodisperse one, as also found by a
+recent Monte Carlo simulation. Thus, it seems possible to detect the size
+distribution in a polydisperse ferrofluid by measuring the harmonics of the
+magnetization under the influence of magnetostriction.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 11:14:31 GMT""},{""version"":""v2"",""created"":""Fri, 30 Jul 2004 17:57:29 GMT""}]","2009-11-10"
+"cond-mat/0407651","Namiko Mitarai","Namiko Mitarai and Hiizu Nakanishi","Bagnold scaling, density plateau, and kinetic theory analysis of dense
+  granular flow","4 pages, 3 figures. Title changed. Fig.1 replaced. To appear in PPL","Phys. Rev. Lett. 94, 128001 (2005)","10.1103/PhysRevLett.94.128001",,"cond-mat.stat-mech cond-mat.soft",,"  We investigate the bulk rheology of dense granular flow down a rough slope,
+where the density profile has been found to show a plateau except for the
+boundary layers in simulations [Silbert {\it et al.}, Phys. Rev. E {\bf 64},
+051302 (2001)]. It is demonstrated that both the Bagnold scaling and the
+framework of kinetic theory are applicable in the bulk, which allows us to
+extract the constitutive relations from simulation data. The detailed
+comparison of our data with the kinetic theory shows quantitative agreement for
+the normal and shear stresses, but there exists slight discrepancy in the
+energy dissipation, which causes rather large disagreement in the kinetic
+theory analysis of the flow.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 11:32:45 GMT""},{""version"":""v2"",""created"":""Wed, 15 Dec 2004 12:52:04 GMT""},{""version"":""v3"",""created"":""Mon, 28 Feb 2005 02:14:38 GMT""}]","2009-11-10"
+"cond-mat/0407652","J. P. Huang","J. P. Huang","New nonlinear dielectric materials: Linear electrorheological fluids
+  under the influence of electrostriction","11 pages","Phys. Rev. E 70, 042501 (2004)","10.1103/PhysRevE.70.042501",,"cond-mat.mtrl-sci",,"  The usual approach to the development of new nonlinear dielectric materials
+focuses on the search for materials in which the components possess an
+inherently large nonlinear dielectric response. In contrast, based on
+thermodynamics, we have presented a first-principles approach to obtain the
+electrostriction-induced effective third-order nonlinear susceptibility for the
+electrorheological (ER) fluids in which the components have inherent linear,
+rather than nonlinear, responses. In detail, this kind of nonlinear
+susceptibility is in general of about the same order of magnitude as the
+compressibility of the linear ER fluid at constant pressure. Moreover, our
+approach has been demonstrated in excellent agreement with a different
+statistical method. Thus, such linear ER fluids can serve as a new nonlinear
+dielectric material.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 12:10:39 GMT""},{""version"":""v2"",""created"":""Sat, 6 Nov 2004 20:15:27 GMT""}]","2009-11-10"
+"cond-mat/0407653","Luca Salasnich","Luca Salasnich (INFM and Univ. Milano)","Triaxial Bright Solitons in Bose-Condensed Atomic Vapors","14 pages, 4 figures","Laser Phys. 15, 366-370 (2005)",,,"cond-mat.stat-mech",,"  The properties of triaxial bright solitons (TBSs) made of attractive
+Bose-Einstein condensed atoms under transverse anisotropic harmonic confinement
+are investigated by using a variational approach. We show that these metastable
+TBSs change their shape from cigar-like to disc-like by increasing the
+inter-atomic strength. Moreover, we find that the collective oscillations of a
+TBS strongly depend on the anisotropy parameter of the external potential. We
+calculate in detail the properties of TBS close to the collapse, which sets up
+at a critical value of the inter-atomic strength. This critical strength is
+maximal in the isotropic (axially symmetric) case and slightly reduces by
+increasing the anisotropy. Finally, we investigate the formation of multiple
+TBSs via modulational instability induced by a sudden change of the scattering
+length from positive to negative.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 14:57:00 GMT""}]","2007-05-23"
+"hep-ph/0407288","Michael Eides","Michael I. Eides (University of Kentucky, USA, and Petersburg Nuclear
+  Physics Institute, Russia), Howard Grotch (University of Kentucky, USA), and
+  Valery A. Shelyuto (D. I. Mendeleev Institute of Metrology, Russia)","Three-Loop Radiative-Recoil Corrections to Hyperfine Splitting Generated
+  by One-Loop Fermion Factors","11 pages, 3 figures, 1 table","Phys.Rev. D70 (2004) 073005","10.1103/PhysRevD.70.073005","UK/04-16","hep-ph physics.atom-ph",,"  We consider three-loop radiative-recoil corrections to hyperfine splitting in
+muonium generated by diagrams with one-loop radiative photon insertions both in
+the electron and muon lines. An analytic result for these nonlogarithmic
+corrections of order $\alpha(Z^2\alpha)(Z\alpha)(m/M)\widetilde E_F$ is
+obtained. This result constitutes a next step in the implementation of the
+program of reduction of the theoretical uncertainty of hyperfine splitting
+below 10 Hz.
+","[{""version"":""v1"",""created"":""Sat, 24 Jul 2004 18:00:56 GMT""}]","2009-11-10"
+"hep-ph/0407289","Antonio Bouzas","Virendra Gupta","On tetraquark meson states","6 pages, LaTeX 2e, major changes in pages 2 and 3, new references
+  added","Int.J.Mod.Phys.A20:5891-5896,2005","10.1142/S0217751X05025437",,"hep-ph",,"  It is suggested that the narrow meson state seen in the the SELEX experiment
+is a $(c\bar{s} s\bar{s})$ tetraquark state. Characteristics of other possible
+tetraquarks formed out of $c$ and $s$ quarks and antiquarks are considered.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 00:54:35 GMT""},{""version"":""v2"",""created"":""Wed, 25 Aug 2004 14:47:54 GMT""},{""version"":""v3"",""created"":""Wed, 30 Mar 2005 00:03:19 GMT""}]","2010-11-05"
+"hep-th/0407211","Sergei V. Ketov","Sergei V. Ketov and Shin Sasaki (Tokyo Metropolitan U.)","SU(2)xU(1) non-anticommutative N=2 supersymmetric gauge theory","16 pages, 1 figure, LaTeX; a few references added","Int.J.Mod.Phys. A20 (2005) 4021-4034","10.1142/S0217751X05020963",,"hep-th",,"  We derive the master function governing the component action of the
+four-dimensional non-anticommutative (NAC) and fully N=2 supersymmetric gauge
+field theory with a non-simple gauge group U(2)=SU(2)xU(1). We use a Lorentz
+singlet NAC-deformation parameter and an N=2 supersymmetric star (Moyal)
+product which do not break any of the fundamental symmetries of the undeformed
+N=2 gauge theory. The scalar potential in the NAC-deformed theory is
+calculated. We also propose the non-abelian BPS-type equations in the case of
+the NAC-deformed N=2 gauge theory with the SU(2) gauge group, and comment on
+the SU(3) case too. The NAC-deformed field theories can be thought of as the
+effective (non-perturbative) N=2 gauge field theories in a certain (scalar
+only)
+  N=2 supergravity background.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 10:08:08 GMT""},{""version"":""v2"",""created"":""Thu, 29 Jul 2004 11:49:06 GMT""}]","2016-09-06"
+"math/0407418","Stanislav Popovych","Stanislav Krugljak, Stanislav Popovych, Yurii Samoilenko","The spectral problem and *-representations of algebras associated with
+  Dynkin graphs","16 pages",,,,"math.RT",,"  We study the connection between *-representations of algebras associated with
+graphs, locally-scalar graph representations and the problem about the spectrum
+of a sum of two Hermitian operators. For algebras associated with Dynkin graphs
+we give an explicit description of the parameters for which there are
+irreducible representations and an algorithm for contructing these
+representations.
+","[{""version"":""v1"",""created"":""Sat, 24 Jul 2004 17:08:39 GMT""},{""version"":""v2"",""created"":""Thu, 29 Jul 2004 15:27:10 GMT""}]","2007-05-23"
+"math/0407419","Stanislav Popovych","Stanislav Popovych, Kyrylo Vynogradov","Gr\""obner bases for *-algebars and faithful operator representations",,,,,"math.OA",,"  Sufficient conditions for existence of a faithful representation of a
+*-algebra in terms of its G\""obner basis is presented. Proposed construction of
+faithful representation is applicable to concrete examples: *-doubles, monomial
+*-algebras, extension of a *-algebras allowing Wick ordering and others.
+Several examples and counterexamples are presented.
+","[{""version"":""v1"",""created"":""Sat, 24 Jul 2004 17:47:23 GMT""},{""version"":""v2"",""created"":""Sun, 22 Jan 2006 18:34:35 GMT""}]","2007-05-23"
+"math/0407420","Noah Goodman","Noah Goodman","Overtwisted open books from sobering arcs","Published by Algebraic and Geometric Topology at
+  http://www.maths.warwick.ac.uk/agt/AGTVol5/agt-5-47.abs.html","Algebr. Geom. Topol. 5 (2005) 1173-1195","10.2140/agt.2005.5.1173",,"math.GT math.SG",,"  We study open books on three manifolds which are compatible with an
+overtwisted contact structure. We show that the existence of certain arcs,
+called sobering arcs, is a sufficient condition for an open book to be
+overtwisted, and is necessary up to stabilization by positive Hopf-bands. Using
+these techniques we prove that some open books arising as the boundary of
+symplectic configurations are overtwisted, answering a question of Gay in
+Algebr. Geom. Topol. 3 (2003) 569--586.
+","[{""version"":""v1"",""created"":""Sat, 24 Jul 2004 18:09:55 GMT""},{""version"":""v2"",""created"":""Tue, 11 Oct 2005 13:59:08 GMT""}]","2014-10-01"
+"math/0407421","Pieter Moree","Pieter Moree","On primes p for which d divides ord_p(g)","10 pages, 3 tables","Funct. Approx. Comment Math. 33 (2005), 85-95",,,"math.NT",,"  Let N_g(d) be the set of primes p such that the order of g modulo p is
+divisible by a prescribed integer d. Wiertelak showed that this set has a
+natural density and gave a rather involved explicit expression for it.
+  Let N_g(d)(x) be the number of primes p<=x that are in N_g(d). A simple
+identity for N_g(d)(x) is established. It is used to derive a more compact
+expression for the natural density than known hitherto. A numerical
+demonstration, using a program of Y. Gallot, is presented.
+","[{""version"":""v1"",""created"":""Sat, 24 Jul 2004 19:38:07 GMT""}]","2016-09-07"
+"math/0407422","Peter G. Doyle","Peter G Doyle, Juan Pablo Rossetti","Tetra and Didi, the cosmic spectral twins","Freely redistributable version (GNU FDL). Differs only very slightly
+  from the version published by Geometry and Topology at
+  http://www.maths.warwick.ac.uk/gt/GTVol8/paper33.abs.html","Geom. Topol. 8 (2004) 1227-1242","10.2140/gt.2004.8.1227",,"math.DG math.GT",,"  We introduce a pair of isospectral but non-isometric compact flat 3-manifolds
+called Tetra (a tetracosm) and Didi (a didicosm). The closed geodesics of Tetra
+and Didi are very different. Where Tetra has two quarter-twisting geodesics of
+the shortest length, Didi has four half-twisting geodesics. Nevertheless, these
+spaces are isospectral. This isospectrality can be proven directly by matching
+eigenfunctions having the same eigenvalue. However, the real interest of this
+pair--and what led us to discover it--is the way isospectrality emerges from
+the Selberg trace formula, as the result of a delicate interplay between the
+lengths and twists of closed geodesics.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 01:13:53 GMT""},{""version"":""v2"",""created"":""Fri, 1 Oct 2004 10:01:10 GMT""},{""version"":""v3"",""created"":""Wed, 31 May 2006 20:33:21 GMT""}]","2014-11-11"
+"math/0407423","Qing Xiang","James A. Davis, Qing Xiang","Negative Latin square type partial difference sets in nonelementary
+  abelian 2-groups","17 pages. To appear in Journal London Math. Society",,,,"math.CO",,"  Combining results on quadrics in projective geometries with an algebraic
+interplay between finite fields and Galois rings, we construct the first known
+family of partial difference sets with negative Latin square type parameters in
+nonelementary abelian groups, the groups $\Z_4^{2k}\times \Z_2^{4 \ell-4k}$ for
+all $k$ when $\ell$ is odd and for all $k < \ell$ when $\ell$ is even.
+Similarly, we construct partial difference sets with Latin square type
+parameters in the same groups for all $k$ when $\ell$ is even and for all
+$k<\ell$ when $\ell$ is odd. These constructions provide the first example that
+the non-homomorphic bijection approach outlined by Hagita and Schmidt
+\cite{hagitaschmidt} can produce difference sets in groups that previously had
+no known constructions. Computer computations indicate that the strongly
+regular graphs associated to the PDSs are not isomorphic to the known graphs,
+and we conjecture that the family of strongly regular graphs will be new.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 01:39:06 GMT""}]","2007-05-23"
+"math/0407424","Qing Xiang","Henk D. L. Hollmann, Qing Xiang","A Class of Permutation Polynomials of $\bF_{2^m}$ Related to Dickson
+  Polynomials","12 pages. To appear in Finite Fields and Their Applications",,,,"math.CO",,"  We construct a class of permutation polynomials of $\bF_{2^m}$ that are
+closely related to Dickson polynomials.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 01:51:10 GMT""}]","2007-05-23"
+"math/0407425","Qing Xiang","Qing Xiang","Recent results on $p$-ranks and Smith normal forms of some
+  $2-(v,k,\lambda)$ designs","15 pages",,,,"math.CO",,"  We survey recent results on $p$-ranks and Smith normal forms of some
+$2-(v,k,\lambda)$ designs. In particular, we give a description of the recent
+work in \cite{csx} on the Smith normal forms of the 2-designs arising from
+projective and affine spaces over $\Ff_q$.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 01:57:55 GMT""}]","2007-05-23"
+"math/0407426","Matthew Baker","Matthew Baker and Robert Rumely","Equidistribution of small points, rational dynamics, and potential
+  theory","50 pages; v2 contains additional references, exposition has been
+  modified, and Sections 7 and 8 from v1 have been removed to shorten the
+  paper's length",,,,"math.NT math.DS",,"  If phi(z) is a rational function on P^1 of degree at least 2 with
+coefficients in a number field k, we compute the homogeneous transfinite
+diameter of the v-adic filled Julia sets of phi for all places v of k by
+introducing a new quantity called the homogeneous sectional capacity. In
+particular, we show that the product over all places of these homogeneous
+transfinite diameters is 1. We apply this product formula and some new
+potential-theoretic results concerning Green's functions on Riemann surfaces
+and Berkovich spaces to prove an adelic equidistribution theorem for dynamical
+systems on the projective line. This theorem, which generalizes the results of
+Baker-Hsia, says that for each place v of k, there is a canonical probability
+measure on the Berkovich space P^1_{Berk,v} over C_v such that if z_n is a
+sequence of algebraic points in P^1 whose canonical heights with respect to phi
+tend to zero, then the z_n's and their Galois conjugates are equidistributed
+with respect to mu_{phi,v} for all places v of k. For archimedean v,
+P^1_{Berk,v} is just the Riemann sphere, mu_{phi,v} is Lyubich's invariant
+measure, and our result is closely related to a theorem of Lyubich and
+Freire-Lopes-Mane.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 13:41:18 GMT""},{""version"":""v2"",""created"":""Wed, 27 Jul 2005 18:39:38 GMT""}]","2007-05-23"
+"math/0407427","Matthew Baker","Matthew Baker and Robert Rumely","Harmonic analysis on metrized graphs","47 pages; v2 corrects several typos, exposition has been modified,
+  and additional references have been added",,,,"math.CO math.CA",,"  We study the Laplacian on a metrized graph, and its eigenfunctions.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 14:06:04 GMT""},{""version"":""v2"",""created"":""Wed, 27 Jul 2005 18:49:23 GMT""}]","2007-05-23"
+"math/0407428","Matthew Baker","Matthew Baker and Xander Faber","Metrized graphs, electrical networks, and Fourier analysis","23 pages, 5 figures; corrected minor typos and altered tone slightly,
+  updated exercises 3 and 13, updated references",,,,"math.CO math.CA",,"  A metrized graph is a finite weighted graph whose edges are thought of as
+line segments. In this expository paper, we study the Laplacian operator on a
+metrized graph and some important functions related to it, including the
+``j-function'', the effective resistance, and eigenfunctions of the Laplacian.
+We discuss the relationship between metrized graphs and electrical networks,
+which provides some physical intuition for the concepts being dealt with. We
+also discuss the relation between the Laplacian on a metrized graph and the
+combinatorial Laplacian matrix. We introduce the``canonical measure'' on a
+metrized graph, which arises naturally when considering the Laplacian of the
+effective resistance function. Finally, we discuss a generalization of
+classical Fourier analysis which utilizes eigenfunctions of the Laplacian on a
+metrized graph. During the course of the paper, we obtain a proof of Foster's
+network theorem and of an intriguing series identity.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 14:14:19 GMT""},{""version"":""v2"",""created"":""Fri, 1 Jul 2005 16:28:53 GMT""}]","2007-05-23"
+"nlin/0407055","Baburaj Puthenveettil A.","Baburaj A. Puthenveettil, G. Ananthakrishna and Jaywant H.Arakeri","Multifractal nature of plume structure in high Rayleigh number
+  convection","11pages, 16 figures Accepted in Journal of Fluid mechanics. Revised
+  version. Added two more figures and related discussion on suggestion of
+  referees","Journal of Fluid Mechanics,Volume 526, March 2005, pp 245-256","10.1017/S0022112004002897",,"nlin.PS nlin.CD",,"  The geometrically different plan forms of near wall plume structure in
+turbulent natural convection, visualised by driving the convection using
+concentration differences across a membrane, are shown to have a common
+multifractal spectrum of singularities for Rayleigh numbers in the range
+$10^{10}- 10^{11}$ at Schmidt number of 602. The scaling is seen for a length
+scale range of $2^5$ and is independent of the Rayleigh number, the flux, the
+strength and nature of the large scale flow, and the aspect ratio. Similar
+scaling is observed for the plume structures obtained in the presence of a weak
+flow across the membrane. This common non trivial spatial scaling is proposed
+to be due to the same underlying generating process of the near wall plume
+structures.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 13:19:37 GMT""},{""version"":""v2"",""created"":""Mon, 15 Nov 2004 07:56:59 GMT""}]","2010-06-09"
+"nucl-th/0407088","Dean Lee J.","Dean Lee","Inequalities for low-energy symmetric nuclear matter","9 pages","Phys.Rev. C70 (2004) 064002","10.1103/PhysRevC.70.064002",,"nucl-th hep-lat hep-ph",,"  Using effective field theory we prove inequalities for the correlations of
+two-nucleon operators in low-energy symmetric nuclear matter. For physical
+values of operator coefficients in the effective Lagrangian, the S = 1, I = 0
+channel correlations must have the lowest energy and longest correlation length
+in the two-nucleon sector. This result is valid at nonzero density and
+temperature.
+","[{""version"":""v1"",""created"":""Sat, 24 Jul 2004 17:34:13 GMT""}]","2009-11-10"
+"nucl-th/0407089","Lu Guo","Lu Guo, Jie Meng, Enguang Zhao, Fumihiko Sakata","Rotational damping in a multi-$j$ shell particles-rotor model","20 pages, 9 figures","Nucl.Phys. A753 (2005) 136-151","10.1016/j.nuclphysa.2005.02.106",,"nucl-th",,"  The damping of collective rotational motion is investigated by means of
+particles-rotor model in which the angular momentum coupling is treated exactly
+and the valence nucleons are in a multi-$j$ shell mean-field. It is found that
+the onset energy of rotational damping is around 1.1 MeV above yrast line, and
+the number of states which form rotational band structure is thus limited. The
+number of calculated rotational bands around 30 at a given angular momentum
+agrees qualitatively with experimental data. The onset of rotational damping
+takes place gradually as a function of excitation energy. It is shown that the
+pairing correlation between valence nucleons has a significant effect on the
+appearance of rotational damping.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 13:11:25 GMT""},{""version"":""v2"",""created"":""Tue, 28 Sep 2004 04:38:42 GMT""},{""version"":""v3"",""created"":""Tue, 25 Jan 2005 11:55:19 GMT""}]","2009-11-10"
+"physics/0407127","Steven Morrison","Steven K. Morrison and Yuri S. Kivshar","Engineering of directional emission from photonic crystal waveguides","6 pages, 4 figures, submitted to Optics Express (20-7-2004)",,"10.1063/1.1870133",,"physics.optics",,"  We analyze, by the finite-difference time-domain numerical methods, several
+ways to enhance the directional emission from photonic crystal waveguides
+through the beaming effect recently predicted by Moreno et al. [Phys. Rev. E
+69, 121402(R) (2004)], by engineering the surface modes and corrugation of the
+photonic crystal surface. We demonstrate that the substantial enhancement of
+the light emission can be achieved by increasing the refractive index of the
+surface layer. We also measure power of surface modes and reflected power and
+confirm that the enhancement of the directional emission is related to the
+manipulation of the photonic crystal surface modes.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 04:24:34 GMT""}]","2009-11-10"
+"physics/0407128","Michel Rached Zamboni","M. Zamboni-Rached","Frozen Waves: Stationary optical wavefields with arbitrary longitudinal
+  shape, by superposing equal-frequency Bessel beams","LaTeX file (10 pages, including 2 sets of two Figures)",,"10.1364/OPEX.12.004001",,"physics.class-ph physics.optics",,"  In this paper it is shown how one can use Bessel beams to obtain a stationary
+localized wavefield with high transverse localization, and whose longitudinal
+intensity pattern can assume any desired shape within a chosen interval 0 < z <
+L of the propagation axis. This intensity envelope remains static, i.e., with
+velocity v=0; and because of this we call ""Frozen Waves"" such news solutions to
+the wave equations (and, in particular, to the Maxwell equations). These
+solutions can be used in many different and interesting applications, as
+optical tweezers, atom guides, optical or acoustic bistouries, various
+important medical purposes, etc.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 05:27:53 GMT""}]","2009-11-10"
+"physics/0407129","J. P. Huang","J. P. Huang","Theory of electrical conductivities of ferrogels","15 pages, 2 figures","J. Phys. Chem. B, vol. 108, 13901 (2004)",,,"physics.chem-ph",,"  Conductive organic polymers can be formulated with polymers that incorporate
+fine dispersed metallic particles.
+  In this work, we present a general model for ferrogels which are chemically
+cross-linked polymer networks swollen with a ferrofluid. Our aim is to study
+the effect of the shape and/or material (conductivity) anisotropy on the
+effective electrical conductivity of the ferrogel in the presence of an
+external magnetic field. Our theory can reproduce the known results, and
+provides a link between the particle property and orientation distribution and
+the effective electrical conductivity. To this end, we find that material
+(conductivity) anisotropies are more important to yield a high effective
+electrical conductivity than shape anisotropies, while magnetic fields can
+offer a correction.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 11:00:54 GMT""},{""version"":""v2"",""created"":""Tue, 14 Sep 2004 15:05:30 GMT""}]","2016-09-08"
+"physics/0407130","J. P. Huang","J. P. Huang, K. W. Yu","Second-harmonic generation in graded metallic films","10 pages, 2 EPS figures. Minor revisions","Opt. Lett. 30, 275 (2005)","10.1364/OL.30.000275",,"physics.optics cond-mat.mtrl-sci",,"  We study the effective second-harmonic generation (SHG) susceptibility in
+graded metallic films by invoking the local field effects exactly, and further
+numerically demonstrate that the graded metallic films can serve as a novel
+optical material for producing a broad structure in both the linear and SHG
+response and an enhancement in the SHG signal.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 11:38:50 GMT""},{""version"":""v2"",""created"":""Sun, 10 Oct 2004 16:01:19 GMT""},{""version"":""v3"",""created"":""Wed, 2 Feb 2005 12:24:54 GMT""}]","2009-11-10"
+"physics/0407131","J. P. Huang","J. P. Huang","Statistical-mechanical theory of the overall magnetic properties of
+  mesocrystals","14 pages, 1 figure","Phys. Rev. E 70, 041403 (2004)","10.1103/PhysRevE.70.041403",,"physics.comp-ph cond-mat.stat-mech",,"  The mesocrystal showing both electrorheological and magnetorheological
+effects is called electro-magnetorheological (EMR) solids. Prediction of the
+overall magnetic properties of the EMR solids is a challenging task due to the
+coexistence of the uniaxially anisotropic behavior and structural transition as
+well as long-range interaction between the suspended particles. To consider the
+uniaxial anisotropy effect, we present an anisotropic Kirkwood-Fr\""{o}hlich
+equation for calculating the effective permeabilities by adopting an explicit
+characteristic spheroid rather than a characteristic sphere used in the
+derivation of the usual Kirkwood-Fr\""{o}hlich equation. Further, by applying an
+Ewald-Kornfeld formulation we are able to investigate the effective
+permeability by including the structural transition and long-range interaction
+explicitly. Our theory can reduce to the usual Kirkwood-Fr\""{o}hlich equation
+and Onsager equation naturally. To this end, the numerical simulation shows the
+validity of monitoring the structure of EMR solids by detecting their effective
+permeabilities.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 11:52:14 GMT""},{""version"":""v2"",""created"":""Sat, 6 Nov 2004 20:09:41 GMT""}]","2009-11-10"
+"physics/0407132","J. P. Huang","J. P. Huang, K. W. Yu","Nonlinear ac responses of electro-magnetorheological fluids","21 pages, 4 figures","J. Chem. Phys. 121, 7526 (2004)","10.1063/1.1798912",,"physics.chem-ph cond-mat.mtrl-sci cond-mat.soft",,"  We apply a Langevin model to investigate the nonlinear ac responses of
+electro-magnetorheological (ERMR) fluids under the application of two crossed
+dc magnetic (z axis) and electric (x axis) fields and a probing ac sinusoidal
+magnetic field. We focus on the influence of the magnetic fields which can
+yield nonlinear behaviors inside the system due to the particles with a
+permanent magnetic dipole moment.
+  Based on a perturbation approach, we extract the harmonics of the magnetic
+field and orientational magnetization analytically. To this end, we find that
+the harmonics are sensitive to the degree of anisotropy of the structure as
+well as the field frequency. Thus, it is possible to real-time monitor the
+structure transformation of ERMR fluids by detecting the nonlinear ac
+responses.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 12:02:54 GMT""},{""version"":""v2"",""created"":""Wed, 6 Oct 2004 10:42:27 GMT""}]","2007-05-23"
+"q-bio/0407033","Ambarish Kunwar","Ambarish Kunwar","Evolution of Spatially Inhomogeneous Eco-Systems: An Unified Model Based
+  Approach","Latex, 10 pages, 8 figures","International Journal of Modern Physics C, Vol. 15, 1449 (2004)","10.1142/S0129183104006856",,"q-bio.PE",,"  Recently we have extended our the ""unified"" model of evolutionary ecology to
+incorporate the {\it spatial inhomogeneities} of the eco-system and the {\it
+migration} of individual organisms from one patch to another within the same
+eco-system. In this paper an extension of our recent model is investigated so
+as to describe the {\it migration} and {\it speciation} in a more realistic
+way.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 09:25:48 GMT""}]","2009-11-10"
+"quant-ph/0407197","Yu-Xi Liu","Yu-xi Liu, L.F. Wei, and Franco Nori","Tomographic measurements on superconducting qubit states","12 pages, 4 figures","Phys. Rev. B 72, 014547 (2005)","10.1103/PhysRevB.72.014547",,"quant-ph cond-mat.supr-con",,"  We propose an approach to reconstruct any superconducting charge qubit state
+by using quantum state tomography. This procedure requires a series of
+measurements on a large enough number of identically prepared copies of the
+quantum system. The experimental feasibility of this procedure is explained and
+the time scales for different quantum operations are estimated according to
+experimentally accessible parameters. Based on the state tomography, we also
+investigate the possibility of the process tomography.
+","[{""version"":""v1"",""created"":""Sun, 25 Jul 2004 13:22:17 GMT""},{""version"":""v2"",""created"":""Thu, 29 Jul 2004 02:57:37 GMT""},{""version"":""v3"",""created"":""Sun, 1 Aug 2004 05:57:52 GMT""},{""version"":""v4"",""created"":""Tue, 28 Dec 2004 08:36:58 GMT""},{""version"":""v5"",""created"":""Wed, 20 Jul 2005 11:56:57 GMT""}]","2009-11-10"

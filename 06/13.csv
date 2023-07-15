@@ -1,0 +1,398 @@
+"astro-ph/0406306","Combes Francoise","Francoise Combes (Lerma, Observatoire de Paris)","Secular evolution versus hierarchical merging: galaxy evolution along
+  the Hubble sequence, in the field and rich environments","18 pages, 8 figures, review paper to ""Penetrating Bars through Masks
+  of Cosmic Dust: the Hubble Tuning Fork Strikes a New Note"", Pilanesberg, ed.
+  D. Block et al., Kluwer",,"10.1007/978-1-4020-2862-5_4",,"astro-ph",,"  In the current galaxy formation scenarios, two physical phenomena are invoked
+to build disk galaxies: hierarchical mergers and more quiescent external gas
+accretion, coming from intergalactic filaments. Although both are thought to
+play a role, their relative importance is not known precisely. Here we consider
+the constraints on these scenarios brought by the observation-deduced star
+formation history on the one hand, and observed dynamics of galaxies on the
+other hand: the high frequency of bars and spirals, the high frequency of
+perturbations such as lopsidedness, warps, or polar rings.
+  All these observations are not easily reproduced in simulations without
+important gas accretion. N-body simulations taking into account the mass
+exchange between stars and gas through star formation and feedback, can
+reproduce the data, only if galaxies double their mass in about 10 Gyr through
+gas accretion. Warped and polar ring systems are good tracers of this
+accretion, which occurs from cold gas which has not been virialised in the
+system's potential. The relative importance of these phenomena are compared
+between the field and rich clusters. The respective role of mergers and gas
+accretion vary considerably with environment.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 15:47:50 GMT""}]","2016-01-27"
+"cond-mat/0406291","German Drazer","German Drazer, Boris Khusid, Joel Koplik, and Andreas Acrivos","Wetting and particle adsorption in nanoflows",,"Phys. Fluids 17, 017102 (2005)","10.1063/1.1815341",,"cond-mat.soft",,"  Molecular dynamics simulations are used to study the behavior of
+closely-fitting spherical and ellipsoidal particles moving through a
+fluid-filled cylinder at nanometer scales. The particle, the cylinder wall and
+the fluid solvent are all treated as atomic systems, and special attention is
+given to the effects of varying the wetting properties of the fluid. Although
+the modification of the solid-fluid interaction leads to significant changes in
+the microstructure of the fluid, its transport properties are found to be the
+same as in bulk. Independently of the shape and relative size of the particle,
+we find two distinct regimes as a function of the degree of wetting, with a
+sharp transition between them. In the case of a highly-wetting suspending
+fluid, the particle moves through the cylinder with an average axial velocity
+in agreement with that obtained from the solution of the continuum Stokes
+equations. In contrast, in the case of less-wetting fluids, only the early-time
+motion of the particle is consistent with continuum dynamics. At later times,
+the particle is eventually adsorbed onto the wall and subsequently executes an
+intermittent stick-slip motion.We show that van der Walls forces are the
+dominant contribution to the particle adsorption phenomenon and that depletion
+forces are weak enough to allow, in the highly-wetting situation, an initially
+adsorbed particle to spontaneously desorb.
+","[{""version"":""v1"",""created"":""Sat, 12 Jun 2004 18:54:01 GMT""}]","2007-05-23"
+"cond-mat/0406297","Kay J. Wiese","Pierre Le Doussal, Kay Joerg Wiese","Derivation of the Functional Renormalization Group Beta-Function at
+  order 1/N for Manifolds Pinned by Disorder","62 pages, 97 figures","Nucl. Phys. B 701 (2004) 409-480","10.1016/j.nuclphysb.2004.08.022",,"cond-mat.dis-nn cond-mat.stat-mech",,"  In an earlier publication, we have introduced a method to obtain, at large N,
+the effective action for d-dimensional manifolds in a N-dimensional disordered
+environment. This allowed to obtain the Functional Renormalization Group (FRG)
+equation for N=infinity and was shown to reproduce, with no need for
+ultrametric replica symmetry breaking, the predictions of the Mezard-Parisi
+solution. Here we compute the corrections at order 1/N. We introduce two novel
+complementary methods, a diagrammatic and an algebraic one, to perform the
+complicated resummation of an infinite number of loops, and derive the
+beta-function of the theory to order 1/N. We present both the effective action
+and the corresponding functional renormalization group equations. The aim is to
+explain the conceptual basis and give a detailed account of the novel aspects
+of such calculations. The analysis of the FRG flow, comparison with other
+studies, and applications, e.g. to the strong-coupling phase of the
+Kardar-Parisi-Zhang equation are examined in a subsequent publication.
+","[{""version"":""v1"",""created"":""Sat, 12 Jun 2004 16:50:11 GMT""}]","2010-04-05"
+"cond-mat/0406298","Akira Oguri","Akira Oguri, Yoshihide Tanaka, and A. C. Hewson","Quantum phase transition in a minimal model for the Kondo effect in a
+  Josephson junction","23 pages, 13 figures, typos are corrected","J. Phys. Soc. Jpn. 73, 2494 (2004)","10.1143/JPSJ.73.2494",,"cond-mat.mes-hall cond-mat.str-el",,"  We propose a minimal model for the Josephson current through a quantum dot in
+a Kondo regime. We start with the model that consists of an Anderson impurity
+connected to two superconducting (SC) leads with the gaps
+$\Delta_{\alpha}=|\Delta_{\alpha}| e^{i \theta_{\alpha}}$, where $\alpha = L,
+R$ for the lead at left and right. We show that, when one of the SC gaps is
+much larger than the others $|\Delta_L| \gg |\Delta_R|$, the starting model can
+be mapped exactly onto the single-channel model, which consists of the right
+lead of $\Delta_R$ and the Anderson impurity with an extra onsite SC gap of
+$\Delta_d \equiv \Gamma_L e^{i \theta_L}$. Here $\theta_L$ and $\Gamma_L$ are
+defined with respect to the starting model, and $\Gamma_L$ is the level width
+due to the coupling with the left lead. Based on this simplified model, we
+study the ground-state properties for the asymmetric gap, $|\Delta_L| \gg
+|\Delta_R|$, using the numerical renormalization group (NRG) method. The
+results show that the phase difference of the SC gaps $\phi \equiv \theta_R
+-\theta_L$, which induces the Josephson current, disturbs the screening of the
+local moment to destabilize the singlet ground state typical of the Kondo
+system. It can also drive the quantum phase transition to a magnetic doublet
+ground state, and at the critical point the Josephson current shows a
+discontinuous change. The asymmetry of the two SC gaps causes a re-entrant
+magnetic phase, in which the in-gap bound state lies close to the Fermi level.
+","[{""version"":""v1"",""created"":""Sat, 12 Jun 2004 23:31:22 GMT""},{""version"":""v2"",""created"":""Sat, 10 Jul 2004 03:43:44 GMT""},{""version"":""v3"",""created"":""Mon, 27 Dec 2004 04:12:44 GMT""}]","2009-11-10"
+"cond-mat/0406299","Chunguang Li","Chunguang Li, Guanrong Chen","A comprehensive weighted evolving network model","6 pages, 4 figures, accepted by Physica A","Physica A, Vol.33, pp.288-294, 2004","10.1016/j.physa.2004.06.160",,"cond-mat.dis-nn",,"  Many social, technological, biological, and economical systems are best
+described by weighted networks, whose properties and dynamics depend not only
+on their structures but also on the connection weights among their nodes.
+However, most existing research work on complex network models are concentrated
+on network structures, with connection weights among their nodes being either 1
+or 0. In this paper, we propose a new weighted evolving network model.
+Numerical simulations indicate that this network model yields three power-law
+distributions of the node degrees, connection weights and node strengths.
+Particularly, some other properties of the distributions, such as the
+droop-head and heavy-tail effects, can also be reflected by this model.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 08:30:23 GMT""}]","2015-06-24"
+"cond-mat/0406300","Mats-Erik Pistol","Mats-Erik Pistol","N-representability of two-electron densities and density matrices and
+  the application to the few-body problem",,,"10.1016/j.cplett.2004.11.014",,"cond-mat.str-el",,"  We have found a (dense) basis for the N-representable, two-electron
+densities, in which all N-representable two-electron densities can be expanded,
+using positive coefficients. The inverse problem of finding a representative
+wavefunction, giving a prescribed two-electron density, has also been solved.
+The two-electron densities are found to lie in a convex set in a vector space.
+We show that density matrices are more complicated objects than densities, and
+density matrices do not seem to lie in a convex set. An algorithm to compute
+the ground-state energy of a few-particle system is proposed, based on the
+obtained results, where the correlation is treated exactly.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 09:01:58 GMT""}]","2009-11-10"
+"cond-mat/0406301","Yasutomo J. Uemura","Y.J. Uemura","Condensation, excitation, pairing, and superfluid density in
+  high-$T_{c}$ superconductors: magnetic resonance mode as a roton analogue and
+  a possible spin-mediated pairing","23 pages, 10 figures, to be published in Journal of Physics:
+  Condensed Matter","J. Phys.: Condens. Matter 16 (2004) S4515-S4540","10.1088/0953-8984/16/40/007",,"cond-mat.supr-con cond-mat.str-el",,"  To find out a primary determing factor of $T_{c}$ and a pairing mechanism in
+high-$T_{c}$ cuprates, we combine the muon spin relaxation results on
+$n_{s}/m^{*}$ (superconducting carrier density / effective mass), accumulated
+over the last 15 years, with the results from neutron and Raman scattering,
+STM, specific heat, Nernst effect and ARPES measurements. We identify the
+neutron magnetic resonance mode as an analogue of roton minimum in the
+superfluid $^{4}$He, and argue that $n_{s}/m^{*}$ and the resonance mode energy
+$\hbar\omega_{res}$ play a primary role in determining $T_{c}$ in the
+underdoped region. We propose a picture that roton-like excitations in the
+cuprates appear as a coupled mode, which has the resonance mode for spin and
+charge responses at different momentum transfers but the same energy transfers,
+as detected respectively, by the neutron S=1 mode and the Raman S=0 A1$_{g}$
+mode. We shall call this as the ``hybrid spin/charge roton''. After discussing
+the role of dimensionality in condensation, we propose a generic phase diagram
+of the cuprates with spatial phase separation in the overdoped region as a
+special case of the BE-BCS crossover conjecture where the superconducting
+coupling is lost rapidly in the overdoped region. Using a microscopic model of
+charge motion resonating with antiferomagnetic spin fluctuations, we propose a
+possibility that the hybrid spin/charge roton and higher-energy spin
+fluctuations mediate the superconducting pairing. In this model, the resonance
+modes can be viewed as a meson-analogue and the ``dome'' shape of the phase
+diagram can be understood as a natural consequence of departure from the
+competing Mott insulator ground state via carrier doping.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 09:02:04 GMT""}]","2007-05-23"
+"cond-mat/0406302","Iren Junger","I. Junger, D. Ihle, J. Richter and A. Kluemper","Green's-function theory of the Heisenberg ferromagnet in a magnetic
+  field","9 pages, 9 figures","Phys. Rev. B 70, 104419 (2004)","10.1103/PhysRevB.70.104419",,"cond-mat.str-el",,"  We present a second-order Green's-function theory of the one- and
+two-dimensional S=1/2 ferromagnet in a magnetic field based on a decoupling of
+three-spin operator products, where vertex parameters are introduced and
+determined by exact relations. The transverse and longitudinal spin correlation
+functions and thermodynamic properties (magnetization, isothermal magnetic
+susceptibility, specific heat) are calculated self-consistently at arbitrary
+temperatures and fields. In addition, exact diagonalizations on finite lattices
+and, in the one-dimensional case, exact calculations by the Bethe-ansatz method
+for the quantum transfer matrix are performed. A good agreement of the
+Green's-function theory with the exact data, with recent quantum Monte Carlo
+results, and with the spin polarization of a $\nu=1$ quantum Hall ferromagnet
+is obtained. The field dependences of the position and height of the maximum in
+the temperature dependence of the susceptibility are found to fit well to power
+laws, which are critically analyzed in relation to the recently discussed
+behavior in Landau's theory. As revealed by the spin correlation functions and
+the specific heat at low fields, our theory provides an improved description of
+magnetic short-range order as compared with the random phase approximation. In
+one dimension and at very low fields, two maxima in the temperature dependence
+of the specific heat are found. The Bethe-ansatz data for the field dependences
+of the position and height of the low-temperature maximum are described by
+power laws. At higher fields in one and two dimensions, the temperature of the
+specific heat maximum linearly increases with the field.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 11:28:56 GMT""}]","2016-08-31"
+"cond-mat/0406303","Itamar Borukhov","David Biron, Elisha Moses, Itamar Borukhov and S. A. Safran (Weizmann
+  Institute of Science, Israel)","Inter-filament Attractions Narrow the Length Distribution of Actin
+  Filaments","5 pages, 4 figures",,,,"cond-mat.soft cond-mat.stat-mech physics.bio-ph q-bio.BM",,"  We show that the exponential length distribution that is typical of actin
+filaments under physiological conditions dramatically narrows in the presence
+of (i) crosslinker proteins (ii) polyvalent counterions or (iii) depletion
+mediated attractions. A simple theoretical model shows that in equilibrium,
+short-range attractions enhance the tendency of filaments to align parallel to
+each other, eventually leading to an increase in the average filament length
+and a decrease in the relative width of the distribution of filament lengths.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 13:46:36 GMT""}]","2007-05-23"
+"cond-mat/0406304","Lingyin Zhu","L. Zhu, P.J. Hirschfeld, D.J. Scalapino","Elastic forward scattering in the cuprate superconducting state","12 pages, 14 figures",,"10.1103/PhysRevB.70.214503",,"cond-mat.supr-con cond-mat.str-el",,"  We investigate the effect of elastic forward scattering on the ARPES spectrum
+of the cuprate superconductors. In the normal state, small angle scattering
+from out-of-plane impurities is thought to broaden the ARPES spectral response
+with minimal effect on the resistivity or the superconducting transition
+temperature $T_c$. Here we explore how such forward scattering affects the
+ARPES spectrum in the d-wave superconducting state. Away from the nodal
+direction, the one-electron impurity scattering rate is found to be suppressed
+as $\omega$ approaches the gap edge by a cancellation between normal and
+anomalous scattering processes, leading to a square-root-like feature in the
+spectral weight as $\omega$ approaches $-\Delta_\k$ from below. For momenta
+away from the Fermi surface, our analysis suggests that a dirty optimally or
+overdoped system will still display a sharp but nondispersive peak which could
+be confused with a quasiparticle spectral feature. Only in cleaner samples
+should the true dispersing quasiparticle peak become visible. At the nodal
+point on the Fermi surface, the contribution of the anomalous scattering
+vanishes and the spectral weight exhibits a Lorentzian quasiparticle peak in
+both energy and momentum.
+  Our analysis, including a treatment of unitary scatterers and inelastic spin
+fluctuation scattering, suggests explanations for the sometimes mysterious
+lineshapes and temperature dependences of the peak structures observed in the
+\BSCCO system.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 14:07:40 GMT""}]","2009-11-10"
+"cond-mat/0406305","Shvaika Andrij","A. M. Shvaika, O. Vorobyov, J. K. Freericks, T. P. Devereaux","Resonant electronic Raman scattering near a quantum critical point","2 pages, 2 figures, contribution to the SCES04 conference","Physica B: Condensed Matter, Vol. 359-361 (2005) P. 705-707","10.1016/j.physb.2005.01.200",,"cond-mat.str-el cond-mat.mtrl-sci",,"  We calculate the resonant electronic Raman scattering for the Falicov-Kimball
+model near the Mott transition on a hypercubic lattice. The solution is exact,
+and employs dynamical mean field theory.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 14:31:33 GMT""}]","2007-05-23"
+"gr-qc/0406054","T. P. Singh","T. P. Singh (Tata Institute of Fundamental Research, Mumbai)","Quantum mechanics without spacetime IV : a noncommutative
+  Hamilton-Jacobi equation","5 pages",,,,"gr-qc hep-th quant-ph",,"  It has earlier been argued that there should exist a formulation of quantum
+mechanics which does not refer to a background spacetime. In this paper we
+propose that, for a relativistic particle, such a formulation is provided by a
+noncommutative generalisation of the Hamilton-Jacobi equation. If a certain
+form for the metric in the noncommuting coordinate system is assumed, along
+with a correspondence rule for the commutation relations, it can be argued that
+this noncommutative Hamilton-Jacobi equation is equivalent to standard quantum
+mechanics.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 09:37:19 GMT""}]","2007-05-23"
+"hep-ex/0406035","Junpei Shirai","The KamLAND Collaboration","Measurement of Neutrino Oscillation with KamLAND: Evidence of Spectral
+  Distortion","5 pages, 4 figures; submitted to Phys.Rev.Letters","Phys.Rev.Lett.94:081801,2005","10.1103/PhysRevLett.94.081801",,"hep-ex",,"  We present results of a study of neutrino oscillation based on a 766 ton-year
+exposure of KamLAND to reactor anti-neutrinos. We observe 258 \nuebar\
+candidate events with energies above 3.4 MeV compared to 365.2 events expected
+in the absence of neutrino oscillation. Accounting for 17.8 expected background
+events, the statistical significance for reactor \nuebar disappearance is
+99.998%. The observed energy spectrum disagrees with the expected spectral
+shape in the absence of neutrino oscillation at 99.6% significance and prefers
+the distortion expected from \nuebar oscillation effects. A two-neutrino
+oscillation analysis of the KamLAND data gives \DeltaMSq =
+7.9$^{+0.6}_{-0.5}\times10^{-5}$ eV$^2$. A global analysis of data from KamLAND
+and solar neutrino experiments yields \DeltaMSq =
+7.9$^{+0.6}_{-0.5}\times10^{-5}$ eV$^2$ and \ThetaParam =
+0.40$^{+0.10}_{-0.07}$, the most precise determination to date.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 08:18:40 GMT""},{""version"":""v2"",""created"":""Thu, 28 Oct 2004 11:19:50 GMT""},{""version"":""v3"",""created"":""Mon, 1 Nov 2004 04:19:02 GMT""}]","2012-08-27"
+"hep-ex/0406036","Arafat Gabareen Mokhtar","Arafat Gabareen Mokhtar","Recent Electroweak Measurements from the H1 and ZEUS Experiments","Talk presented at Moriond EW 2004, La Thuile, Italy, March 21-28, on
+  behalf of the H1 and ZEUS collaborations",,,,"hep-ex",,"  Neutral-current ({NC}) and charged-current ({CC}) deep inelastic scattering
+({DIS}) reactions have been studied in $e^+p$ and $e^-p$ collisions using the
+{H1} and {ZEUS} detectors at {HERA I}. Following the upgrade of the {HERA}
+accelerator, the {HERA II} program recently started with the first data in
+$e^+p$ scattering with longitudinally polarised positrons. In this paper, a
+summary of the electroweak results from {HERA I} and the first measurement of
+the cross section for $e^+p$ CC {DIS} at a longitudinal polarisation value of
+33% from the {ZEUS} collaboration are presented.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 11:02:02 GMT""},{""version"":""v2"",""created"":""Tue, 15 Jun 2004 08:29:21 GMT""},{""version"":""v3"",""created"":""Wed, 23 Jun 2004 16:51:50 GMT""},{""version"":""v4"",""created"":""Sun, 11 Jul 2004 11:22:53 GMT""}]","2007-05-23"
+"hep-ph/0406143","Edmond Berger","Edmond L. Berger, Pavel M. Nadolsky, Fredrick I. Olness, and Jon
+  Pumplin","Light Gluino Constituents of Hadrons and a Global Analysis of Hadron
+  Scattering Data","31 pages, 12 figures, RevTex","Phys.Rev.D71:014007,2005","10.1103/PhysRevD.71.014007","ANL-HEP-PR-04-59, CTEQ-0464","hep-ph",,"  Light strongly interacting supersymmetric particles may be treated as
+partonic constituents of nucleons in high energy scattering processes. We
+construct parton distribution functions for protons in which a light gluino is
+included along with standard model quark, antiquark, and gluon constituents. A
+global analysis is performed of a large set of data from deep-inelastic lepton
+scattering, massive lepton pair and vector boson production, and hadron jet
+production at large values of transverse momentum. Constraints are obtained on
+the allowed range of gluino mass as a function of the value of the strong
+coupling strength alpha_s(M_Z) determined at the scale of the Z boson mass. We
+find that gluino masses as small as 10 GeV are admissible provided that
+alpha_s(M_Z) \ge 0.12. Current hadron scattering data are insensitive to the
+presence of gluinos heavier than ~ 100 - 150 GeV.
+","[{""version"":""v1"",""created"":""Sat, 12 Jun 2004 19:59:31 GMT""}]","2008-11-26"
+"math-ph/0406024","Mikhail Altaisky","M.V.Altaisky","p-Adic wavelet transform and quantum physics","12 pages, LaTeX, 2 eps Figures, Talk at 1st Int. Conf. on $p$-Adic
+  Mathematical Physics, Moscow, Oct 1-5, 2003","Short version: Proc. Steklov Math. Inst. (2004) vol. 245, pp.
+  34-39 (eng), pp. 41-46(rus)",,,"math-ph math.MP math.NT quant-ph",,"  p-Adic wavelet transform is considered as a possible tool for the description
+of hierarchic quantum systems
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 10:57:25 GMT""}]","2007-05-23"
+"math/0406252","Boris D. Lubachevsky","R. L. Graham B. D. Lubachevsky","Dense Packings of Equal Disks in an Equilateral Triangle: From 22 to 34
+  and Beyond","39 pages, 30 figures","The Electronic Journal of Combinatorics 2 (1995), #A1",,,"math.MG math.CO",,"  Previously published packings of equal disks in an equilateral triangle have
+dealt with up to 21 disks. We use a new discrete-event simulation algorithm to
+produce packings for up to 34 disks. For each n in the range 22 =< n =< 34 we
+present what we believe to be the densest possible packing of n equal disks in
+an equilateral triangle. For these n we also list the second, often the third
+and sometimes the fourth best packings among those that we found. In each case,
+the structure of the packing implies that the minimum distance d(n) between
+disk centers is the root of polynomial P_n with integer coefficients. In most
+cases we do not explicitly compute P_n but in all cases we do compute and
+report d(n) to 15 significant decimal digits. Disk packings in equilateral
+triangles differ from those in squares or circles in that for triangles there
+are an infinite number of values of n for which the exact value of d(n) is
+known, namely, when n is of the form Delta(k) := k(k+1)/2. It has also been
+conjectured that d(n-1) = d(n) in this case. Based on our computations, we
+present conjectured optimal packings for seven other infinite classes of n,
+namely n = Delta(2k)+1, Delta(2k+1)+1, Delta(k+2)-2, Delta(2k+3)-3,
+Delta(3k+1)+2, 4*Delta(k) and 2*Delta(k+1)+2*Delta(k)-1. We also report the
+best packings we found for other values of n in these forms which are larger
+than 34, namely, n=37, 40, 42, 43, 46, 49, 56, 57, 60, 63, 67, 71, 79, 84, 92,
+93, 106, 112, 121, and 254, and also for n=58, 95, 108, 175, 255, 256, 258, and
+260. We say that an infinite class of packings of n disks, n=n(1),
+n(2),...n(k),..., is tight, if 1/d(n(k)+1) - 1/d(n(k)) is bounded away from
+zero as k goes to infinity. We conjecture that some of our infinite classes are
+tight, others are not tight, and that there are infinitely many tight classes.
+","[{""version"":""v1"",""created"":""Sat, 12 Jun 2004 20:28:31 GMT""}]","2007-05-23"
+"math/0406253","Vladimir Uspenskij","V.V.Uspenskij","On unitary representations of groups of isometries","4 pages",,,,"math.RT",,"  Is the topological group of all motions (including translations) of an
+infinite-dimensional Hilbert space $H$ isomorphic to a subgroup of the unitary
+group $U(H)$? This question was asked by Su Gao. We answer the question in the
+affirmative.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 02:01:05 GMT""}]","2007-05-23"
+"math/0406254","Bardakov Valerij Georgievich","Valerij G. Bardakov","On $p$-separability of subgroups of free metabelian groups","7 pages",,,,"math.GR",,"  We prove that every free metabelian non--cyclic group has a finitely
+generated isolated subgroup which is not separable in the class of nilpotent
+groups.
+  As a corollary we prove that for every prime number $p$ an arbitrary free
+metabelian non--cyclic group has a finitely generated $p'$--isolated subgroup
+which is not $p$--separable.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 05:30:13 GMT""}]","2007-05-23"
+"math/0406255","Dierk Schleicher","Dierk Schleicher","The Dynamical Fine Structure of Iterated Cosine Maps and a Dimension
+  Paradox","3 figures","Duke Math Journal 136 2 (2007), 343-356",,,"math.DS",,"  We discuss in detail the dynamics of maps $z\mapsto ae^z+be^{-z}$ for which
+both critical orbits are strictly preperiodic. The points which converge to
+$\infty$ under iteration contain a set $R$ consisting of uncountably many
+curves called ``rays'', each connecting $\infty$ to a well-defined ``landing
+point'' in $\C$, so that every point in $\C$ is either on a unique ray or the
+landing point of finitely many rays.
+  The key features of this paper are the following two: (1) this is the first
+example of a transcendental dynamical system where the Julia set is all of $\C$
+and the dynamics is described in detail using symbolic dynamics; and (2) we get
+the strongest possible version (in the plane) of the ``dimension paradox'': the
+set $R$ of rays has Hausdorff dimension 1, and each point in $\C\sm R$ is
+connected to $\infty$ by one or more disjoint rays in $R$; as a complement of a
+1-dimensional set, $\C\sm R$ has of course Hausdorff dimension 2 and full
+Lebesgue measure.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 13:38:20 GMT""}]","2007-08-21"
+"nlin/0406021","Marcio Jose Martins","G.A.P. Ribeiro and M.J. Martins","Mixed integrable SU(N) vertex model with arbitrary twists","32 pages, latex",,"10.1016/j.nuclphysb.2004.10.047","UFSCARF-th-04-17","nlin.SI",,"  We consider the quantum inverse scattering method for several mixed
+integrable models based on the rational SU(N) R-matrix with general toroidal
+boundary conditions. This includes systems whose Hilbert spaces are invariant
+by the discrete representations of the group SU(2) and the non-compact group
+SU(1,1) as well as the conjugate representation of the SU(N) symmetry.
+Introducing certain transformations on the quantum spaces we are able to solve
+generalizaed impurity problems including those related to singular matrices.
+","[{""version"":""v1"",""created"":""Sat, 12 Jun 2004 23:46:16 GMT""}]","2009-11-10"
+"nucl-th/0406036","Jialun Ping","Fan Wang, Jialun Ping, Di Qing, T. Goldman","Multi-quark states","13 pages, no figure","Phys.Atom.Nucl.68:808-813,2005; Yad.Fiz.68:841-846,2005","10.1134/1.1935013",,"nucl-th hep-ph",,"  The pentaquark state recently discovered has been discussed based on various
+quark model calculations. Odd parity for the state can not be ruled out
+theoretically because contributions related to non-trivial color structures
+have not been studied completely. Other multiquark states, especially
+dibaryons, have been discussed also. A strangeness -3 N$\Omega$ dibaryon has
+been shown to have a width as small as 12-22 keV and should be detectable in
+$\Omega$ high productivity reactions such as at RHIC, COMPAS and the planned
+JHF and FAIR projects.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 15:32:46 GMT""}]","2008-11-26"
+"physics/0406057","Hayk Haroutyunyan","H.L. Haroutyunyan and G. Nienhuis","Coherent control of atom dynamics in an optical lattice","Phys. Rev. A 64, 033424 (2001)",,"10.1103/PhysRevA.64.033424",,"physics.atom-ph",,"  On the basis of a simple exactly solvable model we discuss the possibilities
+for state preparation and state control of atoms in a periodic optical
+potential. In addition to the periodic potential a uniform force with an
+arbitrary time dependence is applied. The method is based on a formal
+expression for the full evolution operator in the tight-binding limit. This
+allows us to describe the dynamics in terms of operator algebra, rather than in
+analytical expansions.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 12:26:02 GMT""}]","2009-11-10"
+"physics/0406058","Frank Julicher","Karsten Kruse, Jean-Francois Joanny, Frank Julicher, Jacques Prost,
+  Ken Sekimoto","Generic theory of active polar gels: a paradigm for cytoskeletal
+  dynamics","28 pages, 2 figures",,"10.1140/epje/e2005-00002-5",,"physics.bio-ph cond-mat.soft q-bio.MN",,"  We develop a general theory for active viscoelastic materials made of polar
+filaments. This theory is motivated by the dynamics of the cytoskeleton. The
+continuous consumption of a fuel generates a non equilibrium state
+characterized by the generation of flows and stresses. Our theory can be
+applied to experiments in which cytoskeletal patterns are set in motion by
+active processes such as those which are at work in cells.
+","[{""version"":""v1"",""created"":""Sat, 12 Jun 2004 16:49:46 GMT""}]","2009-11-10"
+"q-bio/0406025","Chi Zhang","Song Liu, Chi Zhang, Yaoqi Zhou","Unbound Protein-Protein Docking Selections by the DFIRE-based
+  Statistical Pair Potential",,,,,"q-bio.BM q-bio.QM",,"  A newly developed statistical pair potential based on Distance-scaled Finite
+Ideal-gas REference (DFIRE) state is applied to unbound protein-protein docking
+structure selections. The performance of the DFIRE energy function is compared
+to those of the well-established ZDOCK energy scores and RosettaDock energy
+function using the comprehensive decoy sets generated by ZDOCK and RosettaDock.
+Despite significant difference in the functional forms and complexities of the
+three energy scores, the differences in overall performance for docking
+structure selections are small between DFIRE and ZDOCK2.3 and between DFIRE and
+RosettaDock. This result is remarkable considering that a single-term DFIRE
+energy function was originally designed for monomer proteins while
+multiple-term energy functions of ZDOCK and RosettaDock were specifically
+optimized for docking. This provides hope that the accuracy of the existing
+energy functions for docking can be improved.
+","[{""version"":""v1"",""created"":""Sat, 12 Jun 2004 21:00:35 GMT""},{""version"":""v2"",""created"":""Thu, 14 Oct 2004 17:38:18 GMT""}]","2007-05-23"
+"quant-ph/0406082","Ting Gao","Ting Gao, Feng-Li Yan, Zhi-Xi Wang","Deterministic secure direct communication using GHZ states and swapping
+  quantum entanglement","9 pages, no figure","Journal of Physics A: Mathematical and General, 38 (2005)
+  5761-5770","10.1088/0305-4470/38/25/011",,"quant-ph",,"  We present a deterministic secure direct communication scheme via
+entanglement swapping, where a set of ordered maximally entangled
+three-particle states (GHZ states), initially shared by three spatially
+separated parties, Alice, Bob and Charlie, functions as a quantum information
+channel. After ensuring the safety of the quantum channel, Alice and Bob apply
+a series local operations on their respective particles according to the
+tripartite stipulation and the secret message they both want to send to
+Charlie. By three Alice, Bob and Charlie's Bell measurement results, Charlie is
+able to infer the secret messages directly. The secret messages are faithfully
+transmitted from Alice and Bob to Charlie via initially shared pairs of GHZ
+states without revealing any information to a potential eavesdropper. Since
+there is not a transmission of the qubits carrying the secret message between
+any two of them in the public channel, it is completely secure for direct
+secret communication if perfect quantum channel is used.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 02:14:41 GMT""},{""version"":""v2"",""created"":""Mon, 5 Sep 2005 14:32:03 GMT""}]","2007-05-23"
+"quant-ph/0406083","Ting Gao","Ting Gao, Feng-Li Yan, Zhi-Xi Wang","Quantum secure direct communication by Einstein-Podolsky-Rosen pairs and
+  entanglement swapping","5 pages, no figure","Il Nuovo Cimento, 119B (2004) 313","10.1393/ncb/i2004-10090-1",,"quant-ph",,"  We present a quantum secure direct communication scheme achieved by swapping
+quantum entanglement. In this scheme a set of ordered Einstein-Podolsky-Rosen
+(EPR) pairs is used as a quantum information channel for sending secret
+messages directly. After insuring the safety of the quantum channel, the sender
+Alice encodes the secret messages directly by applying a series local
+operations on her particles sequence according to their stipulation.
+  Using three EPR pairs, three bits of secret classical information can be
+faithfully transmitted from Alice to remote Bob without revealing any
+information to a potential eavesdropper.
+  By both Alice and Bob's GHZ state measurement results, Bob is able to read
+out the encoded secret messages directly. The protocol is completely secure if
+perfect quantum channel is used, because there is not a transmission of the
+qubits carrying the secret message between Alice and Bob in the public channel.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 02:47:24 GMT""}]","2007-05-23"
+"quant-ph/0406084","Mark P. Davidson","Mark P. Davidson","Bremsstrahlung from Charged Bose-Einstein Condensates","15 pages, 1 figure",,,,"quant-ph",,"  Low energy bremsstrahlung formulae are derived for a particle beam of charged
+bosons forming a Bose-Einsten condensate. The expression for energy radiated
+consists of two terms in this case. One of them, the larger one in the limit of
+large numbers of Bosons in the state, is proportional to the number of bosons
+squared and has the same form as one obtains in a hydrodynamic model of quantum
+wave mechanics. This term is sensitive to the size and shape of the wave packet
+especially when the force field causing acceleration is localized in extent.
+The second term, identical to the single particle scattering formula, is less
+sensitive to the wave packet size and shape and is proportional to the number
+of bosons in the condensate. The conclusion is that for a Bose-Einstein
+condensate the radiated bremsstrahlung is a sensitive function of the wave
+packet shape which is quite different than for a beam of incoherent particles
+which do not show very much dependence on the wave packet. Only lowest order
+radiation is calculated. It is also found that to lowest order there does not
+exist any situation in which the radiation loss from a coherent state of bosons
+vanishes completely, so that there is no analog of superconductivity in a
+particle beam of this type at least within the net of assumptions made in this
+paper. The amount of radiation can be greatly suppressed however, as it is a
+sensitive function of the form of the wave function.
+","[{""version"":""v1"",""created"":""Sun, 13 Jun 2004 10:35:00 GMT""}]","2007-05-23"

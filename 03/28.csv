@@ -1,0 +1,346 @@
+"astro-ph/0403642","J. M. Wrobel","M.A. Garrett, J.M. Wrobel, R. Morganti","21st Century VLBI: Deep Wide-Field Surveys","5 pages, 1 figure. Presented at the meeting on ""Future Directions in
+  High Resolution Astronomy: A Celebration of the 10th Anniversary of the
+  VLBA"", held June 8-12, 2003, in Socorro, New Mexico, USA",,,,"astro-ph",,"  A 20-hour VLBI observation with the NRAO VLBA and GBT in the NOAO Bootes
+field reaches an rms noise of 9 microJy per beam at 1.4 GHz. Three sources were
+detected at 10-milliarcsecond resolution within the GBT primary beam of FWHM
+8.6', including the 20-milliJy calibrator and two sub-milliJy sources. By
+tapering the visibility data, portions of the VLBA primary beam of FWHM 29'
+were imaged at poorer sensitivity and resolution to yield five further
+detections. New developments at JIVE will permit deeper and wider VLBI surveys
+at full sensitivity and resolution, enabling new types of survey science.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 2004 21:55:01 GMT""}]","2007-05-23"
+"astro-ph/0403643","J. M. Wrobel","J.M. Wrobel, T.A. Rector, G.B. Taylor, S.T. Myers, C.D. Fassnacht","Active Galaxies at Milliarcsecond Resolution in the NOAO Deep Wide-Field
+  Survey","3 pages, 1 figure. Presented at the meeting on ""Future Directions in
+  High Resolution Astronomy: A Celebration of the 10th Anniversary of the
+  VLBA"", held June 8-12, 2003, in Socorro, New Mexico, USA",,,,"astro-ph",,"  We are using the NRAO VLBA at 5.0 GHz to image about 200 FIRST sources
+stronger than 10 mJy at 1.4 GHz in the NDWFS.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 2004 22:14:37 GMT""}]","2007-05-23"
+"astro-ph/0403644","Clifford M. Will","Clifford M. Will (Washington University, St. Louis & IAP, Paris)","On the Rate of Detectability of Intermediate-Mass Black-Hole Binaries
+  using LISA","6 pages, 3 figures, added discussion of implications of 10-year LISA
+  mission, accepted for publication in The Astrophysical Journal","Astrophys.J. 611 (2004) 1080","10.1086/422387",,"astro-ph gr-qc",,"  We estimate the rate at which the proposed space gravitational-wave
+interferometer LISA could detect intermediate-mass black-hole binaries, that
+is, binaries containing a black hole in the mass range 10 -- 100 Msun orbiting
+a black hole in the mass range 100 -- 1000 Msun. For one-year integrations
+leading up to the innermost stable orbit, and a signal-to-noise ratio of 10, we
+estimate a detection rate of only 1 per million years for 10 Msun/100 Msun
+binaries. The estimate uses the method of parameter estimation via matched
+filtering, incorporates a noise curve for LISA established by the LISA Science
+Team that is available online, and employs an IMBH formation rate model used by
+Miller (2002). We find that the detectable distance is relatively insensitive
+to LISA arm lengths or acceleration noise, but is roughly inversely
+proportional to LISA position errors, and varies roughly as T^(1/2), where T is
+the integration time in years. We also show that, while all IMBH systems in
+this mass range may be detected in the Virgo cluster up to 40 years before
+merger, none can be detected there earlier than 400 years before merger. An
+extended LISA mission that enabled 10-year integrations could detect IMBH
+systems at the Virgo cluster 1000 years before merger, and systems in galactic
+globular clusters a million years before merger. We compare and contrast these
+estimates with earlier estimates by Miller (2002).
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 09:35:17 GMT""},{""version"":""v2"",""created"":""Wed, 5 May 2004 08:06:11 GMT""}]","2009-11-10"
+"astro-ph/0403645","Knud Jahnke","S. F. Sanchez, K. Jahnke, L. Wisotzki, D. H. McIntosh, E. F. Bell, M.
+  Barden, S. V. W. Beckwith, A. Borch, J. A. R. Caldwell, B. Haeussler, S.
+  Jogee, K. Meisenheimer, C. Y. Peng, H.-W. Rix, R. S. Somerville, C. Wolf (for
+  the GEMS collaboration)","Colors of AGN host galaxies at 0.5<z<1.1 from GEMS","accepted for publication in ApJ, 22 pages, 13 figures; replaced with
+  accepted version; Figures 2, 3 and 10 in low-res, for high-res see
+  http://www.aip.de/~jahnke/paper/gems_lo_accepted.ps.gz","Astrophys.J. 614 (2004) 586-606","10.1086/423234",,"astro-ph",,"  We present the results from a study of the host galaxies of 15 optically
+selected AGNs with 0.5<z<1.1 from GEMS. GEMS is a Hubble Space Telescope
+imaging survey of a ~28""x28"" contiguous field centered on the Chandra Deep
+Field South in the F606W and F850LP filter bands. It incorporates the SEDs and
+redshifts of ~10000 objects, obtained by the COMBO-17 project. We have detected
+the host galaxies of all 15 AGNs in the F850LP-band (and 13/15 in the
+F606W-band), recovering their fluxes, morphologies and structural parameters.
+We find that 80% of the host galaxies have early-type (bulge-dominated)
+morphologies, while the rest have structures characteristic of late-type
+(disk-dominated) galaxies. We find that 25% of the early types, and 30% of the
+late types, exhibit disturbances consistent with galaxy interactions. The hosts
+show a wide range of colors, from those of red-sequence galaxies to blue colors
+consistent with ongoing star formation. Roughly 70% of the morphologically
+early-type hosts have rest-frame blue colors, a much larger fraction than those
+typical of non-active morphologically early-type galaxies in this redshift and
+luminosity range. Yet, we find that the early-type hosts are structurally
+similar to red-sequence ellipticals, inasmuch as they follow an absolute
+magnitude versus half-light size correlation that are consistent with the mean
+relation for early-type galaxies at similar redshifts.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 10:42:48 GMT""},{""version"":""v2"",""created"":""Mon, 14 Jun 2004 11:44:12 GMT""}]","2019-08-14"
+"cond-mat/0403672","Masoud Alimohammadi","Masoud Alimohammadi","Solvable multi-species reaction-diffusion processes, including the
+  extended drop-push model","14 pages. Minor changes have been done and a number of references are
+  added. To be published in European Physical Journal B","Eur. Phys. J. B 42 (2004) 415","10.1140/epjb/e2004-00398-y",,"cond-mat.stat-mech",,"  By considering the master equation of asymmetric exclusion process on a
+one-dimensional lattice, we obtain the most general boundary condition of the
+multi-species exclusion processes in which the number of particles is constant
+in time. This boundary condition introduces the various interactions to the
+particles, including ones which have been studied yet and the new ones. In
+these new models, the particles have simultaneously diffusion, the two-particle
+interactions $A_\alpha A_\beta\to A_\gamma A_\delta$, and the $n$-particle
+extended drop-push interaction. The constraints on reaction rates are obtained
+and in two-species case, they are solved to obtain a solvable model. The
+conditional probabilities of this model are calculated.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 08:27:20 GMT""},{""version"":""v2"",""created"":""Mon, 12 Jul 2004 07:00:13 GMT""},{""version"":""v3"",""created"":""Sat, 6 Nov 2004 06:51:40 GMT""}]","2009-11-10"
+"cond-mat/0403673","Jukka Pekola","J. P. Pekola","A Josephson junction as a detector of Poissonian charge injection",,,"10.1103/PhysRevLett.93.206601",,"cond-mat.mes-hall",,"  We propose a scheme of measuring the non-Gaussian character of noise by a
+hysteretic Josephson junction in the macroscopic quantum tunnelling (MQT)
+regime. We model the detector as an (under)damped $LC$ resonator. It transforms
+Poissonian charge injection into current through the detector, which samples
+the injection statistics over a floating time window of length $\sim Q/\omega
+_{\rm J}$, where $Q$ is the quality factor of the resonator and $\omega_{\rm
+J}$ its resonance frequency. This scheme ought to reveal the Poisson character
+of charge injection in a detector with realistic parameters.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 09:51:56 GMT""}]","2009-11-10"
+"cond-mat/0403674","Nadav M. Shnerb","Nurith Schupper and Nadav M. Shnerb","Spin Model for Inverse Melting and Inverse Glass Transition",,,"10.1103/PhysRevLett.93.037202",,"cond-mat.stat-mech cond-mat.soft",,"  A spin model that displays inverse melting and inverse glass transition is
+presented and analyzed. Strong degeneracy of the interacting states of an
+individual spin leads to entropic preference of the ""ferromagnetic"" phase,
+while lower energy associated with the non-interacting states yields a
+""paramagnetic"" phase as temperature decreases. An infinite range model is
+solved analytically for constant paramagnetic exchange interaction, while for
+its random exchange, analogous results based on the replica symmetric solution
+are presented. The qualitative features of this model are shown to resemble a
+large class of inverse melting phenomena. First and second order transition
+regimes are identified.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 12:36:18 GMT""}]","2009-11-10"
+"cond-mat/0403675","Yongqiang Xue","Yongqiang Xue and Mark A. Ratner","Scaling analysis of Schottky barriers at metal-embedded semiconducting
+  carbon nanotube interfaces","To appear in Phys.Rev.B Rapid Communications. Color figures available
+  in PRB online version","Phys.Rev.B 69, 161402(R) (2004)","10.1103/PhysRevB.69.161402",,"cond-mat.mes-hall cond-mat.mtrl-sci",,"  We present an atomistic self-consistent tight-binding study of the electronic
+and transport properties of metal-semiconducting carbon nanotube interfaces as
+a function of the nanotube channel length when the end of the nanotube wire is
+buried inside the electrodes. We show that the lineup of the nanotube band
+structure relative to the metal Fermi-level depends strongly on the metal work
+function but weakly on the details of the interface. We analyze the
+length-dependent transport characteristics, which predicts a transition from
+tunneling to thermally-activated transport with increasing nanotube channel
+length.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 15:16:15 GMT""}]","2009-11-10"
+"cond-mat/0403676","Sergei Mukhin I.","S.V. Baoukina and S.I. Mukhin","Bilayer Membrane in Confined Geometry: Interlayer Slide and Steric
+  Repulsion","23 pages,3 figures, pdf",,"10.1134/1.1826180",,"cond-mat.soft",,"  We derived free energy functional of a bilayer lipid membrane from the first
+principles of elasticity theory. The model explicitly includes
+position-dependent mutual slide of monolayers and bending deformation. Our free
+energy functional of liquid-crystalline membrane allows for incompressibility
+of the membrane and vanishing of the in-plane shear modulus and obeys
+reflectional and rotational symmetries of the flat bilayer. Interlayer slide at
+the mid-plane of the membrane results in local difference of surface densities
+of the monolayers. The slide amplitude directly enters free energy via the
+strain tensor. For small bending deformations the ratio between bending modulus
+and area compression coefficient, Kb/KA, is proportional to the square of
+monolayer thickness, h. Using the functional we performed self-consistent
+calculation of steric potential acting on bilayer between parallel confining
+walls separated by distance 2d. We found that temperature-dependent curvature
+at the minimum of confining potential is enhanced four times for a bilayer with
+slide as compared with a unit bilayer. We also calculate viscous modes of
+bilayer membrane between confining walls. Pure bending of the membrane is
+investigated, which is decoupled from area dilation at small amplitudes. Three
+sources of viscous dissipation are considered: water and membrane viscosities
+and interlayer drag. Dispersion has two branches. Confinement between the walls
+modifies the bending mode with respect to membrane in bulk solution.
+Simultaneously, inter-layer slipping mode, damped by viscous drag, remains
+unchanged by confinement.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 15:53:14 GMT""}]","2009-11-10"
+"cond-mat/0403677","Menderes Iskin","M. Iskin, I. O. Kulik","Persistent Currents in Helical Structures","4 pages, 2 figures. Submitted to PRB","Phys. Rev. B 70 195411 (2004)","10.1103/PhysRevB.70.195411",,"cond-mat.mes-hall",,"  Recent discovery of mesoscopic electronic structures, in particular the
+carbon nanotubes, made necessary an investigation of what effect may helical
+symmetry of the conductor (metal or semiconductor) have on the persistent
+current oscillations. We investigate persistent currents in helical structures
+which are non-decaying in time, not requiring a voltage bias, dissipationless
+stationary flow of electrons in a normal-metallic or semiconducting cylinder or
+circular wire of mesoscopic dimension. In the presence of magnetic flux along
+the toroidal structure, helical symmetry couples circular and longitudinal
+currents to each other. Our calculations suggest that circular persistent
+currents in these structures have two components with periods $\Phi_0$ and
+$\Phi_0/s$ ($s$ is an integer specific to any geometry). However, resultant
+circular persistent current oscillations have $\Phi_0$ period.
+\pacs{PACS:}PACS:73.23.-b
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 15:57:16 GMT""},{""version"":""v2"",""created"":""Mon, 29 Mar 2004 21:10:54 GMT""},{""version"":""v3"",""created"":""Sat, 8 May 2004 03:10:12 GMT""},{""version"":""v4"",""created"":""Thu, 19 Aug 2004 06:08:49 GMT""}]","2009-11-10"
+"hep-lat/0403028","Chuan Liu","Chuan Miao, Xining Du, Guangwei Meng and Chuan Liu","Lattice study on kaon pion scattering length in the $I=3/2$ channel","Latex file typeset with elsart.cls, 9 pages, 3 figures","Phys.Lett. B595 (2004) 400-407","10.1016/j.physletb.2004.05.073",,"hep-lat hep-ph nucl-th",,"  Using the tadpole improved Wilson quark action on small, coarse and
+anisotropic lattices, $K\pi$ scattering length in the $I=3/2$ channel is
+calculated within quenched approximation. The results are extrapolated towards
+the chiral and physical kaon mass region. Finite volume and finite lattice
+spacing errors are also analyzed and a result in the infinite volume and
+continuum limit is obtained. Our result is compared with the results obtained
+using Roy equations, Chiral Perturbation Theory, dispersion relations and the
+experimental data.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 01:37:43 GMT""}]","2009-11-10"
+"hep-ph/0403274","Dmitri Peressounko","D. Peressounko, for WA98 collaboration","Interferometry of direct photons in Pb+Pb collisions at 158 AGeV","4 pages, 3 figures, proceedings for Quark Matter 2004",,"10.1088/0954-3899/30/8/059",,"hep-ph",,"  We present final results from the WA98 experiment which provide first
+measurements of Bose-Einstein correlations of direct photons in
+ultrarelativistic heavy ion collisions. Invariant interferometric radii were
+extracted in the range $100<K_T<300$ MeV/c and compared to interferometric
+radii of charged pions. The yield of direct photons for $100<p_T<300$ MeV/c was
+extracted from the correlation strength parameter and compared to the yield of
+direct photons measured in WA98 at higher $p_T$ with the statistical
+subtraction method, and to predictions of a fireball model.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 2004 16:11:45 GMT""}]","2009-11-10"
+"hep-ph/0403275","Alexander Parkhomenko","A. Ali (DESY), E. Lunghi (Univ. Zurich), A.Ya. Parkhomenko (Univ.
+  Bern)","An Analysis of the Time-Dependent CP Asymmetry in $B \to \pi \pi$ Decays
+  in the Standard Model","25 pages, 15 figures, uses pr-imfp03-new style file (enclosed).
+  Submitted to the European Physical Journal C. An erroneous isospin-based
+  bound removed and the analysis corrected; references and several clarifying
+  remarks added","Eur.Phys.J.C36:183-200,2004","10.1140/epjc/s2004-01882-5","DESY-04-036; ZU-TH-02/04","hep-ph hep-ex",,"  Measurements of the time-dependent CP asymmetry in the decay $B^0_d (t) \to
+\pi^+ \pi^-$ and its charge conjugate by the BELLE and BABAR collaborations
+currently yield $C_{\pi \pi}^{+-} = -0.46 \pm 0.13$ and $S_{\pi \pi}^{+-} =
+-0.74 \pm 0.16$, characterizing the direct and mixing-induced CP asymmetries,
+respectively. We study the implication of these measurements on the CKM
+phenomenology taking into account the available information in the quark mixing
+sector. Our analysis leads to the results that the ratio $|P_c/T_c|$ involving
+the QCD-penguin and tree amplitudes and the related strong phase difference
+$\delta_c = \delta_c^P - \delta_c^T$ in the $B^0_d/\bar{B}_d^0 \to \pi^+ \pi^-$
+decays are quite substantial. Using the isospin symmetry to constrain
+$|P_c/T_c|$ and $\cos (2\theta)$, where $2 \theta$ parameterizes the
+penguin-induced contribution, we present a fit of the current data including
+the measurements of $S_{\pi\pi}^{+-}$ and $C_{\pi\pi}^{+-}$. Our best-fits
+yield: $\alpha = 92^\circ$, $\beta = 24^\circ$, $\gamma = 64^\circ$, $|P_c/T_c|
+= 0.77$, and $\delta_c = -43^\circ$. At 68% C.L., the ranges are: $81^\circ
+\leq \alpha \leq 103^\circ$, $21.9^\circ \leq \beta \leq 25.5^\circ$, $54^\circ
+\leq \gamma \leq 75^\circ$, $0.43 \leq |P_c/T_c| \leq 1.35$ and $-64^\circ \leq
+\delta_c \leq -29^\circ$. Currently {\it en vogue} dynamical approaches to
+estimate the hadronic matrix elements in $B \to \pi\pi$ decays do not provide a
+good fit of the current data.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 2004 23:40:58 GMT""},{""version"":""v2"",""created"":""Mon, 5 Apr 2004 12:18:48 GMT""}]","2010-11-23"
+"hep-ph/0403276","Utpal Sarkar","Utpal Sarkar","Parity in left-right symmetric models","14 pages latex file; corrected and rewritten introduction","Phys.Lett. B594 (2004) 308-314","10.1016/j.physletb.2004.05.041",,"hep-ph",,"  We considered parity breaking in some left-right symmetric models. We studied
+spontaneous and explicit parity violation in two cases with doublet and triplet
+Higgs scalars. The minimization condition in these two cases differ
+significantly. A comparative study of these models is presented emphasizing
+their phenomenological consequences.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 15:17:12 GMT""},{""version"":""v2"",""created"":""Thu, 1 Apr 2004 19:35:37 GMT""}]","2009-11-10"
+"hep-th/0403271","Matthias R. Gaberdiel","Matthias R Gaberdiel, Terry Gannon and Daniel Roggenkamp","The D-branes of SU(n)","13 pages","JHEP 0407 (2004) 015","10.1088/1126-6708/2004/07/015",,"hep-th",,"  D-branes that appear to generate all the K-theory charges of string theory on
+SU(n) are constructed, and their charges are determined.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 2004 18:09:27 GMT""}]","2009-11-10"
+"hep-th/0403272","Alon Faraggi","Ron Donagi, Alon E. Faraggi","On the Number of Chiral Generations in Z2 X Z2 Orbifolds","22 pages. 4 figures","Nucl.Phys. B694 (2004) 187-205","10.1016/j.nuclphysb.2004.06.009","OUTP-04-01P","hep-th hep-ph math.AG",,"  The data from collider experiments and cosmic observatories indicates the
+existence of three light matter generations. In some classes of string
+compactifications the number of generations is related to a topological
+quantity, the Euler characteristic. However, these do not explain the existence
+of three generations. In a class of free fermionic string models, related to
+the Z2 X Z2 orbifold compactification, the existence of three generations is
+correlated with the existence of three twisted sectors in this class of
+compactifications. However, the three generation models are constructed in the
+free fermionic formulation and their geometrical correspondence is not readily
+available. In this paper we classify quotients of the Z2 X Z2 orbifold by
+additional symmetric shifts on the three complex tori. We show that three
+generation vacua are not obtained in this manner, indicating that the
+geometrical structures underlying the free fermionic models are more esoteric.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 2004 21:23:11 GMT""}]","2010-04-05"
+"hep-th/0403273","Douglas A. Singleton","Douglas Singleton","Gravitational trapping potential with arbitrary extra dimensions","7 pages revtex. No figures. References added some discussions changed","Phys.Rev. D70 (2004) 065013","10.1103/PhysRevD.70.065013",,"hep-th",,"  We extend a recently discovered, non-singular 6 dimensional brane, solution
+to D=4+n dimensions. As with the previous 6D solution the present solution
+provides a gravitational trapping mechanism for fields of spin 0, 1/2, 1 and 2.
+There is an important distinction between 2 extra dimensions and $n$ extra
+dimensions that makes this more than a trivial extension. In contrast to
+gravity in n >2 dimensions, gravity in n=2 dimensions is conformally flat. The
+stress-energy tensor required by this solution has reasonable physically
+properties, and for n=2 and n=3 can be made to asymptotically go to zero as one
+moves away from the brane.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 11:29:15 GMT""},{""version"":""v2"",""created"":""Tue, 27 Jul 2004 21:08:03 GMT""}]","2009-11-10"
+"math-ph/0403051","Uday Sukhatme","Avinash Khare, Arul Lakshminarayan, Uday Sukhatme","Cyclic Identities Involving Ratios of Jacobi Theta Functions","23 pages, 0 figures",,,,"math-ph hep-th math.MP quant-ph",,"  Identities involving cyclic sums of terms composed from Jacobi elliptic
+functions evaluated at $p$ equally shifted points were recently found. The
+purpose of this paper is to re-express these cyclic identities in terms of
+ratios of Jacobi theta functions, since many physicists prefer using Jacobi
+theta functions rather than Jacobi elliptic functions.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 2004 21:21:36 GMT""}]","2007-05-23"
+"math-ph/0403052","Dmitri Vassilevich","Dmitri V. Vassilevich","Spectral problems from quantum field theory","19p., a talk at the Spectral Geometry Workshop, Holbaek, 2003, to be
+  published in Contemporary Mathematics","Contemp.Math. 366 (2005) 3-22",,,"math-ph hep-th math.MP",,"  We describe how spectral functions of differential operators appear in the
+quantum field theory context. We formulate consistency conditions which should
+be satisfied by the operators and by the boundary conditions. We review some
+modern developments in quantum field theory and strings and show which new
+spectral and boundary value problems arise.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 14:14:24 GMT""}]","2007-05-23"
+"math/0403479","Bogdan Alexandrov","Bogdan Alexandrov","On weak holonomy","17 pages, LATEX; two references added",,,,"math.DG",,"  We prove that SU(n) (n > 2) and Sp(n)U(1) (n > 1) are the only connected Lie
+groups acting transitively and effectively on some sphere which can be weak
+holonomy groups of a Riemannian manifold without having to contain its holonomy
+group. In both cases the manifold is Kaehler.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 2004 17:53:34 GMT""},{""version"":""v2"",""created"":""Thu, 15 Jul 2004 12:56:49 GMT""}]","2007-05-23"
+"math/0403480","Robert L. Griess Jr.","Robert L. Griess Jr","Pieces of 2^d: Existence and uniqueness for Barnes-Wall and Ypsilanti
+  lattices","56 pages",,,,"math.GR math.CO",,"  We give a new existence proof for the rank 2^d even lattices usually called
+the Barnes-Wall lattices, and establish new results on uniqueness, structure
+and transitivity of the automorphism group on certain kinds of sublattices. Our
+proofs are relatively free of calculations, matrix work and counting, due to
+the uniqueness viewpoint. We deduce the labeling of coordinates on which
+earlier constructions depend. Extending these ideas, we construct in dimensions
+2^d, for d>>0, the Ypsilanti lattices, which are families of indecomposable
+even unimodular lattices which resemble the Barnes-Wall lattices. The number
+Upsilon (2^d) of isometry types here is large: log_2 (Upsilon (2^d)) has
+dominant term at least (r/4) d 2^{2d}, for any r in [0, 1/2). The Ypsilanti
+lattices may be the first explicitly given families whose sizes are
+asymptotically comparable to the Siegel mass formula estimate (log_2(mass(n))
+has dominant term (1/4) log_2(n) n^2). This work continues our general
+uniqueness program for lattices, begun in Pieces of Eight. See also our new
+uniquness proof for the E_8-lattice.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 01:18:54 GMT""}]","2007-05-23"
+"math/0403483","David Johnson","David L. Johnson and Penelope Smith","Partial regularity of mass-minimizing Cartesian currents","36 pages, no figures. Published version, with minor revisions from
+  previous arxive version","Ann. Global Analysis and Geometry 30 (2006), 239-287",,,"math.DG math.AP","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Let B be a fiber bundle with compact fiber F over a compact Riemannian
+n-manifold M. There is a natural Riemannian metric on the total space B
+consistent with the metric on M. With respect to that metric, the volume of a
+rectifiable section s:M--> B is the mass of the image s(M) as a rectifiable
+n-current in B. Theorem: For any homology class of sections of B, there is a
+mass-minimizing Cartesian current T representing that homology class which is
+the graph of a C^1 section on an open dense subset of M.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 05:15:28 GMT""},{""version"":""v2"",""created"":""Tue, 25 May 2004 14:15:07 GMT""},{""version"":""v3"",""created"":""Sun, 18 Jul 2004 04:16:03 GMT""},{""version"":""v4"",""created"":""Thu, 17 Jul 2008 20:09:01 GMT""}]","2008-07-17"
+"nlin/0403050","Sandeep Krishna","Sandeep Krishna","Formation and Destruction of Autocatalytic Sets in an Evolving Network
+  Model","PhD. thesis (169 pages, 1 tex file, 89 ps and eps files, for better
+  resolution images of Figures 1.1-1.4 contact the author)",,,,"nlin.AO",,"  I analyse a model of an evolving network represented as a directed graph;
+each node corresponds to one molecular species and the links to catalytic
+interactions between species. Over short timescales the graph remains fixed
+while relative populations of the molecular species change according to a set
+of coupled differential equations. Over long timescales the system is subject
+to periodic perturbations, each of which adds one new node to the graph, with
+random links to other nodes, and removes one node with the least relative
+population. Starting from a sparse random graph, a small autocatalytic set
+(ACS) inevitably forms and then grows by accreting nodes until it spans the
+entire graph. The resultant fully autocatalytic graph, whose probability of
+forming by pure chance is very small, nevertheless forms in this model in an
+average time that grows only logarithmically with the size of the system. ACSs
+can also get destroyed, often accompanied by the sudden extinction of a large
+number of species. I show that the largest of the extinction events in this
+model are caused by one of three mechanisms, each of which produces a specific
+discontinuous change in the graph's topology. The model is analytically
+tractable: two theorems are proved which determine the set of nodes with least
+relative population in the attractor, for any given graph. This in turn can be
+used to analytically demonstrate the inevitability of the formation and growth
+of ACSs and calculate the associated timescales. Finally, I show that the
+formation and growth of ACSs is robust to the relaxation of many of the
+idealizations made to enhance the analytical tractability of the model.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 14:08:22 GMT""}]","2007-05-23"
+"nucl-ex/0403055","David d'Enterria","David d'Enterria","Indications of suppressed high p_T hadron production in nucleus-nucleus
+  collisions at CERN-SPS","Updated versions of Figs. 1,2 and 4. Minor text modifications","Phys.Lett.B596:32-43,2004","10.1016/j.physletb.2004.06.071",,"nucl-ex hep-ex",,"  Inclusive pion production at high transverse momenta (p_T > 2 GeV/c) in
+nucleus-nucleus (A+A) collisions at CERN SPS (sqrt(s_NN)~20 GeV) is revisited
+and systematically compared to all existing proton-proton data in the same
+range of center-of-mass energies. The ratio of A+A to p+p pion cross-sections
+(nuclear modification factor) for 0-8% central Pb+Pb, Pb+Au and S+Au reactions
+does not show a strong enhancement as a function of p_T as previously found,
+but is consistent with scaling with the number of nucleon-nucleon (NN)
+collisions. Neutral pion yields per NN collision in head-on Pb+Pb reactions are
+suppressed, whereas peripheral yields are enhanced. These results together
+indicate that some amount of ``jet quenching'' may already be present in
+central heavy-ion reactions at sqrt(s_NN)~20 GeV.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 2004 20:31:03 GMT""},{""version"":""v2"",""created"":""Thu, 27 May 2004 23:06:18 GMT""}]","2008-11-26"
+"nucl-th/0403082","Krzysztof Pomorski","K. Pomorski","A Particle number conserving shell-correction method","11 pages in LaTeX, 7 figures","Phys.Rev. C70 (2004) 044306","10.1103/PhysRevC.70.044306",,"nucl-th",,"  The shell correction method is revisited. Contrary to the traditional
+Strutinsky method, the shell energy is evaluated by an averaging over the
+number of particles and not over the single-particle energies, which is more
+consistent with the definition of the macroscopic energy. In addition, the
+smooth background is subtracted before averaging the sum of single-particle
+energies, which significantly improves the plateau condition and allows to
+apply the method also for nuclei close to the proton or neutron drip lines. A
+significant difference between the shell correction energy obtained with the
+traditional and the new method is found in particular for highly degenerated
+single-particle spectra (as i.e. in magic nuclei) while for deformed nuclei
+(where the degeneracy is lifted to a large extent) both estimates are close,
+except in the region of super or hyper-deformed states.
+","[{""version"":""v1"",""created"":""Sat, 27 Mar 2004 18:08:32 GMT""}]","2009-11-10"
+"quant-ph/0403198","Jian Qi Shen","Jian Qi Shen","Automatical generation of nonadiabatic conditional geometric phase shift
+  via a noncoplanar fiber system","4 pages, Latex",,,,"quant-ph",,"  A new scheme of realizing the nonadiabatic conditional geometric phase shift
+via a noncoplanar (and coiled) fiber system is presented in this Letter. It is
+shown that the effective Hamiltonian that describes the interaction of
+polarized photons with the fiber medium is just the Wang-Keiji type of
+Hamiltonian. This, therefore, means that the coiled fiber system may be an
+ideal implementation of realizing the nonadiabatic geometric phase gates for
+the topological quantum computation. The remarkable feature of the present
+method is that it can automatically meet the conditions and requirements
+proposed in the Wang-Keiji scheme: (i) in the coiled fiber system, the
+dynamical phase of photon wavefunction caused by the interaction Hamiltonian
+automatically vanishes; (ii) the Wang-Keiji requirement for the parameters in
+the Wang-Keiji Hamiltonian can be exactly satisfied automatically in the fiber
+system; (iii) the conditional initial state can be easily achieved by
+manipulating the initial wave vector of polarized photons. Due to these three
+advantages, the coiled fiber system may be a potentially practical way of
+achieving the nonadiabatic conditional geometric phase shift (and hence the
+nonadiabatic geometric quantum gates).
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 08:49:07 GMT""}]","2007-05-23"
+"quant-ph/0403199","Norbert Straumann","Norbert Straumann","The Role of the Exclusion Principle for Atoms to Stars: A Historical
+  Account","28 pages, Invited talk at the 12th Workshop on Nuclear Astrophysics,
+  March 22-27, 2004, Ringberg Castle, Germany",,,,"quant-ph physics.hist-ph",,"  In a first historical part I shall give a detailed description of how Pauli
+discovered --before the advent of the new quantum mechanics -- his exclusion
+principle. The second part is devoted to the insight and results that have been
+obtained in more recent times in our understanding of the stability of matter
+in bulk, both for ordinary matter (like stones) and self-gravitating bodies.
+","[{""version"":""v1"",""created"":""Sun, 28 Mar 2004 12:14:25 GMT""},{""version"":""v2"",""created"":""Mon, 16 Aug 2004 09:38:22 GMT""}]","2007-05-23"

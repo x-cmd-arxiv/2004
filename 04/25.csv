@@ -1,0 +1,315 @@
+"cond-mat/0404593","Sergey Dorogovtsev","S.N. Dorogovtsev, J.F.F. Mendes","The shortest path to complex networks","25 pages, a contribution to `Complex Systems and Inter-disciplinary
+  Science', v.1, eds. N. Johnson, J. Efstathiou, and F. Reed-Tsochas (World
+  Scientific, 2004), to be published",,,,"cond-mat.stat-mech cs.NI nlin.AO q-bio.MN",,"  1. The birth of network science. 2. What are random networks? 3. Adjacency
+matrix. 4. Degree distribution. 5. What are simple networks? Classical random
+graphs. 6. Birth of the giant component. 7. Topology of the Web. 8.Uncorrelated
+networks. 9. What are small worlds? 10. Real networks are mesoscopic objects.
+11. What are complex networks? 12. The configuration model. 13. The absence of
+degree--degree correlations. 14.Networks with correlated degrees.15.Clustering.
+16. What are small-world networks? 17. `Small worlds' is not the same as
+`small-world networks'. 18. Fat-tailed degree distributions. 19.Reasons for the
+fat-tailed degree distributions. 20. Preferential linking. 21. Condensation of
+edges. 22. Cut-offs of degree distributions. 23. Reasons for correlations in
+networks. 24. Classical random graphs cannot be used for comparison with real
+networks. 25. How to measure degree--degree correlations. 26. Assortative and
+disassortative mixing. 27. Disassortative mixing does not mean that vertices of
+high degrees rarely connect to each other. 28. Reciprocal links in directed
+nets. 29. Ultra-small-world effect. 30. Tree ansatz. 31.Ultraresilience against
+random failures. 32. When correlated nets are ultraresilient. 33. Vulnerability
+of complex networks. 34. The absence of an epidemic threshold. 35. Search based
+on local information. 36.Ultraresilience disappears in finite nets. 37.Critical
+behavior of cooperative models on networks. 38. Berezinskii-Kosterlitz-Thouless
+phase transitions in networks. 39.Cascading failures. 40.Cliques & communities.
+41. Betweenness. 42.Extracting communities. 43. Optimal paths. 44.Distributions
+of the shortest-path length & of the loop's length are narrow. 45. Diffusion on
+networks. 46. What is modularity? 47.Hierarchical organization of networks. 48.
+Convincing modelling of real-world networks:Is it possible? 49. The small Web..
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 2004 16:21:05 GMT""},{""version"":""v2"",""created"":""Sun, 2 May 2004 16:14:24 GMT""},{""version"":""v3"",""created"":""Thu, 27 May 2004 11:46:14 GMT""},{""version"":""v4"",""created"":""Sat, 24 Jul 2004 20:02:20 GMT""}]","2007-05-23"
+"cond-mat/0404597","Zoi Rapti","Z. Rapti, P.G. Kevrekidis, D.J. Frantzeskakis and B.A. Malomed","On the Modulational Instability of the Nonlinear Schr\""odinger Equation
+  with Dissipation",,,"10.1238/Physica.Topical.113a00074",,"cond-mat.soft",,"  The modulational instability of spatially uniform states in the nonlinear
+Schr\""odinger equation is examined in the presence of higher-order dissipation.
+The study is motivated by results on the effects of three-body recombination in
+Bose-Einstein condensates, as well as by the important recent work of Segur et
+al. on the effects of linear damping in NLS settings. We show how the presence
+of even the weakest possible dissipation suppresses the instability on a longer
+time scale. However, on a shorter scale, the instability growth may take place,
+and a corresponding generalization of the MI criterion is developed. The
+analytical results are corroborated by numerical simulations. The method is
+valid for any power-law dissipation form, including the constant dissipation as
+a special case.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 2004 23:26:18 GMT""}]","2015-06-24"
+"cond-mat/0404598","Vadim Apalkov","V. M. Apalkov and M. E. Raikh (University of Utah)","Effective Drag Between Strongly Inhomogeneous Layers: Exact Results and
+  Applications","7 pages, 3 figures","Phys. Rev. B 71, 245109 (2005)","10.1103/PhysRevB.71.245109",,"cond-mat.dis-nn",,"  We generalize Dykhne's calculation of the effective resistance of a 2D
+two-component medium to the case of frictional drag between the two parallel
+two-component layers. The resulting exact expression for the effective
+transresistance, $\rho^D_{eff}$, is analyzed in the limits when the resistances
+and transresistances of the constituting components are strongly different -
+situation generic for the vicinity of the {\em classical} (percolative)
+metal-insulator transition (MIT). On the basis of this analysis we conclude
+that the evolution of $\rho^D_{eff}$ across the MIT is determined by the type
+of correlation between the components, constituting the 2D layers. Depending on
+this correlation, in the case of two electron layers, $\rho^D_{eff}$ changes
+either monotonically or exhibits a sharp maximum. For electron-hole layers
+$\rho^D_{eff}$ is negative and $|\rho^D_{eff}|$ exhibits a sharp minimum at the
+MIT.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 2004 23:54:15 GMT""}]","2009-11-10"
+"cond-mat/0404599","Zoi Rapti","Z. Rapti, P.G. Kevrekidis and V.V. Konotop","On the modulational stability of Gross-Pittaevskii type equations in 1+1
+  dimensions","Appeared in the Proceedings of the 3rd Conference, Localization &
+  Energy Transform in Nonlinear Systems, June 17-21 2002, San Lorenzo de el
+  Escorial Madrid",,,,"cond-mat.soft",,"  The modulational stability of the nonlinear Schr{\""o}dinger (NLS) equation is
+examined in the cases with linear and quadratic external potential. This study
+is motivated by recent experimental studies in the context of matter waves in
+Bose-Einstein condensates. The linear case can be examined by means of the
+Tappert transformation and can be mapped to the NLS in the appropriate
+(constant acceleration) frame. The quadratic case can be examined by using a
+lens-type transformation that converts it into a regular NLS with an additional
+linear growth term.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 00:34:29 GMT""}]","2007-05-23"
+"cond-mat/0404600","Zoi Rapti","Z. Rapti, P.G. Kevrekidis, A. Smerzi and A.R. Bishop","Modulational and Parametric Instabilities of the Discrete Nonlinear
+  Schr\""odinger Equation",,"J. Phys. B: At. Mol. Opt. Phys. 37, (2004) S257-S264","10.1088/0953-4075/37/7/070",,"cond-mat.soft",,"  We examine the modulational and parametric instabilities arising in a
+non-autonomous, discrete nonlinear Schr{\""o}dinger equation setting. The
+principal motivation for our study stems from the dynamics of Bose-Einstein
+condensates trapped in a deep optical lattice. We find that under periodic
+variations of the heights of the interwell barriers (or equivalently of the
+scattering length), additionally to the modulational instability, a window of
+parametric instability becomes available to the system. We explore this
+instability through multiple-scale analysis and identify it numerically. Its
+principal dynamical characteristic is that, typically, it develops over much
+larger times than the modulational instability, a feature that is qualitatively
+justified by comparison of the corresponding instability growth rates.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 01:18:35 GMT""}]","2015-06-24"
+"cond-mat/0404601","Zoi Rapti","Z. Rapti, P.G. Kevrekidis, A. Smerzi and A.R. Bishop","Variational Approach to the Modulational Instability",,"Phys. Rev. E 69, 017601 (2004)","10.1103/PhysRevE.69.017601",,"cond-mat.soft",,"  We study the modulational stability of the nonlinear Schr\""odinger equation
+(NLS) using a time-dependent variational approach. Within this framework, we
+derive ordinary differential equations (ODEs) for the time evolution of the
+amplitude and phase of modulational perturbations. Analyzing the ensuing ODEs,
+we re-derive the classical modulational instability criterion. The case
+(relevant to applications in optics and Bose-Einstein condensation) where the
+coefficients of the equation are time-dependent, is also examined.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 01:49:32 GMT""}]","2009-11-10"
+"cond-mat/0404602","Jiulin Du","Jiulin Du","Nonextensivity in nonequilibrium plasma systems with Coulombian
+  long-range interactions","11 pages, 22 references. To appear in Phys. Lett.A 2004","Phys. Lett. A 329: 262-267, 2004","10.1016/j.physleta.2004.07.010",,"cond-mat.stat-mech astro-ph physics.plasm-ph",,"  The nonextensivity in a non-isothermal plasma system with the Coulombian
+long-range interactions is studied in the framework of Tsallis statistics. We
+present for first time a mathematical expression of the nonextensive parameter
+q based on the mathematical theory about the generalized Boltzmann equation and
+the q-H theorem and the Maxwellian q-velocity distribution. We obtain a new
+physical explanation for q concerning the nature of non-isothermal
+configurations in plasma systems with Coulombian long-range interactions. We
+also provide one illustration for Almeida theorem (Physica A 300(2001)424) from
+the kinetic analyses of plasma systems, which means that Tsallis statistics
+might be a suitable statistics for the description of a nonequilibrium system
+with a temperature gradient in it.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 11:56:55 GMT""}]","2015-08-10"
+"cs/0404052","Jiang Qiu","Keith L. Clark, Peter J. Robinson, Richard Hagen","Multi-Threading And Message Communication In Qu-Prolog","Appeared in Theory and Practice of Logic Programming, vol. 1, no. 3,
+  2001","Theory and Practice of Logic Programming, vol. 1, no. 3, 2001",,,"cs.PL",,"  This paper presents the multi-threading and internet message communication
+capabilities of Qu-Prolog. Message addresses are symbolic and the
+communications package provides high-level support that completely hides
+details of IP addresses and port numbers as well as the underlying TCP/IP
+transport layer. The combination of the multi-threads and the high level
+inter-thread message communications provide simple, powerful support for
+implementing internet distributed intelligent applications.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 03:49:44 GMT""}]","2007-05-23"
+"gr-qc/0404103","Kirill A. Kazakov","Kirill A. Kazakov","Long-Range Behavior in Quantum Gravity","A chapter contributed to ``Progress in General Relativity and Quantum
+  Cosmology Research'' (Nova Science Publishers), 33 pages",,,,"gr-qc",,"  Quantum gravity effects of zeroth order in the Planck constant are
+investigated in the framework of the low-energy effective theory. A special
+emphasis is placed on establishing the correspondence between classical and
+quantum theories, for which purpose transformation properties of the
+\hbar^0-order radiative contributions to the effective gravitational field
+under deformations of a reference frame are determined. Using the
+Batalin-Vilkovisky formalism it is shown that the one-loop contributions
+violate the principle of general covariance, in the sense that the quantities
+which are classically invariant under such deformations take generally
+different values in different reference frames. In particular, variation of the
+scalar curvature under transitions between different reference frames is
+calculated explicitly. Furthermore, the long-range properties of the two-point
+correlation function of the gravitational field are examined. Using the
+Schwinger-Keldysh formalism it is proved that this function is finite in the
+coincidence limit outside the region of particle localization. In this limit,
+the leading term in the long-range expansion of the correlation function is
+calculated explicitly, and the relative value of the root mean square
+fluctuation of the Newton potential is found to be 1/\sqrt{2}. It shown also
+that in the case of a macroscopic gravitating body, the terms violating general
+covariance, and the field fluctuation are both suppressed by a factor 1/N,
+where N is the number of particles in the body. This leads naturally to a
+macroscopic formulation of the correspondence between classical and quantum
+theories of gravitation. As an application of the obtained results, the secular
+precession of a test particle orbit in the field of a black hole is determined.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 08:07:21 GMT""}]","2007-05-23"
+"hep-ph/0404221","Masayuki Uehara","M. Uehara","A Unitarized Chiral Approach to f0(980) and a0(980) States and Nature of
+  Light Scalar Resonances","20 pages and 10 figures",,,,"hep-ph",,"  We show that the f_0(980) and a_0(980) states appearing in scattering and
+production processes can be described quite well by the two-channel
+Oller-Oset-Pel\'aez (OOP) version of unitarized chiral theories. It is
+impossible, however, to deduce a conclusion on the nature of them from the
+fitting to experimental data alone. Using explicit N_c dependence of parameters
+in OOP amplitudes we demonstrate that light scalar resonances are not of q\bar
+q states but dynamical rescattering effects generated under chiral symmetry,
+unitarity and channel couplings.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 04:49:42 GMT""}]","2007-05-23"
+"hep-th/0404195","Evgueniy Vitchev","Evgueniy S. Vitchev","Families of Commuting Integrals of Motion with Certain Symmetries","18 pages, 1 figure, LaTeX, uses wick.sty",,,,"hep-th",,"  Some results for commuting local integrals of motion for free bosonic
+theories are presented, which can be applied in construction of integrable
+boundary states. Usable program code for calculation of these integrals of
+motion is also introduced.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 04:50:52 GMT""}]","2007-05-23"
+"hep-th/0404197","Pedro J. Silva","Donald Marolf, Luca Martucci and Pedro J. Silva","The explicit form of the effective action for F1 and D-branes","9 pages, based on the talk given at the RTN workshop of 2003
+  Copenhagen: 15/9-20/9/03. Published in the proceedings of the conference","Class.Quant.Grav. 21 (2004) S1385-S1390","10.1088/0264-9381/21/10/011",,"hep-th",,"  In this work we consider the full interacting effective actions for
+fundamental strings and D-branes in arbitrary bosonic type II supergravity
+backgrounds. The explicit form of these actions is given in terms of component
+fields, up to second order in the fermions. The results take a compact form
+exhibiting $\kappa$-symmetry, as well as supersymmetry in a background with
+Killing spinors. Also we give the explicit transformation rules for these
+symmetries in all cases.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 09:25:36 GMT""}]","2009-11-10"
+"math-ph/0404056","Hiroshi Fukuda","Toshiaki Fujiwara, Hiroshi Fukuda, Atsushi Kameyama, Hiroshi Ozaki and
+  Michio Yamada","Synchronised Similar Triangles for Three-Body Orbit with Zero Angular
+  Momentum","14 pages, 3 figures, submitted to The Journal of Physics A","J. Phys. A: Math. Gen. 37 (2004) 10571-10584","10.1088/0305-4470/37/44/008",,"math-ph math.DS math.MP",,"  Geometrical properties of three-body orbits with zero angular momentum are
+investigated.
+  If the moment of inertia is also constant along the orbit, the triangle whose
+vertexes are the positions of the bodies, and the triangle whose perimeters are
+the momenta of the bodies, are always similar (``synchronised similar
+triangles''). This similarity yields kinematic equalities between mutual
+distances and magnitude of momenta. Moreover, if the orbit is a solution to the
+equation of motion under homogeneous potential, the orbit has a new constant
+involving momenta.
+  For orbits with zero angular momentum and non-constant moment of inertia, we
+introduce scaled variables, positions divided by square root of the moment of
+inertia and momenta derived from the velocity of the scaled positions. Then the
+similarity and the kinematic equalities hold for the scaled variables. Using
+this similarity, we prove that any bounded three-body orbit with zero angular
+momentum under homogeneous potential whose degree is smaller than 2 has
+infinitely many collinear configurations (syzygies or eclipses) or collisions.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 2004 22:17:36 GMT""}]","2012-01-17"
+"math-ph/0404057","Martin Zirnbauer","Martin R. Zirnbauer","The supersymmetry method of random matrix theory","Short review article (max. 4000 words) solicited by the editors of
+  the Encyclopedia of Mathematical Physics (Elsevier, 2005)",,,,"math-ph math.MP",,"  The supersymmetry method pioneered by Wegner and Efetov (1979-1983) is
+reviewed for the case of Hermitian band random matrices, with special attention
+given to the original method of Schaefer and Wegner and a recent variant due to
+Fyodorov. Particular emphasis is placed on correctness of the mathematical
+reasoning.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 11:36:56 GMT""}]","2007-05-23"
+"math/0404444","Ludkovsky Sergey Victor","S.V. Ludkovsky","Unbounded operators on Banach spaces over the quaternion field","20 pages","2007, Hypercomplex Numbers in Geometry and Physics, V. 4: 1 (7)",,,"math.OA math.SP",,"  Resolvents of quasi-linear operators and operator algebras in Banach spaces
+over the quaternion field are investigated. Spectral theory of unbounded
+nonlinear operators in quaternion Banach spaces is studied. Strongly continuous
+semigroups of quaternion quasi-linear operators are investigated and the polar
+decomposition theorem for them is proved.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 2004 16:09:47 GMT""}]","2018-12-18"
+"math/0404446","Andrei Zelevinsky","Arkady Berenstein, Andrei Zelevinsky","Quantum cluster algebras","Minor corrections; final version, to appear in Advances in
+  Mathematics; 41 pages",,,,"math.QA math.AG math.RT",,"  Cluster algebras were introduced by S. Fomin and A. Zelevinsky in
+math.RT/0104151; their study continued in math.RA/0208229, math.RT/0305434.
+This is a family of commutative rings designed to serve as an algebraic
+framework for the theory of total positivity and canonical bases in semisimple
+groups and their quantum analogs. In this paper we introduce and study quantum
+deformations of cluster algebras.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 2004 18:02:53 GMT""},{""version"":""v2"",""created"":""Fri, 9 Jul 2004 21:05:40 GMT""}]","2007-05-23"
+"math/0404447","M. R. Grasselli","M. R. Grasselli and T. R. Hurd","Indifference pricing and hedging in stochastic volatility models",,,,,"math.PR math.OC q-fin.PR",,"  We apply the concepts of utility based pricing and hedging of derivatives in
+stochastic volatility markets and introduce a new class of ""reciprocal affine""
+models for which the indifference price and optimal hedge portfolio for pure
+volatility claims are efficiently computable. We obtain a general formula for
+the market price of volatility risk in these models and calculate it explicitly
+for the case of an exponential utility.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 2004 19:01:28 GMT""}]","2008-12-02"
+"math/0404448","Paolo Stellari","Paolo Stellari","Singular cubic fourfolds containing a plane","19 pages. Exposition improved but no new results added to the
+  previous version. Final version to appear in Le Matematiche",,,,"math.AG","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  In this paper we consider cubic 4-folds containing a plane whose discriminant
+curve is a reduced nodal plane sextic. In particular, we describe the singular
+points of such cubic 4-folds and we give an estimate of the rank of the free
+abelian group generated by the equivalence classes of the algebraic cycles of
+codimension 2. Moreover, we describe some conditions on the geometry of the
+plane sextics so that all the associated cubic 4-folds are singular and we
+construct a family of smooth rational cubic 4-folds whose discriminant curve is
+reduced but reducible.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 07:58:51 GMT""},{""version"":""v2"",""created"":""Wed, 25 May 2005 10:01:29 GMT""},{""version"":""v3"",""created"":""Mon, 12 Sep 2011 06:28:14 GMT""}]","2011-09-13"
+"math/0404449","Carlo Antonio Rossi","C. A. Rossi","Principal bundles with groupoid structure: local vs. global theory and
+  nonabelian \u{c}ech cohomology","97 pages; mostly a review, but up to Section 4 there are some (as far
+  as I know) new results, which I personally did not find anywhere else, or I
+  found in a different shape",,,,"math.DG math-ph math.MP",,"  The aim of this paper is to review and discuss in detail local aspects of
+principal bundles with groupoid structure. Many results, in particular from the
+second and third section, are already known to some extents, but, due to the
+lack of a ``unified'' point of view on the subject, I decided nonetheless to
+(re)define all the main concepts and write all proofs; however, some results
+are reformulated in a more elegant way, using the division map and the
+generalized conjugation of a Lie groupoid. In the same framework, I discuss
+later generalized groupoids and Morita equivalences from a local point of view;
+in particular, I found a (so far as I know) new characterization of generalized
+morphisms coming from nonabelian ech cohomology, which allows one to view
+generalized morphisms as a generalization of classical descent data. I found
+also a factorization formula for the division map, which is the crucial point
+in the local formulation of Morita equivalences.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 15:42:28 GMT""}]","2007-05-23"
+"nlin/0404042","Eldad Bettelheim","E. Bettelheim and O. Agam","Tip-splitting evolution in the idealized Saffman-Taylor problem",,"J. Phys. A: Math. Gen. 39 (2006) 1759-1765","10.1088/0305-4470/39/7/018",,"nlin.PS cond-mat.soft nlin.SI",,"  We derive a formula describing the evolution of tip-splittings of
+Saffman-Taylor fingers in a Hele-Shaw cell, at zero surface tension.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 10:44:52 GMT""},{""version"":""v2"",""created"":""Fri, 3 Feb 2006 20:11:57 GMT""}]","2007-05-23"
+"nucl-th/0404070","Yoshikazu Fujiwara","Y. Fujiwara (1), C. Nakamoto (2), Y. Suzuki (3), M. Kohno (4), K.
+  Miyagawa (5) ((1) Kyoto University, (2) Suzuka National College of
+  Technology, (3) Niigata University, (4) Kyushu Dental College, (5) Okayama
+  Science University)","Quark-Model Baryon-Baryon Interaction and its Applications to
+  Hypernuclei","20 pages, 12 figures, 18th Nishinomiya Yukawa Memorial Symposium on
+  Strangeness in Nuclear Matter, 4 - 5 December 2003, Nishinomiya, Japan. (to
+  be published in Prog. Theor. Phys. Suppl.)","Prog.Theor.Phys.Suppl. 156 (2004) 17-36","10.1143/PTPS.156.17",,"nucl-th",,"  The quark-model baryon-baryon interaction fss2, proposed by the Kyoto-Niigata
+group, is a unified model for the complete baryon octet (B_8=N, Lambda, Sigma
+and Xi), which is formulated in a framework of the (3q)-(3q) resonating-group
+method (RGM) using the spin-flavor SU_6 quark-model wave functions and
+effective meson-exchange potentials at the quark level. Model parameters are
+determined to reproduce properties of the nucleon-nucleon system and the
+low-energy cross section data for the hyperon-nucleon scattering. Due to the
+several improvements including the introduction of vector-meson exchange
+potentials, fss2 has achieved very accurate description of the NN and YN
+interactions, comparable to various one-boson exchange potentials. We review
+the essential features of fss2 and our previous model FSS, and their
+predictions to few-body systems in confrontation with the available
+experimental data. Some characteristic features of the B_8 B_8 interactions
+with the higher strangeness, S=-2, -3, -4, predicted by fss2 are discussed.
+These quark-model interactions are now applied to realistic calculations of
+few-body systems in a new three-cluster Faddeev formalism which uses
+two-cluster RGM kernels. As for the few-body systems, we discuss the
+three-nucleon bound states, the Lambda NN-Sigma NN system for the hypertriton,
+the alpha alpha Lambda system for 9Be Lambda, and the Lambda Lambda alpha
+system for 6He Lambda Lambda.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 12:31:44 GMT""}]","2009-11-10"
+"nucl-th/0404071","Yoshikazu Fujiwara","Y. Fujiwara (1), K. Miyagawa (2), M. Kohno (3), Y. Suzuki (4), D. Baye
+  (5), J.-M. Sparenberg (6) ((1) Kyoto University, (2) Okayama Science
+  University, (3) Kyushu Dental College, (4) Niigata University, (5) Universite
+  Libre de Bruxelles, (6) TRIUMF)","Faddeev calculation of 3 alpha and alpha alpha Lambda systems using
+  alpha alpha resonating-group method kernel","23 pages, one figure, submitted to Phys. Rev. C","Phys.Rev. C70 (2004) 024002","10.1103/PhysRevC.70.024002",,"nucl-th",,"  We carry out Faddeev calculations of three-alpha (3 alpha) and two-alpha plus
+Lambda (alpha alpha Lambda) systems, using two-cluster resonating-group method
+kernels. The input includes an effective two-nucleon force for the alpha alpha
+resonating-group method and a new effective Lambda N force for the Lambda alpha
+interaction. The latter force is a simple two-range Gaussian potential for each
+spin-singlet and triplet state, generated from the phase-shift behavior of the
+quark-model hyperon-nucleon interaction, fss2, by using an inversion method
+based on supersymmetric quantum mechanics. Owing to the exact treatment of the
+Pauli-forbidden states between the clusters, the present three-cluster Faddeev
+formalism can describe the mutually related, alpha alpha, 3 alpha and alpha
+alpha Lambda systems, in terms of a unique set of the baryon-baryon
+interactions. For the three-range Minnesota force which describes the alpha
+alpha phase shifts quite accurately, the ground-state and excitation energies
+of 9Be Lambda are reproduced within 100 - 200 keV accuracy.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 08:19:02 GMT""},{""version"":""v2"",""created"":""Tue, 13 Jul 2004 12:03:19 GMT""}]","2009-11-10"
+"physics/0404115","Chang Soon Yong","S. Y. Chang, J. Carlson, V. R. Pandharipande, K. E. Schmidt","Quantum Monte Carlo Studies of Superfluid Fermi Gases","11 figures, 3 tables","Phys.Rev.A70:043602,2004","10.1103/PhysRevA.70.043602",,"physics.atom-ph",,"  We report results of quantum Monte Carlo calculations of the ground state of
+dilute Fermi gases with attractive short range two-body interactions. The
+strength of the interaction is varied to study different pairing regimes which
+are characterized by the product of the s-wave scattering length and the Fermi
+wave vector, $ak_F$. We report results for the ground state energy, the pairing
+gap $\Delta$ and the quasiparticle spectrum. In the weak coupling regime,
+$1/ak_F < -1$, we obtain BCS superfluid and the energy gap $\Delta$ is much
+smaller than the Fermi gas energy $E_{FG}$.
+  When $ a > 0$, the interaction is strong enough to form bound molecules with
+energy $E_{mol}$. For $1/ak_F \gtrsim 0.5$ we find that weakly interacting
+composite bosons are formed in the superfluid gas with $\Delta$ and gas energy
+per particle approaching $|E_{mol}|/2$. In this region we seem to have
+Bose-Einstein condensation (BEC) of molecules. The behavior of the energy and
+the gap in the BCS to BEC transition region, $-0.5 < 1/ak_F < 0.5$ is
+discussed.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 2004 19:28:26 GMT""},{""version"":""v2"",""created"":""Wed, 16 Jun 2004 05:56:49 GMT""}]","2009-02-05"
+"quant-ph/0404140","Shang-Bin Li","Shang-Bin Li, Jing-Bo Xu","Entangling two mode thermal fields through quantum erasing","11 pages, 6 figures, a minor mistake is corrected","Physics Letters A 337 (4-6): 321 (2005)","10.1016/j.physleta.2005.02.003",,"quant-ph",,"  We investigate a possible scheme for entangling two mode thermal fields
+through the quantum erasing process, in which an atom is coupled with two mode
+fields via the interaction governed by the two-mode two-photon Jaynes-Cummings
+model. The influence of phase decoherence on the entanglement of two mode
+fields is discussed. It is found that quantum erasing process can transfer part
+of entanglement between the atom and fields to two mode fields initially in the
+thermal states. The entanglement achieved by fields heavily depends on their
+initial temperature and the detuning. The entanglement of stationary state is
+also investigated.
+","[{""version"":""v1"",""created"":""Sat, 24 Apr 2004 19:20:46 GMT""},{""version"":""v2"",""created"":""Thu, 3 Jun 2004 14:34:45 GMT""}]","2009-11-10"
+"quant-ph/0404141","Wei Song","Wei Song, Ming Yang, Zhuo-Liang Cao","Probabilistic implementation of universal Hadamard and Unitary gates","9 pages, no figures","Physics Letters A, 330, 155-160 (2004)","10.1016/j.physleta.2004.07.060",,"quant-ph",,"  We show that the Hadamard and Unitary gates could be implemented by a unitary
+evolution together with a measurement for any unknown state chosen from a set
+$A = {{| {\Psi_i} > ,| {\bar {\Psi}_i} >}}({i = 1,2})$ if and only if $|
+{\Psi_1} > ,| {\Psi_2} > ,| {\bar {\Psi}_1} > ,| {\bar {\Psi}_2} >$ are
+linearly independent. We also derive the best transformation efficiencies.
+","[{""version"":""v1"",""created"":""Sun, 25 Apr 2004 02:11:34 GMT""},{""version"":""v2"",""created"":""Thu, 2 Sep 2004 12:04:13 GMT""}]","2009-11-10"

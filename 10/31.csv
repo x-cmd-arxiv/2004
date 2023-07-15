@@ -1,0 +1,381 @@
+"astro-ph/0411012","David B. Henley","D.B. Henley (1), I.R. Stevens (1), J.M. Pittard (2) ((1) Univ. of
+  Birmingham, (2) Univ. of Leeds)","Probing the wind-wind collision in Gamma Velorum with high-resolution
+  Chandra X-ray spectroscopy: evidence for sudden radiative braking and
+  non-equilibrium ionization","22 pages, 14 figures. Accepted for publication in MNRAS","Mon.Not.Roy.Astron.Soc. 356 (2005) 1308-1326","10.1111/j.1365-2966.2004.08556.x",,"astro-ph",,"  We present a new analysis of an archived Chandra HETGS X-ray spectrum of the
+WR+O colliding wind binary Gamma Velorum. The spectrum is dominated by emission
+lines from astrophysically abundant elements: Ne, Mg, Si, S and Fe. From a
+combination of broad-band spectral analysis and an analysis of line flux ratios
+we infer a wide range of temperatures in the X-ray emitting plasma (~4-40 MK).
+As in the previously published analysis, we find the X-ray emission lines are
+essentially unshifted, with a mean FWHM of 1240 +/- 30 km/s. Calculations of
+line profiles based on hydrodynamical simulations of the wind-wind collision
+predict lines that are blueshifted by a few hundred km/s. The lack of any
+observed shift in the lines may be evidence of a large shock-cone opening
+half-angle (> 85 degrees), and we suggest this may be evidence of sudden
+radiative braking. From the R and G ratios measured from He-like
+forbidden-intercombination-resonance triplets we find evidence that the Mg XI
+emission originates from hotter gas closer to the O star than the Si XIII
+emission, which suggests that non-equilibrium ionization may be present.
+","[{""version"":""v1"",""created"":""Sat, 30 Oct 2004 16:35:01 GMT""}]","2009-11-10"
+"astro-ph/0411014","Jae-Woo Lee","Bruce W. Carney, Jae-Woo Lee, Benjamin Dodson","Infrared Photometry of NGC 6791","Accepted for publication in AJ (Feb. 2005)","Astron.J.129:656-668,2005","10.1086/426754",,"astro-ph",,"  We present deep JHK photometry of the old and metal-rich open cluster NGC
+6791. The photometry reaches below the main sequence turn-off to K = 16.5 mag.
+We combine our photometry with that from Stetson, Bruntt, & Grundahl (2003) to
+provide color-magnitude diagrams showing K vs. J-K, K vs. V-K, and V vs. V-K.
+We study the slope of the red giant branch in the infrared, but find that it is
+not a useful metallicity indicator for the cluster, nor any metal-rich cluster
+that lacks a well-populated red giant branch, because it is not linear, as has
+often been assumed, in K vs. J-K. The mean color of the red horizontal
+branch/red clump stars provide an estimate the cluster reddening, E(B-V) = 0.14
++/- 0.04 mag for [Fe/H] = +0.4 +/- 0.1. The mean magnitudes of these stars also
+provide a good distance estimate, (m-M)_0 = 13.07 +/- 0.04. Finally, we find
+that the isochrones of Yi, Kim, & Demarque (2003) provide optimal fits in V vs.
+B-V and V-K and K vs. J-K and V-K for such values if [Fe/H] lies between +0.3
+and +0.5 (with a slight preference for +0.5) and ages between 9 Gyrs ([Fe/H] =
++0.3) and 7.5 Gyrs ([Fe/H] = +0.5).
+","[{""version"":""v1"",""created"":""Sat, 30 Oct 2004 23:54:17 GMT""}]","2014-10-13"
+"astro-ph/0411016","Pierre Lesaffre","P. Lesaffre, Ph. Podsiadlowski, C. A. Tout","A two-stream formalism for the convective Urca process","15 pages,9 figures, MNRAS in press","Mon.Not.Roy.Astron.Soc. 356 (2005) 131-144","10.1111/j.1365-2966.2004.08428.x",,"astro-ph",,"  We derive a new formalism for convective motions involving two radial flows.
+This formalism provides a framework for convective models that guarantees
+consistency for the chemistry and the energy budget in the flows, allows
+time-dependence and accounts for the interaction of the convective motions with
+the global contraction or expansion of the star. In the one-stream limit the
+formalism reproduces several existing convective models and allows them to
+treat the chemistry in the flows. We suggest a version of the formalism that
+can be implemented easily in a stellar evolution code. We then apply the
+formalism to convective Urca cores in Chandrasekhar mass white dwarfs and
+compare it to previous studies. We demonstrate that, in degenerate matter,
+nuclear reactions that change the number of electrons strongly influence the
+convective velocities and we show that the net energy budget is sensitive to
+the mixing. We illustrate our model by computing stationary convective cores
+with Urca nuclei. Even a very small mass fraction of Urca nuclei (as little as
+$10^{-8}$) strongly influences the convective velocities. We conclude that the
+proper modelling of the Urca process is essential for determining the ignition
+conditions for the thermonuclear runaway in Chandrasekhar-mass white dwarfs.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 10:50:44 GMT""}]","2009-11-10"
+"astro-ph/0411017","Pierre Lesaffre","P. Lesaffre, Ph. Podsiadlowski, C. A. Tout","The convective Urca process","4 pages, 1 figure, to appear in the 8th Nuclei In Cosmos conference
+  proceedings",,"10.1016/j.nuclphysa.2005.05.086",,"astro-ph",,"  One possible fate of an accreting white dwarf is explosion in a type Ia
+supernova. However, the route to the thermonuclear runaway has always been
+uncertain owing to the lack of a convective model consistent with the Urca
+process.
+  We derive a formalism for convective motions involving two radial flows. This
+formalism provides a framework for convective models that guarantees
+self-consistency for chemistry and energy budget, allows time-dependence and
+describes the interaction of convective motions with the global contraction or
+expansion of the star. In the one-stream limit, we reproduce several already
+existing convective models and allow them to treat chemistry. We also suggest
+as a model easy to implement in a stellar evolution code.
+  We apply this formalism to convective Urca cores in Chandrasekhar mass white
+dwarfs. We stress that in degenerate matter, nuclear reactions that change the
+number of electrons strongly influence the convective velocities. We point out
+the sensitivity of the energy budget on the mixing. We illustrate our model by
+computing {\it stationary} convective cores with Urca nuclei. We show that even
+a very small mass fraction of Urca nuclei ($10^{-8}$) strongly influences the
+convective velocities.
+  Finally, we present preliminary computations of the late evolution of a close
+to Chandrasekhar mass C+O white dwarf including the convective Urca process.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 11:47:18 GMT""}]","2016-08-30"
+"astro-ph/0411018","Renxin Xu","R. X. Xu (PKU), A. Z. Zhou (CAS)","Quarks and Quakes","COSPAR-2004, 6 papges",,,,"astro-ph",,"  A quake model of bare strange stars for normal pulsar glitches is summarized.
+Three mechanisms being responsible for developing elastic stress energy are
+presented. It is suggested that other kinds of glitches (e.g, the frequency
+glitch in KS 1947+300 and in AXP/SGRs) could represent the bulk-strain-induced
+quakes. The apparent field increase of normal pulsars into ``magnetars'' could
+be the result of stellar catastrophic shrinking when the elastic force raises
+to a critical point.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 14:39:46 GMT""}]","2007-05-23"
+"astro-ph/0411019","Damian Christian","D. J. Christian, D. L. Pollacco, W. I. Clarkson, A. Collier Cameron,
+  N. Evans, A. Fitzsimmons, C. A. Haswell, C. Hellier, S. T. Hodgkin, K. Horne,
+  S. R. Kane, F. P. Keenan, T. A. Lister, A. J. Norton, R. Ryans, I. Skillen,
+  R. A. Street, R. G. West, P. J. Wheatley","Current Status of the SuperWASP Project","3 pages, 2 figures, submitted to the Proceedings of the 13th Cool
+  Stars Workshop, Ed. F. Favata, ESA-SP",,,,"astro-ph",,"  We present the current status of the SuperWASP project, a Wide Angle Search
+for Planets. SuperWASP consists of up to 8 individual cameras using ultra-wide
+field lenses backed by high-quality passively cooled CCDs. Each camera covers
+7.8 x 7.8 sq degrees of sky, for nearly 500 sq degrees of sky coverage.
+SuperWASP I, located in LaPalma, is currently operational with 5 cameras and is
+conducting a photometric survey of a large numbers of stars in the magnitude
+range ~7 to 15. The collaboration has developed a custom-built reduction
+pipeline and aims to achieve better than 1 percent photometric precision. The
+pipeline will also produce well sampled light curves for all the stars in each
+field which will be used to detect: planetary transits, optical transients, and
+track Near-Earth Objects. Status of current observations, and expected rates of
+extrasolar planetary detections will be presented. The consortium members,
+institutions, and further details can be found on the web site at:
+http://www.superwasp.org.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 15:53:40 GMT""}]","2007-05-23"
+"cond-mat/0411011","J\""orn Dunkel","J\""orn Dunkel, Peter H\""anggi","Theory of the Relativistic Brownian Motion. The (1+1)-Dimensional Case","see cond-mat/0607082 for an improved theory","Phys. Rev. E 71, 016124 (2005)","10.1103/PhysRevE.71.016124",,"cond-mat.stat-mech",,"  We construct a theory for the 1+1-dimensional Brownian motion in a viscous
+medium, which is (i) consistent with Einstein's theory of special relativity,
+and (ii) reduces to the standard Brownian motion in the Newtonian limit case.
+In the first part of this work the classical Langevin equations of motion,
+governing the nonrelativistic dynamics of a free Brownian particle in the
+presence of a heat bath (white noise), are generalized in the framework of
+special relativity. Subsequently, the corresponding relativistic Langevin
+equations are discussed in the context of the generalized Ito (pre-point
+discretization rule) vs. the Stratonovich (mid-point discretization rule)
+dilemma: It is found that the relativistic Langevin equation in the
+Haenggi-Klimontovich interpretation (with the post-point discretization rule)
+is the only one that yields agreement with the relativistic Maxwell
+distribution. Numerical results for the relativistic Langevin equation of a
+free Brownian particle are presented.
+","[{""version"":""v1"",""created"":""Sat, 30 Oct 2004 18:40:39 GMT""},{""version"":""v2"",""created"":""Fri, 29 Sep 2006 14:44:50 GMT""}]","2009-11-10"
+"cond-mat/0411013","Yuki Fuseya","Y. Fuseya and Y. Suzumura","Superconductivity and Density Wave in the Quasi-One-Dimensional Systems:
+  Renormalization Group Study","8 pages, 4 figures, submitted to J. Phys. Soc. Jpn",,"10.1143/JPSJ.74.1263",,"cond-mat.str-el cond-mat.supr-con",,"  The anisotropic superconductivity and the density wave have been investigated
+by applying the Kadanoff-Wilson renormalization group technique to the
+quasi-one-dimensional system with finite-range interactions. It is found that a
+temperature (T) dependence of response functions is proportional to exp(1/T) in
+a wide region of temperature even within the one-loop approximation. Transition
+temperatures are calculated to obtain the phase diagram of the
+quasi-one-dimensional system, which is compared with that of the
+pure-one-dimensional system. Next-nearest neighbor interactions (V_2) induce
+large charge fluctuations, which suppress the d_{x^2 -y^2}-wave singlet
+superconducting (dSS) state and enhance the f-wave triplet superconducting
+(fTS) state. From this effect, the transition temperature of fTS becomes
+comparable to that of dSS for large V_2, so that field-induced f-wave triplet
+pairing could be possible. These features are discussed to comprehend the
+experiments on the (TMTSF)_2PF_6 salt.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 06:19:00 GMT""}]","2009-11-10"
+"gr-qc/0411007","Xinhe Meng","Xin He Meng and Peng Wang","Palatini formulation of the $R^{-1}$modified gravity with an
+  additionally squared scalar curvature term","14 pages, accepted for publication by CQG","Class.Quant.Grav. 22 (2005) 23-32","10.1088/0264-9381/22/1/002",,"gr-qc",,"  In this paper by deriving the Modified Friedmann equation in the Palatini
+formulation of $R^2$ gravity, first we discuss the problem of whether in
+Palatini formulation an additional $R^2$ term in Einstein's General Relativity
+action can drive an inflation. We show that the Palatini formulation of $R^2$
+gravity cannot lead to the gravity-driven inflation as in the metric formalism.
+If considering no zero radiation and matter energy densities, we obtain that
+only under rather restrictive assumption about the radiation and matter energy
+densities there will be a mild power-law inflation $a(t)\sim t^2$, which is
+obviously different from the original vacuum energy-like driven inflation. Then
+we demonstrate that in the Palatini formulation of a more generally modified
+gravity, i.e., the $1/R+R^2$ model that intends to explain both the current
+cosmic acceleration and early time inflation, accelerating cosmic expansion
+achieved at late Universe evolution times under the model parameters satisfying
+$\alpha\ll\beta$.
+","[{""version"":""v1"",""created"":""Sat, 30 Oct 2004 22:39:38 GMT""}]","2009-11-10"
+"gr-qc/0411008","Piotr T. Chru\'sciel","Piotr T. Chrusciel","Recent results in mathematical relativity","16 pages, to appear in the proceedings of GRG17, Dublin",,"10.1142/9789812701688_0005",,"gr-qc",,"  We review selected recent results concerning the global structure of
+solutions of the vacuum Einstein equations. The topics covered include
+quasi-local mass, strong cosmic censorship, non-linear stability, new
+constructions of solutions of the constraint equations, improved understanding
+of asymptotic properties of the solutions, existence of solutions with low
+regularity, and construction of initial data with trapped surfaces or apparent
+horizons.
+  This is an expanded version of a plenary lecture, sponsored by Classical and
+Quantum Gravity, held at the GR17 conference in Dublin in July 2004.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 10:12:02 GMT""}]","2017-08-23"
+"hep-ph/0411006","Yogendra Srivastava","G. Pancheri, R. Godbole, A. Grau, Y. N. Srivastava","Total Cross-sections and Bloch-Nordsieck Gluon Resummation","Presented by G. Pancheri at ISMD04, Sonoma State University. Under
+  publication in Acta Physica Polonica. LaTeX format, 10 *.eps files, 7 pages","Acta Phys.Polon. B36 (2005) 735-742",,,"hep-ph",,"  The physics underlying the fall and eventual rise in various total
+cross-sections at high energies has been investigated over a decade using a
+model based on the Bloch-Nordsieck resummation in QCD. Here a brief review of
+our latest results is presented and comparison made with experimental data on
+$pp$, $\gamma proton$ and $\gamma \gamma$ total cross-sections.
+","[{""version"":""v1"",""created"":""Sat, 30 Oct 2004 20:08:32 GMT""}]","2007-05-23"
+"hep-ph/0411007","Yogendra Srivastava","G. Pancheri, Y. Srivastava, N. Staffolani","A sum rule for elastic scattering","Presented by Y. Srivastava at ISMD04, Sonoma State University. Under
+  publication in Acta Physica Polonica. Latex format, 1 *.eps file, 7 pages","Acta Phys.Polon. B36 (2005) 749-754",,,"hep-ph",,"  A sum rule is derived for elastic scattering of hadrons at high energies
+which is in good agreement with experimental data on $p\bar{p}$ available upto
+the maximum energy $\sqrt{s} = 2 TeV$. Physically, our sum rule reflects the
+way unitarity correlates and limits how large the elastic amplitude can be as a
+function of energy to how fast it decreases as a function of the momentum
+transfer. The universality of our result is justified through our earlier
+result on equipartition of quark and glue momenta obtained from the virial
+theorem for massless quarks and the Wilson conjecture
+","[{""version"":""v1"",""created"":""Sat, 30 Oct 2004 20:21:55 GMT""}]","2007-05-23"
+"hep-ph/0411008","Adrian Signer","M.Beneke, N.Kauer, A.Signer, G.Zanderighi","Towards pair production near threshold with unstable particle effective
+  theory","Invited talk given at the 11th International Conference on QCD,
+  Montpellier, France (5--10th July 2004)","Nucl.Phys.Proc.Suppl.152:162-167,2006","10.1016/j.nuclphysbps.2005.08.031",,"hep-ph",,"  We illustrate the use of effective theory techniques to describe processes
+involving unstable particles close to resonance. First, we present the main
+ideas in the context of a scalar resonance in an Abelian gauge-Yukawa model. We
+then outline the necessary modifications to describe W-pair production close to
+threshold in electron-positron collisions.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 11:09:25 GMT""}]","2009-11-10"
+"hep-th/0411008","Horacio E. Camblong","Horacio E. Camblong, Carlos R. Ordonez","Black Hole Thermodynamics from Near-Horizon Conformal Quantum Mechanics","16 pages. Sections 2 and 3 and sections 4 and 5 of version 1 were
+  merged and reduced; a few typos were corrected. The original central results
+  and equations remain unchanged","Phys.Rev.D71:104029,2005","10.1103/PhysRevD.71.104029",,"hep-th gr-qc quant-ph",,"  The thermodynamics of black holes is shown to be directly induced by their
+near-horizon conformal invariance. This behavior is exhibited using a scalar
+field as a probe of the black hole gravitational background, for a general
+class of metrics in D spacetime dimensions (with $D \geq 4$). The ensuing
+analysis is based on conformal quantum mechanics, within a hierarchical
+near-horizon expansion. In particular, the leading conformal behavior provides
+the correct quantum statistical properties for the Bekenstein-Hawking entropy,
+with the near-horizon physics governing the thermodynamic properties from the
+outset. Most importantly: (i) this treatment reveals the emergence of
+holographic properties; (ii) the conformal coupling parameter is shown to be
+related to the Hawking temperature; and (iii) Schwarzschild-like coordinates,
+despite their ``coordinate singularity,''can be used self-consistently to
+describe the thermodynamics of black holes.
+","[{""version"":""v1"",""created"":""Sat, 30 Oct 2004 16:25:46 GMT""},{""version"":""v2"",""created"":""Thu, 9 Jun 2005 16:41:49 GMT""}]","2009-09-29"
+"math/0411005","Alfred J. van der Poorten AM","Alfred J. van der Poorten","Quadratic irrational integers with partly prescribed continued fraction
+  expansion","10 pages; dedicated to the memory of Bela Brindza",,,"ALF'S PREPRINTS 165","math.NT",,"  We generalise remarks of Euler and of Perron by explaining how to detail all
+quadratic irrational integers for which the symmetric part of the period of
+their continued fraction expansion commences with prescribed partial quotients.
+The function field case is particularly striking.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 01:01:27 GMT""}]","2007-05-23"
+"math/0411006","Hiroshi Oda","Hiroshi Oda, Toshio Oshima","Minimal polynomials and annihilators of generalized Verma modules of the
+  scalar type","57 pages. v2: Accepted for publication in J. Lie Theory. Some details
+  are changed to increase accessibility","Journal of Lie Theory 16 (2006), No. 1, 155-219",,"UTMS-2004-3","math.RT math.RA",,"  Let g be a complex reductive Lie algebra and U(g) the universal enveloping
+algebra of g. Associated to a faithful irreducible finite dimensional
+representation of g, a square matrix F with entries in U(g) naturally arises
+and if we consider the entries of F are elements in End(M) of a given
+U(g)-module M, the minimal polynomial of F is defined as the usual one for an
+associative algebra over the complex field. Suppose M is a generalized Verma
+module induced from a character of a parabolic subalgebra of g. In this paper a
+polynomial q(x) with the parameter of the character is constructed, which
+equals the minimal polynomial for the generic parameter. Then the two-sided
+ideal of U(g) generated by the entries of q(F) is studied. We give a sufficient
+condition for the parameter such that the ideal describes the difference of two
+left ideals related to M and the corresponding Verma module. The result has
+many applications. For example we can explicitly give a generator system of the
+annihilator of M for the generic parameter. This paper also deals with many
+concrete examples.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 04:04:16 GMT""},{""version"":""v2"",""created"":""Sun, 31 Jul 2005 04:27:44 GMT""}]","2007-05-23"
+"math/0411007","Ewa Krot","Ewa Krot","The First Ascent into the Incidence Algebra of the Fibonacci Cobweb
+  Poset","7 pages","Advanced Studies in Conterporary Mathematics 11 (2005), No. 2,
+  179-184",,,"math.CO cs.DM",,"  The explicite formulas for m\""{o}biusien function and some other important
+elements of the incidence algebra are delivered. For that to do one uses
+kwa\'sniewski's construction of his fibonacci cobweb poset in the plane grid
+coordinate system.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 12:46:51 GMT""}]","2016-09-07"
+"math/0411008","Carlo Marinelli","Sergio Albeverio and Carlo Marinelli","On the reconstruction of the drift of a diffusion from transition
+  probabilities which are partially observed in space","12 pages, amsart",,,,"math.PR math.ST stat.TH",,"  The problem of reconstructing the drift of a diffusion in $\erre^d$, $d\geq
+2$, from the transition probability density observed outside a domain is
+considered. The solution of this problem also solves a new inverse problem for
+a class of parabolic partial differential equations. This work considerably
+extends \cite{jsp} in terms of generality, both concerning assumptions on the
+drift coefficient, and allowing for non-constant diffusion coefficient.
+Sufficient conditions for solvability of this type of inverse problem for $d=1$
+are also given.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 12:46:53 GMT""}]","2007-06-13"
+"math/0411009","Eran Nevo","Eran Nevo","Embeddability and Stresses of Graphs","13 pages, 1 figure","Combinatorica 27 (2007), no. 4, 465--472.",,,"math.CO",,"  Gluck (1975) has proven that triangulated 2-spheres are generically 3-rigid.
+Equivalently, planar graphs are generically 3-stress free. We show that
+linklessly embeddable graphs are generically 4-stress free. Both of these
+results are corollaries of the following theorem: every K_{r+2}-minor free
+graph is generically r-stress free for 0<r<5. (This assertion is false for
+r>5.) We give an equivalent formulation of this theorem in the language of
+symmetric algebraic shifting and show that its analogue for exterior algebraic
+shifting also holds. Some further extensions are detailed.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 14:05:13 GMT""}]","2008-09-05"
+"math/0411010","Guofang Wang","Knut Smoczyk, Guofang Wang and Y. L. Xin","Mean curvature flow with flat normal bundles","19 pages, 1 figure",,,,"math.DG math.AP",,"  We show that flatness of the normal bundle is preserved under the mean
+curvature flow in the Euclidean space and use this to generalize a classical
+result for hypersurfaces due to Ecker-Huisken in the case of submanifolds with
+arbitrary codimension.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 15:17:16 GMT""}]","2007-05-23"
+"math/0411011","Nathanael Berestycki","Nathana\""el Berestycki","The hyperbolic geometry of random transpositions","Published at http://dx.doi.org/10.1214/009117906000000043 in the
+  Annals of Probability (http://www.imstat.org/aop/) by the Institute of
+  Mathematical Statistics (http://www.imstat.org)","Annals of Probability 2006, Vol. 34, No. 2, 429-467","10.1214/009117906000000043","IMS-AOP-AOP0141","math.PR math.CO",,"  Turn the set of permutations of $n$ objects into a graph $G_n$ by connecting
+two permutations that differ by one transposition, and let $\sigma_t$ be the
+simple random walk on this graph. In a previous paper, Berestycki and Durrett
+[In Discrete Random Walks (2005) 17--26] showed that the limiting behavior of
+the distance from the identity at time $cn/2$ has a phase transition at $c=1$.
+Here we investigate some consequences of this result for the geometry of $G_n$.
+Our first result can be interpreted as a breakdown for the Gromov hyperbolicity
+of the graph as seen by the random walk, which occurs at a critical radius
+equal to $n/4$. Let $T$ be a triangle formed by the origin and two points
+sampled independently from the hitting distribution on the sphere of radius
+$an$ for a constant $0<a<1$. Then when $a<1/4$, if the geodesics are suitably
+chosen, with high probability $T$ is $\delta$-thin for some $\delta>0$, whereas
+it is always O(n)-thick when $a>1/4$. We also show that the hitting
+distribution of the sphere of radius $an$ is asymptotically singular with
+respect to the uniform distribution. Finally, we prove that the critical
+behavior of this Gromov-like hyperbolicity constant persists if the two
+endpoints are sampled from the uniform measure on the sphere of radius $an$.
+However, in this case, the critical radius is $a=1-\log2$.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 15:59:46 GMT""},{""version"":""v2"",""created"":""Tue, 21 Dec 2004 17:07:33 GMT""},{""version"":""v3"",""created"":""Thu, 25 May 2006 09:31:00 GMT""}]","2016-08-16"
+"nucl-th/0411002","Fedor Simkovic","P. Domin, S. Kovalenko, F. Simkovic, S.V. Semenov","Neutrino accompanied beta^-beta^-, beta^+beta^+, beta^+/EC and EC/EC
+  processes within single state dominance hypothesis","17 pages including 3 eps figure","Nucl.Phys. A753 (2005) 337-363","10.1016/j.nuclphysa.2005.03.003",,"nucl-th",,"  The systematic study of (anti-)neutrino accompanied beta^-beta^-,
+beta^+beta^+ decays and beta^+/EC, EC/EC electron captures is performed under
+the assumption of single intermediate nuclear state dominance. The
+corresponding half-lives are evaluated both for transitions to the ground state
+as well as to the 0^+ and 2^+ excited states of final nucleus. It is stressed
+that the hypothesis of single state dominance can be confirmed or ruled out by
+the precision measurements of the differential characteristics of the
+2nbb-decays of 100Mo and 116Cd as well as beta^+/EC electron capture in 106Cd,
+130Ba and 136Ce.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 14:48:05 GMT""}]","2009-11-10"
+"physics/0411005","Zhen Ye","Zhen Ye","Acoustic scattering by periodic arrays of air-bubbles","18 pages, 10 figures","Acta Acustica 89, 435-444 (2003)",,,"physics.class-ph physics.gen-ph",,"  This paper considers acoustic scattering by and propagation through line and
+plane arrays of air-bubbles in liquid media. The self-consistent method is used
+to derive the effective scattering function of a single bubble embedded in the
+arrays, incorporating all multiple scattering processes. For the line case, an
+exact result is derived. In the plane array situation, only an approximate
+analytic result is possible. Numerical computations have been carried out to
+show the multiple scattering effects on wave scattering. It is shown that
+depending on the distance between bubbles the resonance peak of a single bubble
+can either be broadened or narrowed due to multiple scattering and it shows an
+oscillatory behavior as the distance changes. Meanwhile, the peak scattering
+amplitude is also be either enhanced or reduced. The previously predicted
+strong enhancement, however, is not evident. For plane arrays, the usual
+resonant scattering of a single bubble in absence of other bubbles can be
+suppressed by multiple scattering when the distance between bubbles is
+sufficiently small. As the distance increases, the resonant scattering starts
+to appear, and the resonance peak position is alternately shifted towards
+higher and lower values. Moreover, it is predicted that wave propagation
+through a plane bubble array can be significantly inhibited in a range of
+frequencies slightly higher than the natural frequency of a single bubble,
+possibly a useful feature for noise screening. The ambiguities in the previous
+results are pointed out.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 01:43:52 GMT""}]","2007-05-23"
+"physics/0411007","Laura Lising","Laura Lising and Andrew Elby (University of Maryland - College Park.)","The impact of epistemology on learning: A case study from introductory
+  physics","11 pages, 1 figure, accepted to the American Journal of Physics",,"10.1119/1.1848115",,"physics.ed-ph",,"  We discuss a case study of the influence of epistemology on learning for a
+student in an introductory college physics course. An analysis of videotaped
+class work, written work, and interviews indicates that many of the student's
+difficulties were epistemological in nature. Our primary goal is to show
+instructors and curriculum developers that a student's epistemological stance -
+her ideas about knowledge and learning - can have a direct, causal influence on
+her learning of physics. This influence exists even when research-based
+curriculum materials provide implicit epistemological support. For this reason,
+curriculum materials and teaching techniques could become more effective by
+explicitly attending to students' epistemologies.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 12:19:52 GMT""},{""version"":""v2"",""created"":""Thu, 11 Nov 2004 04:20:58 GMT""}]","2009-11-10"
+"q-bio/0411003","Kai Wang","Kai Wang, Nilanjana Banerjee, Adam Margolin, Ilya Nemenman, Katia
+  Basso, Riccardo Favera, Andrea Califano","Conditional Network Analysis Identifies Candidate Regulator Genes in
+  Human B Cells","Submitted to RECOMB 2005 (11 pages, 4 figures, 2 tables)",,,,"q-bio.MN q-bio.GN q-bio.QM",,"  Cellular phenotypes are determined by the dynamical activity of networks of
+co-regulated genes. Elucidating such networks is crucial for the understanding
+of normal cell physiology as well as for the dissection of complex pathologic
+phenotypes. Existing methods for such ""reverse engineering"" of genetic networks
+from microarray expression data have been successful only in prokaryotes (E.
+coli) and lower eukaryotes (S. cerevisiae) with relatively simple genomes.
+Additionally, they have mostly attempted to reconstruct average properties
+about the network connectivity without capturing the highly conditional nature
+of the interactions. In this paper we extend the ARACNE algorithm, which we
+recently introduced and successfully applied to the reconstruction of
+whole-genome transcriptional networks from mammalian cells, precisely to link
+the existence of specific network structures to the expression or lack thereof
+of specific regulator genes. This is accomplished by analyzing thousands of
+alternative network topologies generated by constraining the data set on the
+presence or absence of putative regulator genes. By considering interactions
+that are consistently supported across several such constraints, we identify
+many transcriptional interactions that would not have been detectable by the
+original method. By selecting genes that produce statistically significant
+changes in network topology, we identify novel candidate regulator genes.
+Further analysis shows that transcription factors, kinases, phosphatases, and
+other gene families known to effect biochemical interactions, are significantly
+overrepresented among the set of candidate regulator genes identified in
+silico, indirectly supporting the validity of the approach.
+","[{""version"":""v1"",""created"":""Sat, 30 Oct 2004 22:40:45 GMT""}]","2007-05-23"
+"quant-ph/0411002","Fardin Kheirandish","F. Kheirandish and M. Amooshahi","Electromagnetic field quantization in a linear dielectric medium","19 pages, No figures",,,,"quant-ph",,"  By modeling a dielectric medium with two independent reservoirs, i.e.,
+electric and magnetic reservoirs, the electromagnetic field is quantized in a
+linear dielectric medium consistently. A Hamiltonian is proposed from which
+using the Heisenberg equations, not only the Maxwell equations but also the
+structural equations can be obtained. Using the Laplace transformation, the
+wave equation for the electromagnetic vector potential is solved in the case of
+a homogeneous dielectric medium. Some examples are considered showing the
+applicability of the model to both absorptive and nonabsorptive dielectrics.
+","[{""version"":""v1"",""created"":""Sat, 30 Oct 2004 20:09:24 GMT""},{""version"":""v2"",""created"":""Sun, 13 Nov 2005 04:20:21 GMT""}]","2007-05-23"
+"quant-ph/0411003","Alexander A. Kokin Dr.","A.A. Kokin","The controlled indirect coupling between spatially-separated qubits in
+  antiferromagnet-based NMR quantum registers","Latex 5 pages, 1 figure. Presented at International Symposium
+  ""Quantum Informatics 2004"" Moscow, October 5-8, 2004. Will be published in
+  Proc. SPIE",,"10.1117/12.620505",,"quant-ph",,"  It is considered the indirect inter-qubit coupling in 1D chain of atoms with
+nuclear spins 1/2, which plays role of qubits in the quantum register. This
+chain of the atoms is placed by regular way in easy-axis 3D antiferromagnetic
+thin plate substrate, which is cleaned from the other nuclear spin containing
+isotopes. It is shown that the range of indirect inter-spin coupling may run to
+a great number of lattice constants both near critical point of quantum phase
+transition in antiferromagnet of spin-flop type (control parameter is external
+magnetic field) and/or near homogeneous antiferromagnetic resonance (control
+parameter is microwave frequency).
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 08:30:05 GMT""}]","2009-11-10"
+"quant-ph/0411004","Hoi-Kwong Lo","Hoi-Kwong Lo, Xiongfeng Ma, and Kai Chen (Center for Quantum
+  Information and Quantum Control, University of Toronto)","Decoy State Quantum Key Distribution","Slightly shortened version. Accepted for publication in PRL","Physical Review Letters, 94 (2005) 230504","10.1103/PhysRevLett.94.230504",,"quant-ph",,"  There has been much interest in quantum key distribution. Experimentally,
+quantum key distribution over 150 km of commercial Telecom fibers has been
+successfully performed. The crucial issue in quantum key distribution is its
+security. Unfortunately, all recent experiments are, in principle, insecure due
+to real-life imperfections. Here, we propose a method that can for the first
+time make most of those experiments secure by using essentially the same
+hardware. Our method is to use decoy states to detect eavesdropping attacks. As
+a consequence, we have the best of both worlds--enjoying unconditional security
+guaranteed by the fundamental laws of physics and yet dramatically surpassing
+even some of the best experimental performances reported in the literature.
+","[{""version"":""v1"",""created"":""Sun, 31 Oct 2004 14:44:27 GMT""},{""version"":""v2"",""created"":""Thu, 20 Jan 2005 00:16:12 GMT""},{""version"":""v3"",""created"":""Fri, 6 May 2005 13:45:15 GMT""},{""version"":""v4"",""created"":""Thu, 12 May 2005 03:04:06 GMT""}]","2009-11-10"
